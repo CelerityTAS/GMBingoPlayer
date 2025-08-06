@@ -1,0 +1,50 @@
+RecordCount: 26
+console load 1
+   1
+
+
+#Start
+Read, ../CelesteTAS/1A, Start, lvl_4
+#lvl_4
+   7,R,J
+  11,J
+  15,U,Z
+   3,R,J,G
+   7,R
+   4,D,X
+   1,R,J
+   9,R,D
+   1,R,J
+   2,J
+   1,R,J
+   5,R
+   3,R,J
+   1,L,K,G
+  12,U,X
+   5,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+   1,K
+  40
+
+#lvl_3b
+   9,R,J,G
+   8,R
+  13,R,J
+  11,U,X
+  25,R,J
+   5,R
+# +9 collect
+   1,R
+   5
+   3,R
+   4,R,U,Z
+# collect
+   9,R,U,Z
+   1,L
+  10,J,G
+  40
+
+#lvl_6
+Read, ../CelesteTAS/1A, lvl_5, lvl_6

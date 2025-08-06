@@ -1,0 +1,17 @@
+# some commands for setup
+Set, BingoClient.MenuToggle, E
+Unsafe
+   1,O
+Add 131
+
+#Prologue
+1153
+Read, CelesteTAS/0 - Prologue, Start
+  32
+Read,CelesteTAS/LoadANoCollects,Prologue
+
+Read, objective repository/1A-winged-start, Start
+Read, objective repository/1A-theo-crossing, Start
+Read, objective repository/1A-winged-chasm, Start
+
+ 200
