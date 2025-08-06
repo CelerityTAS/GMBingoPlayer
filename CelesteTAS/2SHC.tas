@@ -1,0 +1,66 @@
+console load 2
+   1
+
+#Start
+ 190
+
+#lvl_start (0)
+Read,2HC,lvl_start (0),lvl_start (2)
+
+#lvl_start (2)
+Read,2S,Start,lvl_d0 (2)
+
+#lvl_d0 (2)
+   2,L
+  41,L,D
+  21,D
+  43,D,X
+  40
+
+#lvl_d9
+Read,2HC,lvl_d9,Return
+ 123
+   3,L
+  15,L,U,Z
+   3,R,K,G
+   2,R,J,G
+   1,J
+   1,R,K,G
+   1,R,J,G
+   1,K
+  40
+
+#lvl_d0 (3)
+   1,R,J,G
+   1,K
+   1,J,G
+   1,L,J
+   1,L,K,G
+   7,L,J,G
+  35,U,X
+  13,L,D,C
+   2,L,J
+   8,L,U,X
+   1,L,J,G
+  12,L
+   2,L,J
+  40
+
+#lvl_d6
+  15,L,J
+  14,L,U,X
+   1,R,J,G
+   6,L,J
+   5,L
+   2,L,J
+   3,L
+   6,L,J
+   3,L
+  24,L,U,X
+   6,L,J
+   9,U,X
+  43
+
+#lvl_d1
+Read,2S,lvl_d1
+FileTime: 2:56.834(10402)

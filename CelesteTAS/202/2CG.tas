@@ -1,0 +1,23 @@
+console rmx2 2
+   1
+
+#Start
+  91
+
+#lvl_00
+# +9f
+   1,J
+   6,R,J
+   2,J
+  10,R,D,X
+   1,R,J
+  11,R
+  23,R,U,X
+Read,../2C,2CG1,2CG2
+
+#lvl_02 (1)
+   1,S
+   1,U,J
+   1,O
+  31
+FileTime: 0:19.601(1153)

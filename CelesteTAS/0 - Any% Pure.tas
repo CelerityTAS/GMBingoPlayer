@@ -1,0 +1,16 @@
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,LoadEnableCheatMode,Start
+
+#Epilogue
+   1,X
+  42
+Repeat,8
+   1,R
+   9
+EndRepeat
+Read,LoadJournal
+
+FileTime: 0:04.046(238)
