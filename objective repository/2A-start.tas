@@ -1,0 +1,7 @@
+RecordCount: 2
+
+console load 2
+   1
+
+#Start
+Read, ../CelesteTAS/2A, Start, lvl_3

@@ -10,8 +10,21 @@ Read, CelesteTAS/0 - Prologue, Start
   32
 Read,CelesteTAS/LoadANoCollects,Prologue
 
-Read, objective repository/1A-winged-start, Start
-Read, objective repository/1A-theo-crossing, Start
-Read, objective repository/1A-winged-chasm, Start
+Read, objective repository/1A-start, Start
+Read, objective repository/1A-crossing, Start
+Read, objective repository/1A-chasm, Start
 
- 200
+Read, CelesteTAS/LoadA
+
+Read, objective repository/2A-start, Start
+Read, objective repository/2A-intervention, Start
+Read, objective repository/2A-awake, Start
+
+Read, CelesteTAS/LoadA
+
+Read, objective repository/3A-start, Start
+Read, objective repository/3A-any-hugemess, Start
+Read, objective repository/3A-shaft, Start
+Read, objective repository/3A-pesidentialsuite, Start
+
+Read, CelesteTAS/LoadA
