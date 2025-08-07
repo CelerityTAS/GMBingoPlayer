@@ -1,0 +1,19 @@
+RecordCount: 38
+
+
+Read, 5A-start
+Read, 5A-depths, Start
+#Start
+#lvl_c-00
+ 111
+   1,S
+Read, SnQReentercustom
+#RTM
+  36
+
+Read,../CelesteTAS/5S,Unravelling,lvl_c-08
+
+#lvl_c-08
+Read, ../CelesteTAS/5A, lvl_c-08, lvl_c-07
+#lvl_c-07
+Read,../CelesteTAS/5S,lvl_c-07,lvl_d-00

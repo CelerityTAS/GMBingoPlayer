@@ -85,5 +85,16 @@ Read, 2A-start
 Read, 2A-intervention, Start
 #Start
 #lvl_end_0
-Read, ../CelesteTAS/2A, lvl_end_0
+ 110
+   1,S
+Read, SnQReentercustom
+  36
+   5,L,D,X
+   2,R,J
+   8,R
+   4,D,X
+   1,R,J
+   5,R
+  40
+Read, ../CelesteTAS/2A, lvl_end_1
 #2Aawakeend

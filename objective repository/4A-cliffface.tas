@@ -1,0 +1,56 @@
+RecordCount: 73
+
+
+console load 4 lvl_d-00
+   1
+#RTM
+#lvl_d-00
+  36
+  14,Z
+   1,R,J
+   2,R
+   1,R,J
+   5,R
+  12,R,D,X
+   1,R,J
+   6,R
+   7,R,D,J
+   5,R,D,X
+   2,R,J,G
+   8,R
+   1,R,J
+   3,R
+   1,R,J
+  14,R
+   5,R,J
+  43
+Play, 4acliffend
+
+Read, 4A-start
+Read, 4A-shrine, Start
+Read, 4A-oldtrail, Start
+#Start
+   1,R,J,G
+  10,R
+   4,Z
+   1,R,J
+   2,R
+   4,R,J
+   4,R
+  12,R,D,X
+   1,R,J
+   6,R
+   7,R,D,J
+   5,R,D,X
+   2,R,J,G
+   8,R
+   1,R,J
+   3,R
+   1,R,J
+  14,R
+   5,R,J
+  43
+
+#4acliffend
+#lvl_d-01
+Read, ../CelesteTAS/4A, lvl_d-01

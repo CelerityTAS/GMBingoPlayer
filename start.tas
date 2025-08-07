@@ -1,4 +1,5 @@
 # some commands for setup
+# start on begin and make sure that the file "saveandquitreenter" has the first frame unpaused, if in bingo and paused, if in regular everest
 Set, BingoClient.MenuToggle, E
 Unsafe
    1,O
@@ -28,3 +29,16 @@ Read, objective repository/3A-shaft, Start
 Read, objective repository/3A-pesidentialsuite, Start
 
 Read, CelesteTAS/LoadA
+
+Read, objective repository/4A-start, Start
+Read, objective repository/4A-shrine, Start
+Read, objective repository/4A-oldtrail, Start
+Read, objective repository/4A-cliffface, Start
+
+Read, CelesteTAS/LoadA
+
+Read, objective repository/5A-start, Start
+Read, objective repository/5A-depths, Start
+Read, objective repository/5A-unraveling, Start
+Read, objective repository/5A-search, Start
+Read, objective repository/5A-rescue, Start
