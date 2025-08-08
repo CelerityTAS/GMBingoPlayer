@@ -12,14 +12,14 @@ Read, CelesteTAS/0 - Prologue, Start
 Read,CelesteTAS/LoadANoCollects,Prologue
 
 Read, objective repository/1A-start, Start
-Read, objective repository/1A-crossing, Start
+Read, objective repository/1A-theo-crossing, Start
 Read, objective repository/1A-chasm, Start
 
 Read, CelesteTAS/LoadA
 
-Read, objective repository/2A-start, Start
-Read, objective repository/2A-intervention, Start
-Read, objective repository/2A-awake, Start
+Read, objective repository/2A-grabless-start, Start
+Read, objective repository/2A-grabless-intervention, Start
+Read, objective repository/2A-grabless-awake, Start
 
 Read, CelesteTAS/LoadA
 

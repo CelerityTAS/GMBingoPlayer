@@ -1,0 +1,97 @@
+RecordCount: 132
+
+console load 3 lvl_09-d
+   1
+
+#RTM
+  36
+   9,L,J
+  15,U,Z
+  19,R,J
+   1,L,K
+  12,L,J
+  12,R,K
+  12,L,J
+  12,R,K
+  11,R,J,G
+   1,R
+   1,K
+  11,L,J
+   1,L
+   1,K
+   6,R,K
+   7,R
+   4,Z
+   1,R,J
+  18,R,D
+  30
+Play, talktheoelevator
+
+console load 3 4705.4 -287
+  37
+   9,U,Z
+   1,J
+  40
+
+#lvl_09-d
+#Start
+   1,L
+   1,R
+   1,R,J,G
+   1,R,K,G
+   8,R,J,G
+  13,R,X
+  12,R,J
+   3,R,K,G
+  15,U,Z
+  19,R,J
+   1,L,K
+  12,L,J
+  12,R,K
+  11,L,J
+   1,L
+  11,R,K
+   1,R
+  11,R,J,G
+   1,R
+   1,K
+   3,J
+  10,L,J
+   1,L
+   1,K
+   5,J,G
+   7,R,J
+   8,R
+   4,Z
+   1,R,J
+  14,R,D
+   4,D
+  29
+
+#talktheoelevator
+   1,N
+  10
+Repeat, 250
+   1,J
+   1,O
+EndRepeat
+ 104
+  10,L,X
+  10,L,J
+   3,L,K,G
+   5,L
+   1,L
+   1,K
+   3
+   1,K
+   6
+   4,Z
+   2,L,J
+   1,L,K,G
+   9,L
+   2,L,J
+  21,L,D,X
+  40
+
+#lvl_08-d
+Read, ../CelesteTAS/3A, lvl_08-d, lvl_00-d

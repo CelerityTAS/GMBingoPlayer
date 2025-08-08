@@ -1,0 +1,156 @@
+RecordCount: 294
+
+console load 5 d-00
+   1
+#RTM
+  36
+#lvl_d-00 (0)
+   5,R,Z
+   3,L,J
+   1,L,K,G
+   6,L
+   1,L,J
+   1,L
+   1,S
+   1,D,J
+  34
+   2,L,J
+   1,L
+   1
+   1,L,J
+  10,J
+   2
+  13,U,Z
+   9,R,J
+Play, 5ASearchend
+
+console load 5 3099.32226514816 2473.29146420956 343.33328 -44.999878
+  37
+   1,R,J
+  40
+Read,../CelesteTAS/5S,lvl_c-13,lvl_d-00
+#Start
+#lvl_d-00 (1)
+  10,L,J
+   1,L
+   5,L,Z
+   1,L,J
+   4,L
+   1,S
+   1,D,J
+  34
+   2,L
+   1,L,J
+  11,L,K
+   2,L
+  13,U,Z
+   9,R,J
+#5ASearchend
+Read, ../CelesteTAS/5S, Search, lvl_d-01 (0)
+#lvl_d-01 (0)
+  32,U,X
+  10,L,Z
+  11,L,J
+   1,L
+   1,L,J
+   6,L
+   1,R
+  15,U,X
+   1,K,G
+   6,R
+   1,L
+   3,L,J
+  15,U,X
+  18,R,K
+   3,R,J,G
+   2,R
+   1,R,K,G
+   4,L,K
+   6,R,K
+   1,R,J,G
+   7,R
+   4,Z
+   1,R,J
+   7,R
+   8,R,J
+  15,U,X
+  18,R,J
+   1,K
+  11,L,J
+  10,R,K
+   2,R
+   3,J
+   5
+   2,L
+   5,J
+  15,U,X
+   4,L
+  40
+
+   1,L,J,G
+   7,L
+#lvl_e-00
+   2,L
+   1,L,J
+  10,L,X
+   3,L,J
+   7,L
+  15,U,X
+   1,R,K,G
+   6,R
+   1,N
+  10
+Repeat, 176
+   1,J
+   1,O
+EndRepeat
+  20
+   1,L
+   4,L,J
+  15,D,X
+   9,R,D
+   4,R,Z
+   1,R,J
+   7,R,D
+   1,R,J
+   2,R
+  11,R,D,X
+  40
+
+
+#lvl_d-01 (1)
+
+  49,L,D
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,L,D,X
+   7,L,D
+   4,L,J
+   1,L
+   9,L,D,X
+   1,L,K,G
+  10,L
+  40
+
+#lvl_d-04
+   1,L
+   2,L,J
+  23,L,D,X
+   2,L,J
+   1,L
+   6,L,K,G
+   5,L,D,X
+   1,L,K,G
+   3,K
+   1
+  10,L
+   2,L
+  20,L,J
+   9
+  40
+#lvl_d-19b (0)
+Read, ../CelesteTAS/5A, lvl_d-19b (0), lvl_d-19b (1)
+#lvl_d-19b (1)
+Read,../CelesteTAS/5S,lvl_d-19b (1),lvl_e-00

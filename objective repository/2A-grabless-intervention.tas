@@ -1,0 +1,81 @@
+RecordCount: 63
+
+console load 2 lvl_3
+   1
+
+#RTM
+  36
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U,J
+Safe
+  36
+   1,R
+   1,R,J
+  14,R,U,Z
+   1,L
+   1,K
+   1,J
+   3,R,J
+   9,R
+  10,R,X
+   5,R,J
+  18,R,U,Z
+   5,R,J
+   1,R,K
+   5,K
+   7,R,K
+Play, 2aintendg
+
+Read, 2A-start
+#Start
+#lvl_3
+   1,R
+  10,J
+   6,R,J,Z
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U,J
+Safe
+  34
+   2,R,J
+  11,R
+   1,R,J
+  26,R,U,Z
+   5,R,J
+   6,R,K
+   2,K
+   1,R,K
+   1,K
+#2aintendg
+   1,J
+   1,K
+   4,R,K
+   5,R
+  13,U,X
+  40
+
+#lvl_4
+Read, ../Grabless/G2A, lvl_4, lvl_13
+#lvl_13
+   5,R
+  14,R,J
+  14,R,D,X
+Unsafe
+   1,R,J
+   1,S
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,U,J
+Safe
+  18
