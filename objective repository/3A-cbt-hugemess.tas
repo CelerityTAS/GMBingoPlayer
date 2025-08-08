@@ -28,7 +28,7 @@ console load 3 lvl_08-a
   13,U,X
 Play, 3Amessstartend
 
-# console load 3 4279 -20
+console load 3 4279 -20
   37
   14,R,D,X
    1,R,J

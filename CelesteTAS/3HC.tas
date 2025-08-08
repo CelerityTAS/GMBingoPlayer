@@ -8,6 +8,7 @@ console load 3
 Read,3A,lvl_s0,lvl_09-b (0)
 
 #lvl_09-b (0)
+
 Read,3SH,lvl_09-b (0),lvl_12-b (0)
 
 #lvl_12-b (0)
@@ -467,6 +468,7 @@ Read,3A,lvl_09-d,lvl_04-d
    1,J
  257
    1,J
+#Collect
  123
    7,L,D,X
    1,R,J

@@ -1312,7 +1312,9 @@ Repeat,13
    1,J
    1,K
 EndRepeat
+#Collect
    1,S
+   1,F,180
    1,D
    1,J,F,180
 SaveAndQuitReenter

@@ -1,0 +1,45 @@
+RecordCount: 59
+
+console load 3 lvl_09-d
+   1
+
+#RTM
+  36
+   9,L,J
+  15,U,Z
+  19,R,J
+   1,L,K
+  12,L,J
+  12,R,K
+  12,L,J
+  12,R,K
+  11,R,J,G
+   1,R
+   5,R,K,G
+   1,R
+   4,R,J,G
+   5,L,J
+   7,L
+   4,Z
+   2,L,J
+   1,L,K,G
+   9,L
+   2,L,J
+  21,L,D,X
+  40
+Play, 3Ashaftstartend
+
+console load 3 4705.4 -287
+  37
+   9,U,Z
+   1,J
+  40
+
+#lvl_09-d
+#Start
+Read, ../CelesteTAS/3A, lvl_09-d, lvl_08-d
+#3Ashaftstartend
+Read, ../CelesteTAS/3A, lvl_08-d, lvl_04-d
+Read, ../CelesteTAS/3HC, lvl_04-d (0), Collect
+#Collect
+Read, ../CelesteTAS/3HC, Collect, lvl_00-d
