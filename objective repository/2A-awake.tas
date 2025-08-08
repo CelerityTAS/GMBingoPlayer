@@ -87,7 +87,10 @@ Read, 2A-intervention, Start
 #lvl_end_0
  110
    1,S
-Read, SnQReentercustom
+   1,D
+   1,F,180
+   1,D,J
+SaveAndQuitReenter
   36
    5,L,D,X
    2,R,J
