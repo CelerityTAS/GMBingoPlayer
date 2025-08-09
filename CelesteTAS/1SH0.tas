@@ -404,6 +404,7 @@ console load 1
   27,L,D,X
   59,L,J
    1,S
+   1,F,180
    1,D
    1,J,F,180
 SaveAndQuitReenter
@@ -722,7 +723,6 @@ SaveAndQuitReenter
   40
 
 #lvl_9b (0)
-***
    3,R
   12,R,J
    5,K

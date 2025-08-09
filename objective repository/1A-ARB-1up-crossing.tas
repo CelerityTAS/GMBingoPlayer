@@ -1,0 +1,137 @@
+#RecordCount: 31
+console load 1 lvl_6
+   1
+
+#RTM
+  36
+   5,U,X
+  12,R,J
+   6,J
+  12,L,K,G
+   2,L,J,G
+   7,L
+Play, End
+
+console load 1
+   1
+
+Read, 1A-ARB-start, Start
+#Start
+  14,R,J
+  15,U,Z
+   1,L,J,G
+   7,L
+  14
+#End
+#lvl_6 (0)
+   6,R,D,X
+   1,L,J
+   7,L
+   1,L,J
+   5,L,D,X
+  43
+
+#lvl_6z
+   9,L,D,X
+  21,L,J
+   2,J
+  16,L,U,X
+   1,J,G
+   7
+  13,L,D,X
+   4,L,J
+   1,L,J
+   2,R
+  12,U,X
+  40
+
+#lvl_7zb
+   1,J,G
+   1
+   1,L
+   4
+   1,J
+   4
+   4,Z
+   1,L,J
+   6,L
+   7,L,J
+   2,L
+  23,L,K,G
+  23,L,U,X
+  14,L,U,C
+   2,L,J,G
+  14,L
+  19,R
+   1,R,J
+Read, RTMReenter, 1RCollect, 1RCollectEnd
+
+#lvl_6 (1)
+  36
+   5,U,X
+  12,R,J
+   6,J
+  12,L,K,G
+   2,L,J,G
+   7,L
+   1,R,J
+   1,R
+  13,R,U,X
+   6,R,K,G
+  16,R
+  27,R,D
+  14,R,Z
+   1,L,J
+  15,R,X
+  10,R,U,Z
+   1,L
+   1,J
+   9,K,G
+   1
+   5,R,K
+   1,R
+   1,R,K
+   2,R,J
+   5,R,V
+#+2f berry
+   1,R,J
+   2
+  40
+
+#lvl_6a
+Read, ../CelesteTAS/1SH0, lvl_6a, lvl_9
+#lvl_9
+  16,J
+   1,R,K,G
+   8,R,G
+   2,J,G
+  12,R,D,X
+   1,R,J
+   4,L,J
+   1,R,J
+   1,L
+   1,L,K,G
+   1,L
+   1,J,G
+   1,L,K,G
+  11,R,K
+   1,J
+   3,K
+   1,J
+   2,L,J
+   3,K,G
+   1,R,K
+   1,J
+  15,L,U,Z
+  11,R,J,G
+   7,R
+  92
+   4,Z
+   1,R,J
+  12,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+  40

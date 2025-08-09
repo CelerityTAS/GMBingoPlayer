@@ -61,7 +61,7 @@ Read,1A,lvl_1,lvl_6
    2,L
   40
 
-#lvl_s0 (0)
+#lvl_s0
    4,L
   13,L,J
   13,U,X
@@ -165,6 +165,7 @@ Read,1A,lvl_1,lvl_6
   27,L,D,X
   53,L,J
    1,S
+   1,F,180
    1,D
    1,J,F,180
 SaveAndQuitReenter

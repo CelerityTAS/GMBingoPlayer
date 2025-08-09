@@ -1,4 +1,4 @@
-RecordCount: 71
+RecordCount: 77
 console load 1 lvl_9b
    1
 
@@ -12,6 +12,20 @@ console load 1 lvl_9b
    1,L
    4,L,K,G
    7,R
+Play, End
+
+
+Read, 1A-start
+Read, 1A-crossing, Start
+#Start
+   3,R
+  12,R,J
+   5,K
+   2,L,J,G
+   1,R,J
+   1,J
+   1,R,J
+#End
   14,R,D,X
   19,R,J
   22,R
@@ -24,28 +38,8 @@ console load 1 lvl_9b
    1,R,J
    4,R
   40
-Play, End
-
-
-
-Read, 1A-start, Start
-Read, 1A-crossing, Start
-#Start
-#lvl_9b (0)
-   2,R
-  12,R,J
-  13,R
-  15,U,Z
-   5,J
-   1,R,K,G
-   7,L
-   4,Z
-   1,R,J
-   4,R
-  40
 
 #lvl_9c
-#End
    3,R
   10,R,J
   14,R
@@ -62,7 +56,7 @@ Read, 1A-crossing, Start
    6,L
   40
 
-#lvl_9b (1)
+#lvl_9b
   12,L,D,J
   13,U,X
   40

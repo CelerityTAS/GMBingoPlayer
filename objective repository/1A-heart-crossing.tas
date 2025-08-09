@@ -23,4 +23,5 @@ Read, 1A-start, Start
    7,L
 #End
 
-Read, ../CelesteTAS/1HC, top-hyper, lvl_9b
+Read, ../CelesteTAS/1HC, top-hyper, lvl_9
+Read, 1A-crossing, lvl_9

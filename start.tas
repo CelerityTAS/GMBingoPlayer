@@ -11,28 +11,7 @@ Read, CelesteTAS/0 - Prologue, Start
   32
 Read,CelesteTAS/LoadANoCollects,Prologue
 
-Read, objective repository/1A-start, Start
+Read, objective repository/1A-ARB-start, Start
 Read, objective repository/1A-theo-crossing, Start
 Read, objective repository/1A-chasm, Start
-
-Read, CelesteTAS/LoadA
-
-Read, objective repository/2A-start, Start
-Read, objective repository/2A-intervention, Start
-Read, objective repository/2A-theo-awake, Start
-
-Read, CelesteTAS/LoadA
-
-Read, objective repository/3A-start, Start
-Read, objective repository/3A-cbt-hugemess, Start
-Read, objective repository/3A-theo-shaft, Start
-Read, objective repository/3A-pesidentialsuite, Start
-
-Read, SkipChapter
-
-Read, objective repository/5A-theo-start, Start
-Read, objective repository/5A-depths, Start
-Read, objective repository/5A-unraveling, Start
-Read, objective repository/5A-theo-search, Start
-Read, objective repository/5A-rescue, Start
 # TODO: figure out spinner cycles

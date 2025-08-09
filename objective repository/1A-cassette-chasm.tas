@@ -1,4 +1,4 @@
-RecordCount: 91
+RecordCount: 98
 console load 1 lvl_9b
    1
 
@@ -18,21 +18,22 @@ console load 1 lvl_9b
 Play, End
 
 
-
 Read, 1A-start
 Read, 1A-crossing, Start
 #Start
 #lvl_9b
-  11,R,U,X
-   5,J
-   1,L,K,G
-   1,L,J,G
-   1,L
-   1,L,K,G
-   4,L
-   1,R
+   3,R
+  10,R,J
+   1,J
    1,R,J
-   6
+   1,K
+   3,L,J,G
+   1,L
+   4,L,K,G
+   4,R
+   2
+   1,J
+   1
 #End
   10,R,D,X
    2,L,J
@@ -54,6 +55,5 @@ Read, 1A-crossing, Start
 #lvl_10
 Read, ../CelesteTAS/1HC, lvl_10, Return
   62
-Read, RTMReenter, 2R
-Read, 1A-chasm, RTM, RTMEND
-Read, 1A-chasm, End
+Read, RTMReenter, 2RCollect, 2RCollectEnd
+Read, 1A-chasm, RTM
