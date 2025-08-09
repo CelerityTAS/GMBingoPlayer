@@ -1,5 +1,11 @@
 This file documents all of the TAS encodings that can be played back as a step in bingo TAS playback.
 
+Some Notes:
+Spinner cycles will probably have to be removed.
+The issue of theo cutscene length can be avoided with retry.
+arb checkpoints have to collect all berries before the end of the checkpoint.
+1A-dashless-crossing does not flow into 1A-chasm, unless 1A-chasm is played as as retry followed by "Read, 1A-chasm, RTM"
+
 Some files will need alternates to account for RTM vs previous checkpoint entry. It's assumed for now that those differences will be handled by the TAS handler code, and are not documented here.
 
 Italics entries are proposed/not currently encoded.
