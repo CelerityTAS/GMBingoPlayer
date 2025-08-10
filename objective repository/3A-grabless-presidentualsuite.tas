@@ -1,0 +1,67 @@
+RecordCount: 103
+
+console load 3 lvl_00-d
+   1
+
+#RTM
+  32
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U,J
+Safe
+  37
+   7,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,X
+  17,L,J
+  17,U,X
+  17,L,J
+  40
+Play, G3Asuitestartend
+
+console load 3 2121 -559.9
+  37
+   6,L,Z
+   1,L,J
+   2,L
+  40
+
+#Start
+#lvl_00-d
+   4,L
+   2,L,J
+  10,L,D,X
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U,J
+Safe
+  37,K
+   5,L,K
+  17,L,J
+  17,U,X
+  17,L,J
+  40
+
+#lvl_roof00
+#G3Asuitestartend
+Read, ../Grabless/G3A, lvl_roof00, lvl_roof07
+#lvl_roof07
+   1,S
+Unsafe
+   1,F,180
+   1,D,J
+   1,L
+   1,X
+   1,U,J
+Safe
+  18

@@ -69,7 +69,7 @@ Read, 2A-start
 Read, 2A-intervention, Start
 #Start
 #lvl_end_0
-Read, ../CelesteTAS/2S, lvl_end_0, lvl_end_3cb
+Read, ../CelesteTAS/2S, lvl_end_0, lvl_end_3cb (0)
 #2Aawakeend
 #lvl_end_3cb
 Read, ../CelesteTAS/2S, lvl_end_3cb (0)

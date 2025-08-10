@@ -1,6 +1,8 @@
-RecordCount: 4
+RecordCount: 8
 
 #Start
-Read, objective repository/1A-ARB-start
-Read, objective repository/1A-crossing, Start
-Read, objective repository/1A-cassette-chasm, Start
+console load 2
+   1
+Read, objective repository/2A-arb-1up-2up-3up-4up-start, Start
+Read, objective repository/2A-arb-1up-2up-3up-intervention, Start
+Read, objective repository/2A-awake, Start
