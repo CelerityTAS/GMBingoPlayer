@@ -455,6 +455,7 @@ EndRepeat
 #lvl_c-00
  110
    1,S
+   1,F,180
    1,D
    1,J,F,180
 SaveAndQuitReenter
@@ -857,4 +858,4 @@ SaveAndQuitReenter
   14,R,U,X
 #5BG2
  135,R,D
-FileTime: 1:43.632(6096)
+FileTime: 1:43.649(6097)

@@ -8,11 +8,23 @@ Add 131
 #Prologue
 1153
 Read, CelesteTAS/0 - Prologue, Start
-  32
-Read,CelesteTAS/LoadANoCollects,Prologue
+
+Read,CelesteTAS/LoadANoCollects,Prologue,Control
+Read, EnterWithPostcard
 
 Read, objective repository/1A-ARB-start, Start
-Read, objective repository/1A-theo-crossing, Start
-Read, objective repository/1A-chasm, Start
-# TODO: figure out spinner cycles
+Read, objective repository/1A-heart-crossing, Start
+Read, objective repository/1A-winged-chasm, Start
+
+# Read, LeaveChapter
+# Read, SkipChapter
+# Read, EnterWithPostcard
+#  works in theory, if the play command wasn't buggy :catassault:  I posted a bug report to #studio_v2 already...
+Unsafe
+   1,L
+  20
+Read, EnterCP2
+Read. objective repository/1A-theo-crossing, RTM
+
+
 # TODO: figure out crossing dashless-> chasm dashful
