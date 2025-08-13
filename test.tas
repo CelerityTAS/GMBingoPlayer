@@ -1,9 +1,9 @@
 RecordCount: 8
 
 #Start
-console load 3
+console load 4
    1
-Read, objective repository/3A-arb-start, Start
-Read, objective repository/3A-arb-tbc-heart-hugemess, Start
-Read, objective repository/3A-arb-shaft, Start
-Read, objective repository/3A-arb-pesidentialsuite, Start
+Read, objective repository/4A-arb-start, Start
+Read, objective repository/4A-heart-shrine, Start
+Read, objective repository/4A-oldtrail, Start
+Read, objective repository/4A-cliffface, Start

@@ -7,7 +7,7 @@ console load 4
 #lvl_a-00
 Read,4A,lvl_a-00,4HC
 
-#lvl_a-07 (1)
+#lvl_a-07
    2,R
    1
    2,R,D
@@ -234,6 +234,7 @@ Read,4A,lvl_a-09,lvl_b-00
   93
 #Exit
    1,S
+   1,F,180
    1,D
    1,J,F,180
 SaveAndQuitReenter
