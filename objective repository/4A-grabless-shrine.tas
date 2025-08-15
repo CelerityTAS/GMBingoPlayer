@@ -1,0 +1,141 @@
+RecordCount: 55
+
+
+console load 4 lvl_b-00
+   1
+#RTM
+  36
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+  12,R,J
+  11,R,U,X
+   1,R,K,G
+   6,R
+   1
+   2,L,J
+   2,L
+  24,R,U,X
+  11,R,J
+   2,J
+   1,R,J
+  18,U,X
+  19,L,J
+   1,K
+   5,L,K
+   1,R,J
+   2,L,J
+   8,R,J
+   1,K
+   8,R
+   4,X
+   6,R,J
+   7,R
+   1,D,X
+  14,U,X
+   2,L
+  29,R,J
+   4,R,X
+   6,R,J
+   7,R
+   4,D,X
+   1,R,J
+   3,R
+  40
+Play, 4ashrineend
+
+Read, 4A-start
+#Start
+#lvl_b-00
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+  13,R
+  15,R,U,X
+   6,R
+   3
+   2,L,J
+   2,L
+  24,R,U,X
+  11,R,J
+   3,J
+  18,U,X
+  19,L,J
+   1,K
+   5,L,K
+   1,R,J
+   2,L,J
+   8,R,J
+   1,K
+   8,R
+   4,X
+   6,R,J
+   7,R
+   1,D,X
+  14,U,X
+   2,L
+  29,R,J
+   4,R,X
+   6,R,J
+   7,R
+   4,D,X
+   1,R,J
+   3,R
+  40
+
+#4ashrineend
+#lvl_b-02
+Read, ../Grabless/G4A, lvl_b-02, lvl_b-08
+#lvl_b-08
+  11,R
+  10,R,D,X
+   7,R,J
+   7,R
+   4,D,X
+  10,R,X
+   1,R,J
+  13,R
+  13,R,J
+  24,R,U,X
+   2,R,J
+   4,D,X
+   9,R,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+  32,R,J
+   4,D,X
+  13,R,U,X
+  14,R,J
+  13,L,K
+  12,R,J
+   4
+   3,L
+   8,U,X
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   1,U
+  40

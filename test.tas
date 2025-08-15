@@ -1,9 +1,9 @@
-RecordCount: 8
+RecordCount: 13
 
 #Start
 console load 4
    1
-Read, objective repository/4A-arb-start, Start
-Read, objective repository/4A-heart-shrine, Start
+Read, objective repository/4A-grabless-start, Start
+Read, objective repository/4A-grabless-shrine, Start
 Read, objective repository/4A-oldtrail, Start
 Read, objective repository/4A-cliffface, Start

@@ -1,43 +1,75 @@
-RecordCount: 67
+RecordCount: 104
 
 
 console load 4 lvl_c-00
    1
 #RTM
   36
-   1,R,J
-   8,R,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
+   3,L
+  11,L,J
+  12,R,K
+  15,U,X
+   1,R
+  20,L,J
+  12,L,K,G
+   7,J,G
+   1,R
+   1,L,K,G
+   2,L
+   2,L,J,G
+   7,L
 Play, 4atrailend
 
 
 Read, 4A-start
 Read, 4A-shrine, Start
 #Start
-#lvl_c-00
-   1,R,J,G
-   1,R,K,G
-   4,R
-   5
-   4,Z
-   1,R,J
-   7,R
+#lvl_c-00 (0)
+   4
+  31,R,J
+  15,U,X
+   4
+  21,L,J
+  12,K,G
+   3
+   3,J,G
+   7
 #4atrailend
-   5,R,J
+   6,R,Z
+   1,L,J
+   6
+   5,R,D,J
+  40
+
+#lvl_c-01
+   6,R,D,J
+   1,R,K,G
+  12,R,J,G
+   6,R,K,G
+   1,J
+   1,R,K,G
+   3,L,K
+  24,L,J
+   8,L
+  29,R,D,X
+#+1f berry
+  12,R,Z
+#Collect
+   2,R,Z
+   1,L,J
+  14,L,Z
+   1,R,J
    6,R,D,X
-   1,R,J
-   5,R
-   1,R,J
-   1,R
-  18,R,J
-  16,R,U,X
    1,R,J,G
+  12,R
+  40
+
+#lvl_c-00 (1)
+  16,R,J
+  15,R,D,X
+  35,R
+   2,R,D
    2,R
-   1
-   4,R
   14,R,Z
   37,R,J
   15,R,X
