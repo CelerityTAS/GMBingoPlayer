@@ -1,0 +1,8 @@
+RecordCount: 38
+
+console load 5 b-00
+   1
+
+#Start
+#RTM
+Read,../CelesteTAS/5S,Depths,lvl_c-00

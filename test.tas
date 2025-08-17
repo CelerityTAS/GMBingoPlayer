@@ -1,9 +1,10 @@
-RecordCount: 13
+RecordCount: 14
 
 #Start
-console load 4
+console load 5
    1
-Read, objective repository/4A-grabless-start, Start
-Read, objective repository/4A-grabless-shrine, Start
-Read, objective repository/4A-oldtrail, Start
-Read, objective repository/4A-cliffface, Start
+Read, objective repository/5A-start, Start
+Read, objective repository/5A-grabless-depths, Start
+Read, objective repository/5A-unraveling, Start
+Read, objective repository/5A-grabless-search, Start
+Read, objective repository/5A-rescue, Start

@@ -1,7 +1,10 @@
-RecordCount: 1
+RecordCount: 2
 
 console load 5
    1
 
 #Start
 Read, ../CelesteTAS/5A, Start, lvl_b-00
+   1,S
+   1,D,J
+  33,O

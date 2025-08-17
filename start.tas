@@ -12,9 +12,9 @@ Read, CelesteTAS/0 - Prologue, Start
 Read,CelesteTAS/LoadANoCollects,Prologue,Control
 Read, EnterWithPostcard
 
-Read, objective repository/1A-ARB-start, Start
+Read, objective repository/1A-start, Start
 Read, objective repository/1A-heart-crossing, Start
-Read, objective repository/1A-winged-chasm, Start
+Read, objective repository/1A-cassette-chasm, Start
 
 # Read, LeaveChapter
 # Read, SkipChapter

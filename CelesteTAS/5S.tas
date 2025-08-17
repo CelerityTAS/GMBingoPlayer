@@ -846,6 +846,7 @@ EndRepeat
   31
 
 #Overworld
+Unsafe
 Add 58
   51
    1,S
@@ -2158,7 +2159,6 @@ SaveAndQuitReenter
    2,L
   13,U,Z
    9,R,J
-***
 #Search
   49,R,X
   15,U,C
