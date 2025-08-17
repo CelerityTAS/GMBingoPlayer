@@ -1,0 +1,11 @@
+RecordCount: 1
+console hard 7
+   1
+#Start
+Unsafe
+Read, ../CelesteTAS/7B, Start
+Safe
+   1,S
+   1,U,J
+   1,O
+  31

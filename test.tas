@@ -1,10 +1,11 @@
-RecordCount: 14
+RecordCount: 15
 
 #Start
-console load 5
+console hard 1
    1
-Read, objective repository/5A-start, Start
-Read, objective repository/5A-grabless-depths, Start
-Read, objective repository/5A-unraveling, Start
-Read, objective repository/5A-grabless-search, Start
-Read, objective repository/5A-rescue, Start
+Read, objective repository/1B-bino, Start, Bino2
+   1,S
+   1,U,J
+   1,O
+Unsafe
+2000

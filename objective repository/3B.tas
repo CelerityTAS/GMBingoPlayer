@@ -1,0 +1,12 @@
+RecordCount: 2
+
+console hard 3
+   1
+#Start
+Read, ../CelesteTAS/3B, Start, lvl_11
+#Library
+Read, ../CelesteTAS/3B, lvl_11
+   1,S
+   1,U,J
+   1,O
+  31

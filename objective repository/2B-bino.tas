@@ -1,0 +1,110 @@
+RecordCount: 91
+
+console hard 2
+   1
+#Start
+Read, ../CelesteTAS/2B, Start, lvl_10
+#lvl_10
+   8,R,D,X
+   1,R,J
+  14,R,D,X
+   6,R,J
+   1,R,K,G
+   5,R
+  15,R,D,X
+   1,R,N
+   6,R
+#Bino1
+   1,S
+   1,D,J
+  69,O
+   1,L,J
+  14,L,U,X
+   4,L,J
+  12,L,K
+   9,L
+   4,R,J
+   8,R
+   9,R,J
+   4,R
+  43,R,U,Z
+  24,L,U,X
+   1,L,J
+   1,K,G
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   5,R,K
+   9,R
+   1,R,K
+  11,R,D
+   7,L,D
+  18,L,Z
+   8,L,J
+   1,K
+  11,L,K
+   6,L,J,G
+   1,K,G
+   4,L
+   1
+   1,L
+  17,R
+  15,R,D,X
+   1,R
+  21,R,D
+   5,R,J
+  18,R,D
+   3,L,D
+  11,R,K
+  12,U,Z
+  18,R,J
+  12,R,K,G
+   1,J,G
+  10,R,J
+   1,L,J
+   1,L,K
+  12,L,J
+  12,L,K,G
+   8,L,J,G
+   1,K
+   8,J,G
+   1,R,J
+  40
+
+# this transition syncs with regular 2B, if you only want one
+#lvl_11
+   4,R
+   7,K
+  12,L,U,X
+   1,L,K,G
+   2,R
+   7,L
+   1,N
+   3
+#Bino2
+   1,S
+   1,D,J
+  69,O
+   4,Z
+   2,R,J
+   4,R
+  10,R
+  61,R,U,X
+   4,L,G
+  47,L,U,Z
+   4,R,G
+  47,R,U,X
+   4,R,J
+  11,R,K
+   1,K
+   1,R
+  14,U,X
+   8,R,J
+  40
+#lvl_end
+Read, ../CelesteTAS/2B, lvl_end
+   1,S
+   1,U,J
+   1,O
+  31

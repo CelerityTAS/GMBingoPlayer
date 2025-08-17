@@ -1,0 +1,13 @@
+RecordCount: 4
+
+console hard 6
+   1
+#Start
+Read, ../CelesteTAS/6B, Start, lvl_c-00
+#lvl_c-00
+#Rock Bottom
+Read, ../CelesteTAS/6B, lvl_c-00
+   1,S
+   1,U,J
+   1,O
+  31

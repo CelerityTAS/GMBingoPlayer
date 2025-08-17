@@ -1,0 +1,9 @@
+RecordCount: 1
+console hard 5
+   1
+#Start
+Read, ../CelesteTAS/5B, Start
+   1,S
+   1,U,J
+   1,O
+  31
