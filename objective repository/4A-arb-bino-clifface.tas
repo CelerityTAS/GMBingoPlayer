@@ -4,6 +4,7 @@ Read, 4A-start
 Read, 4A-shrine, Start
 Read, 4A-oldtrail, Start
 #Start
+***
 #RTM
 #lvl_d-00 (0)
   36
@@ -31,7 +32,18 @@ Read, 4A-oldtrail, Start
 #lvl_d-00b
    7,L
   14,R,D
-  12,L,D
+   4,R,D
+  15,L,D,X
+   3,L,D
+   8,R,D
+   2,D
+   1,N
+   7
+#Bino1
+   1,S
+   1,D,J
+  69,O
+   1,R,J
   13,L,D,X
    1,L,J
    2,L,K,G

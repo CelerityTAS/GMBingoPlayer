@@ -1,11 +1,13 @@
-RecordCount: 15
+RecordCount: 26
 
 #Start
-console hard 1
-   1
-Read, objective repository/1B-bino, Start, Bino2
-   1,S
-   1,U,J
-   1,O
-Unsafe
-2000
+
+Read, EnterWithPostcard
+Read, objective repository/2A-heart, Start
+Read, objective repository/2A-seeded-start, Start
+Read, objective repository/2A-arb-1up-2up-3up-intervention, Start
+Read, objective repository/2A-grabless-awake, Start
+Read, LeaveChapter
+
+# for rtms at checkpoints, you seem to not be able to rtm instantly
+# there is a problem with play command :catassault:

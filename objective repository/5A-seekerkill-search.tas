@@ -22,29 +22,29 @@ console load 5 d-00
    2
   13,U,Z
    9,R,J
-Play, 5ASearchend
-
-console load 5 3099.32226514816 2473.29146420956 343.33328 -44.999878
-  37
-   1,R,J
-  40
-Read,../CelesteTAS/5S,lvl_c-13,lvl_d-00
-#Start
-#lvl_d-00 (1)
-  10,L,J
-   1,L
-   5,L,Z
-   1,L,J
-   4,L
-   1,S
-   1,D,J
-  34
-   2,L
-   1,L,J
-  11,L,K
-   2,L
-  13,U,Z
-   9,R,J
+# Play, 5ASearchend
+#
+# console load 5 3099.32226514816 2473.29146420956 343.33328 -44.999878
+#   37
+#    1,R,J
+#   40
+# Read,../CelesteTAS/5S,lvl_c-13,lvl_d-00
+# #Start
+# #lvl_d-00 (1)
+#   10,L,J
+#    1,L
+#    5,L,Z
+#    1,L,J
+#    4,L
+#    1,S
+#    1,D,J
+#   34
+#    2,L
+#    1,L,J
+#   11,L,K
+#    2,L
+#   13,U,Z
+#    9,R,J
 #5ASearchend
   49,R,X
   15,U,C
@@ -74,7 +74,7 @@ Read,../CelesteTAS/5S,lvl_c-13,lvl_d-00
   18,L,D
   58
 
-#lvl_d-00 (2)
+#lvl_d-00 (1)
    1,S
    1,D,J
   69,O

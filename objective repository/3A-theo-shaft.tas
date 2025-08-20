@@ -76,6 +76,7 @@ Repeat, 250
    1,O
 EndRepeat
  104
+#Complete
   10,L,X
   10,L,J
    3,L,K,G

@@ -1,0 +1,72 @@
+RecordCount: 40
+
+console load 6 lvl_04
+   1
+#lvl_04 (0)
+  36
+  11,L,X
+   3,J
+   1
+  15,U,X
+   1,L,J,G
+   5,L
+   2,L,J
+   1,L
+   4,X
+   6,L,J
+   7,L
+  11,J
+   2
+  14,L,U,X
+   1,L,J,G
+   9,L
+  15,U,Z
+   1,J,G
+   7,L
+  10,L,Z
+   5,L,J
+  15,L,X
+   1,L,J,G
+  31,D
+   9
+   8,U,X
+  14,L,D
+  37
+  18,R,G
+   4,U,G
+   1,G
+   5,R,X
+   1,R,J,G
+   1,R,K,G
+   6,R
+   2,R,K
+   3
+   7,L,Z
+   1,R,J
+   1
+   1,J
+   6
+   6,R,D,X
+   1,L,J
+   1
+   5,L
+   1,L,D,J
+   2,L,K,G
+  12,L,D,X
+  43
+Play, lvl_04e
+
+Read, 6A-start
+Read, 6A-lake, Start
+#Start
+#lvl_04 (1)
+Read, ../CelesteTAS/6HC, lvl_04 (0), lvl_04e
+#lvl_04e
+Read, ../CelesteTAS/6HC, lvl_04e, Return
+#Cassette
+Read, ../CelesteTAS/6HC, Return, Exit
+#Heart
+   1,S
+   1,U,J
+   1,O
+  30
