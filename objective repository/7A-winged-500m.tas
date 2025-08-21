@@ -1,0 +1,73 @@
+RecordCount: 17
+
+console load 7 lvl_b-00
+   1
+#RTM
+  36
+  14,L,X
+  12,L,J
+   2
+Play, End
+
+Read, ../CelesteTAS/7A, Start, lvl_b-00
+#Start
+  62
+#0mARBCollect
+  14
+   5,L,J
+   2,L
+   7,L,Z
+   1,L,J
+   6,L
+  13,L,J
+#End
+  15,U,X
+   7,R,J
+   8,L,J
+   2,R,J
+  15,U,X
+   6,R,J
+   8,L,J
+   1,J
+   7,L,K
+  40
+
+#lvl_b-01
+Read, ../CelesteTAS/7A, lvl_b-01, lvl_b-02
+#lvl_b-02
+   2,R,J
+   3,R
+  20,R,J,G
+   1,J
+   2,R,J
+  15,R,U,X
+  14,U,Z
+   4,J
+   5,R,J
+   1,R
+   1,R,K,G
+   7,R
+   9,R,J
+   4,J
+  16,U,X
+  19,L,J
+  15,U,X
+   1,R
+  15,R,J
+  15,U,X
+  14,L,Z
+   1,L,J
+   7,L,Z
+   1,R,J
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   8,R,D,X
+   2,R,J,G
+   9,R
+  40
+Read, ../CelesteTAS/7SHC, lvl_b-03 (0), lvl_b-03 (1)
+#lvl_b-03
+Read,../CelesteTAS/7S,lvl_b-03 (1),lvl_b-06
+Read, ../CelesteTAS/7A, lvl_b-06, lvl_c-00

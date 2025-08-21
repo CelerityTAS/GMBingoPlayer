@@ -1,0 +1,18 @@
+RecordCount: 13
+
+console load 7
+   1
+Read, 7A-0m, Start
+Read, 7A-500m, Start
+Read, 7A-1000m, Start
+Read, 7A-1500m, Start
+Read, 7A-2000m, Start
+Read, 7A-2500m, Start
+#Start
+  40
+#RTM
+  22
+#2500mARBCollect
+  14
+
+Read, ../CelesteTAS/7S, 3000M

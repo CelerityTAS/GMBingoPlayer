@@ -2,7 +2,7 @@ console load 7
    1
 
 #Start
-#lvl_a-00-intro (0)
+#lvl_a-00-intro
 Read,7A,Start,lvl_a-06
 
 #lvl_a-06
@@ -919,7 +919,7 @@ Read,7S,lvl_f-00 (0),lvl_f-01
   21,R,D,C
   40
 
-#lvl_f-05 (0)
+#lvl_f-05
    1
    8,L,D
   16,R,Z
@@ -1038,6 +1038,7 @@ Read,7A,lvl_f-07,lvl_g-00b
  102,L
 #Exit
    1,S
+   1,F,180
    1,D
    1,J,F,180
 SaveAndQuitReenter

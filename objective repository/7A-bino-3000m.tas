@@ -1,0 +1,100 @@
+RecordCount: 66
+
+console load 7
+   1
+Read, 7A-0m, Start
+Read, 7A-500m, Start
+Read, 7A-1000m, Start
+Read, 7A-1500m, Start
+Read, 7A-2000m, Start
+Read, 7A-2500m, Start
+#Start
+  40
+#RTM
+  22
+#2500mARBCollect
+  14
+
+Read, ../CelesteTAS/7A, 3000M, lvl_g-03
+#lvl_g-03
+  13,R
+  14,R,X
+   2,R,J
+   1,J
+   5,K,G
+   4,R,K
+  15,U,X
+   1,R
+  15,R,U,C
+   5,R,U,X
+  13
+  16,U,Z
+  13,R,J
+   2,L,J
+   1,R,J
+  15,R,U,X
+  22,R
+   2,R,D
+
+#CP-04
+   5,R,Z
+   1,R,J
+   4,R
+   5
+  15,R,D,X
+   3,D
+   1,N
+   6
+   1,S
+   1,D,J
+  69,O
+
+   1,R,K
+   5
+   4,K
+   5
+   1,L
+   1
+   7,R,J
+   2,J
+   1,R,J
+  14,U,X
+  20,R,J
+  15,R,X
+  14,R
+  15,R,U,X
+  15,R,C
+   6
+   1,R
+   1
+   5,R
+  15,U,X
+   1,R
+  15,R,Z
+  14,L
+   1,L,D
+   3,D
+   1
+   7,R
+  26,R,U,X
+  15,U,C
+  27,R,D
+AnalogMode,Precise
+  12,F,135.9
+   1,F,131.075
+  25,F,129.659
+   4,F,128.946
+   1,F,123.644
+  20,F,77.031
+  52,F,70.97
+   4,F,54.1
+   1,F,48,0.69
+   6,R
+  18,R,X
+  14,R,Z
+   1,R,J
+   6,R
+AnalogMode, Ignore
+
+#CP-03
+Read, ../CelesteTAS/7A, CP-03

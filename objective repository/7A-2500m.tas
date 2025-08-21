@@ -1,0 +1,112 @@
+RecordCount: 116
+
+
+console load 7 lvl_f-00
+   1
+#RTM
+  36
+   4,Z
+   6,R,J
+   5,R
+  15,R,D,X
+   2,R,J
+  11,R,U,X
+  11,R,K,G
+Play, 7A2500Mbubble
+
+console load 7
+   1
+Read, 7A-0m, Start
+Read, 7A-500m, Start
+Read, 7A-1000m, Start
+Read, 7A-1500m, Start
+Read, 7A-2000m, Start
+#Start
+  40
+  25
+#2000mARBCollect
+  13
+   4,Z
+   2,R,J
+   5,R,K,G
+   5,R,J,G
+  11,R,U,X
+  11,K,G
+#7A2500Mbubble
+  77,R,X
+  18,R,U,C
+  14,R,X
+   2,R,J,G
+   1,J
+   1,K,G
+  16,R,K
+   1,R,J,G
+   5,R
+   1
+   1,R
+   1,J
+   3,R,J
+   1,J
+   3,R,J
+   1,R,K,G
+   3,R,J,G
+  11,R,Z
+   1,R,J
+   4,R
+  14,R,D,X
+   1,R,J
+   1,R
+  12,R,D,X
+   3,R,J
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  18,R,D,C
+#Spinner Cycle
+   0
+#-------------
+  58,R,X
+   9,R,D,C
+   1,R,J
+   6,R
+  43
+
+#lvl_f-02
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+   3,R
+   1,R,J
+  14,R
+  11,R,K
+   5,R
+   3,R,J
+   6,R
+   1,R,J,G
+  10,R,K,G
+   5,R
+   8,R,K
+  12,R
+   2,D
+   1,L,D
+   4,D
+   3,R,D
+   1,R
+   1,R,D
+   1
+   2,R
+  14,R,Z
+   1,J,G
+   1,L
+  10,R,D,X
+   6,R,J
+  14,R,U,X
+   4,R,J,G
+   8,R,D,X
+  43
+
+#lvl_f-04
+Read, ../CelesteTAS/7A, lvl_f-04, lvl_g-00

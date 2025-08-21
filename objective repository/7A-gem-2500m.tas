@@ -1,0 +1,49 @@
+RecordCount: 140
+
+
+console load 7 lvl_f-00
+   1
+#RTM
+  36
+  10,R
+   1,R,J
+   1,R
+  15,L,U,X
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   6,L,U,Z
+  40
+Play, 7A2500End
+console load 7
+   1
+Read, 7A-0m, Start
+Read, 7A-500m, Start
+Read, 7A-1000m, Start
+Read, 7A-1500m, Start
+Read, 7A-2000m, Start
+#Start
+  40
+  25
+#2000mARBCollect
+  13
+#lvl_f-00
+  15,L,U,X
+  10,L,C
+   2,J
+   1,R,J
+   1,L,K,G
+   3,L,J,G
+  15,L,U,X
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   6,L,U,Z
+  40
+#7A2500End
+
+Read, ../CelesteTAS/7HC, lvl_f-01, lvl_f-07 (1)
+#lvl_f-07
+Read,../CelesteTAS/7A,lvl_f-07,lvl_g-00

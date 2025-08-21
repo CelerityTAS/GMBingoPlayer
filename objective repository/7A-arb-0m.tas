@@ -1,0 +1,29 @@
+RecordCount: 9
+
+console load 7
+   1
+#Start
+Read, ../CelesteTAS/7S, Start, lvl_a-06
+#lvl_a-06
+   1,R
+  14,R,D,X
+   1,R,J
+  13,R,U,X
+  45,R
+  19,R,X
+  15,R,U,C
+  41
+  11,R,U,X
+   1,J
+  21,L
+  15,L,X
+  26,L,D
+  15,L,Z
+   4,L
+  57,R
+  15,R,Z
+  13,R,C
+ 158
+   1,S
+   1,D,J
+ 141
