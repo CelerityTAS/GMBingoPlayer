@@ -100,8 +100,8 @@ SaveAndQuitReenter
    5,R
   40
 
-Read, ../CelesteTAS/2A, lvl_end_1, lvl_end_2
-#lvl_end_2
+Read, ../CelesteTAS/2A, lvl_end_1, lvl_end_3
+#lvl_end_3
 #Checkpoint
-Read, ../CelesteTAS/2A, lvl_end_2
+Read, ../CelesteTAS/2A, lvl_end_3
 #2Aawakeend

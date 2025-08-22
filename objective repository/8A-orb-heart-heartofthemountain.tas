@@ -1,4 +1,4 @@
-RecordCount: 46
+RecordCount: 58
 
 console load 9 lvl_d-00
    1
@@ -23,22 +23,20 @@ console load 9
    1
 
 Read, 8A-start-intothecore, Start
-Read, 8A-hotandcold, Start
+Read, 8A-arb-hotandcold, Start
 #Start
 #lvl_d-00
    5,R,U,V
    1,L,K,G
-  12,R,K
-   1,K
-   1,R,K
-   4,K
-  19,U,X
+  13,R,K
+   5,K
+  16,U,X
   14,K
    7,R,K
   18,U,X
    1,L
    2,R
-   1,L,G
+   4,L,G
 #corehotm
   32,L,G
    3

@@ -1,0 +1,15 @@
+#Wakeup
+ 110
+#WalkinCheckpoint
+   1
+#Immediate
+   1,S
+   1,U,J
+   1,O
+  31
+Unsafe
+Add 58
+  51
+   1,S
+   1,X
+  42

@@ -1,13 +1,24 @@
-RecordCount: 26
+RecordCount: 69
 
-#Start
 
-Read, EnterWithPostcard
-Read, objective repository/2A-heart, Start
-Read, objective repository/2A-seeded-start, Start
-Read, objective repository/2A-arb-1up-2up-3up-intervention, Start
-Read, objective repository/2A-grabless-awake, Start
-Read, LeaveChapter
+Read, objective repository/5B-2keys, Start, Key2
+Read, RTM, Immediate
 
-# for rtms at checkpoints, you seem to not be able to rtm instantly
+# Read, EnterCP1WithPostcard
+# Read, objective repository/2A-start, Start
+# Read, objective repository/2A-arb-1up-2up-3up-intervention, Start
+# Read, objective repository/2A-awake, Start, Checkpoint
+# Read, RTM, WalkinCheckpoint
+
+
 # there is a problem with play command :catassault:
+# use "Read, RTM, Menu" for files that end after collecting a heart, like 2A-heart-fromstart or all 8A-...-heart-heartofthemountain files
+
+
+# EnterBside
+# readpoem
+# birdsnest
+# allkeyssearch
+# farewell
+# pico
+# heart order
