@@ -1,0 +1,63 @@
+RecordCount: 103
+
+console load 5 d-00
+   1
+#Start
+  36
+#lvl_d-00
+   1,S
+unsafe
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+safe
+   2,L,J
+   7,L,Z
+   1,L,J
+   3,L
+   1,L,J
+   1,S
+   1,D,J
+  34
+   1,L,J
+   2,L
+  13,L,J
+  12,U,Z
+  10,R,J
+  49,R,X
+  10,U,C
+  11,R
+  57,L,X
+  15,U,C
+   8,L
+   1,J
+  25,L,J
+   1,K
+  25,L,K
+   9,R,J
+  59,R,X
+   1,L,J
+  31,L,D
+  10,L,X
+  13,L
+  69,U,X
+  58
+
+#lvl_d-01
+Read, ../Grabless/G5A1.3.0.0, lvl_d-01, lvl_e-00
+#lvl_e-00
+   1,S
+unsafe
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,U
+   1,J,F,
+   9
+safe
+   1

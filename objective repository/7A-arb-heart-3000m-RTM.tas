@@ -1,0 +1,35 @@
+RecordCount: 14
+
+console load 7
+   1
+Read, 7A-gem-0m, Start
+Read, 7A-gem-500m, Start
+Read, 7A-gem-1000m, Start
+Read, 7A-gem-1500m, Start
+Read, 7A-gem-2000m, Start
+Read, 7A-gem-2500m, Start
+  40
+#Start
+  22
+#2500mARBCollect
+  14
+
+Read,../CelesteTAS/7S,3000M,lvl_g-00b
+Read, ../CelesteTAS/7HC, lvl_g-00b, Exit
+#Collect
+   1,S
+   1,F,180
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
+   6,R,D,X
+   1,L,J
+   3,L
+   1,K
+   7,L,J
+  15,U,X
+  14,U,C
+  15,R,J
+   2,K,G
+Read,../CelesteTAS/7S,7SHC4

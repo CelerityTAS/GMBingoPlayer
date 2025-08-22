@@ -1,0 +1,136 @@
+RecordCount: 112
+
+console load 5 d-00
+   1
+#Start
+  36
+#lvl_d-00
+   5,R,Z
+   3,L,J
+   1,L,K,G
+   6,L
+   1,L,J
+   1,L
+   1,S
+   1,D,J
+  34
+   2,L,J
+   1,L
+   1
+   1,L,J
+  10,J
+   2
+  13,U,Z
+   9,R,J
+
+Read, ../CelesteTAS/5S, Search, lvl_d-19
+
+#lvl_d-19
+  30,L,D
+  10,L,D,X
+   9,L,J
+  25,R,X
+   3,J
+  15,R,D,X
+  51
+   7,L,V
+   1,L,J
+   1,L
+   6
+   4,L,D,J
+   1,L
+   1
+   3,L,K,G
+   1,K
+   6,L,K
+   1,L
+   2,L,K,G
+   1,K
+   5,L,K
+   1,R,J,G
+   1,R
+  11,U,X
+   1,R,J
+   1,R
+   1,K,G
+   5
+   1,K
+   3,L
+   5
+   1,L
+  15,D,X
+   6,R
+   4,X
+   1,R,J
+   2,R
+   1
+   1,R
+   7
+  15,L,D
+   1,D
+  16,L,D
+   7,L
+   6,L,D
+   5,L
+#hi ralph
+  27,L,Z
+   1
+  11,R
+  20,U,X
+   5,R
+   5,L
+  16,U,X
+  16,L,J
+   1,L,K,G
+   7,L
+   4,R,J
+   8,J
+  15,U,X
+  17,L,J
+  40
+
+
+#lvl_d-19b
+  12,L
+  10,L,J,G
+   1,L
+   8,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+  15,U,X
+  20,L,J
+   8,K,G
+   1,J,G
+   3
+   3,L
+   9
+   1,R,K
+#Collect
+   1,R,K
+   8,K
+   2,R,K
+  15,U,X
+  19,R,J
+   3,K
+   1
+  10,R,J,G
+   3,K,G
+   3,R,K
+   4,R
+   1
+   1,R
+   1
+   3,L
+   4,D,X
+   1,R,J
+   5,R
+   5,R,D,J
+  15,R,D,X
+   1,R,J
+  29,R,D,X
+  40
+
+#lvl_d-10
+Read, ../CelesteTAS/5S, lvl_d-10, lvl_e-00

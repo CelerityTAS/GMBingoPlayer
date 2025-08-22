@@ -1,0 +1,39 @@
+RecordCount: 50
+
+console load 4
+   1
+
+#Start
+Read, ../CelesteTAS/4HC, Start, Return
+#Collect
+ 123
+   7,R
+   4,R
+   1,R,D
+   2,R
+   7,L,J
+  15,U,X
+   1
+   1,R
+   3,R,K,G
+   9,R
+   1,N
+   7
+#Bino1
+   1,S
+   1,D,J
+  69,O
+   4,L,Z
+   3,L,J
+   2,J
+   1,K,G
+  12
+
+   4,D,X
+   1,R,J
+   6,R
+   6,R,D,J
+   1
+  40
+#lvl_a-10
+Read, ../CelesteTAS/4HC, lvl_a-10 (1), lvl_b-00

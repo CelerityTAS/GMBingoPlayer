@@ -1,0 +1,61 @@
+RecordCount: 58
+
+console load 1
+   1
+
+#Start
+Read, ../CelesteTAS/1SH0, Start, lvl_5a
+#lvl_5a
+   1,R,D
+  22,D
+   6,R,D
+  12,R,X
+   3,R,J
+   1,J
+  12
+  10,L,X
+   3,R,J
+   6,J
+   6,K,G
+   1,R
+   2
+  10,R,D,X
+   1,R,J
+   4
+  12,L,Z
+   1,L,J
+   6,L
+  11,L,U,Z
+   1,R,K,G
+   1,L,K
+   7,L
+  15,D,X
+   7,R,Z
+   1,L,J
+   6
+   1,L
+   1,J
+   2,L,J
+  15,L,D,X
+   1,L
+  12,L,X
+  40
+
+#lvl_5
+   4
+  15,U,X
+   2,R
+  26,R,J
+  12,R,K,G
+  12,R,J,G
+   4,R
+   1
+   2,R
+  17,R
+  12,L,K
+   1,J,G
+   3,R,J
+  15,U,X
+  40
+
+#lvl_6

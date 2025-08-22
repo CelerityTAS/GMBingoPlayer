@@ -1,0 +1,25 @@
+RecordCount: 30
+
+
+console load 5 e-00
+   1
+#RTM
+  36
+  10,L,X
+   4,R,J
+   1,R
+  15,R,U,X
+   4,R
+   1,R,K,G
+   7,R
+   4,Z
+   1,R,J
+   2,R
+   1,R,K,G
+   6,R
+   1,S
+   1,D,J
+  34
+# cycle
+   0
+Read,../CelesteTAS/5S,-------------

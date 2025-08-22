@@ -1,0 +1,13 @@
+RecordCount: 4
+
+console load 6
+   1
+#Start
+ 110
+   1,S
+   1,D,J
+  34
+
+   2
+Read, ../CelesteTAS/6A, lvl_start, lvl_00
+#lvl_00

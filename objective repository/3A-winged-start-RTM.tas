@@ -1,0 +1,95 @@
+RecordCount: 61
+
+console load 3
+   1
+
+#Start
+Read, ../CelesteTAS/3A, Start, lvl_03-a
+  18,R,D
+   1,D
+   1,R,D
+  13,R,U,Z
+   1,R,J,G
+  10,R
+   5,R,J
+  34,R
+   4,R,D
+  14,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  11,R,D,X
+   1,S
+   1,D,J
+  34
+
+   3,R,J
+   5,R
+   6,R,J
+   1,R
+   1,R,J
+  40
+#lvl_05-a
+   6,R
+   1,R,D
+   4,R
+   2,J
+   3,R
+   1,L,K,G
+   7,U,X
+  26,R,J
+  10,L,Z
+   1,R,J
+   3,R
+   1,R,J
+   5,R
+   4,R,D,J
+   5,R
+   3,R,J,G
+  14,R,D
+   4,R
+   5,R,U,Z
+  40
+
+#lvl_06-a
+   3,R,U,Z
+   1,L,J,G
+   7,R,J
+   5,R
+   2,R,J
+   2,R
+   1
+  25,R,D
+  18,R,J
+   1,K
+   1,J
+   3,R,J
+   7,R,Z
+   1,R,K,G
+   3,K
+   1,R,K
+   8,R
+   1,R,K
+   1,K
+  14,D
+   2,R,D
+   1,D
+   3,R,D
+   6
+   1,R
+   1
+   4,R,J
+   1,J
+   1,K
+   6,U,X
+   5,R,J
+  40,J
+
+#lvl_07-a
+  11,R,J
+  10,R,K
+  16,U,X
+  40
+
+#lvl_07-b
+Read, ../CelesteTAS/3A, lvl_07-b (0), lvl_08-a

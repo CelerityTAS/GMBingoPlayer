@@ -1,0 +1,105 @@
+RecordCount: 42
+
+console load 9 lvl_c-00
+   1
+#Start
+  36
+   9,R,Z
+   1,R,J
+   7,R
+   7,R,J
+   3,R,K,G
+   1,R
+  34,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
+   1,R,J
+  16,R
+   9,R,J
+   5,R
+   2,R,J
+  16,R,D
+   1,R
+   1,R,J
+  11,R,K
+   7,R
+   2,R,J
+   2,R
+   9,G
+   2,R,D
+   1,K
+  10,R,J,G
+   6,R
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   3,R
+   1,R,J
+   5,R
+   1,R,D,J
+   5,R
+   2,R,J
+   1,R
+  42,R,J
+   3,R,D
+   1,R,K
+  30,R,D
+   3,R
+   1,R,D
+   5,R,J
+   1
+  23,R,D
+   5,R,J
+   5,R
+  11,R,J
+  12,L,K,G
+   1,L,J,G
+   1,R,J
+   1,L,J
+   8,J
+   1
+   2,J,G
+   1
+   1,J
+   2,K,G
+  31,R,K
+  38,R,U,X
+  23,R,U,C
+  12,R,K
+   5,J
+  40
+
+Read, ../CelesteTAS/8S, lvl_c-00b, lvl_c-03b
+#lvl_c-03b
+   2,R
+   1,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   5,R
+#Heart of The Mountain
+  14,R,Z
+
+   2,R,J
+   5,R
+  14,R,U,X
+   2,R,J,G
+  34,R,D
+   1,K
+   7
+  30
+   1,R,J
+#Collect
+   1,J
+   8,J
+   6
+  18,R,D
+   3,L,D
+  40
+
+#lvl_c-03
+Read, ../CelesteTAS/8S, lvl_c-03 (1), lvl_d-00

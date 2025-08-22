@@ -1,0 +1,67 @@
+RecordCount: 224
+
+console load 2 lvl_end_3
+   1
+
+#Start
+  36
+   7,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   3,R,J
+   8,R,D,X
+   1,R,K,G
+   5,R
+   1,R,K
+   6,R
+   4,R,J
+   1,R,K,G
+   1,K
+   5,R,K
+   1,K
+   8,R,J,G
+   1,J
+  15,R,D,X
+   1,R,D,J
+   2,J
+   5,R,X
+  40
+
+
+   3,R,X
+   1,R,K,G
+   2,R,J,G
+   4,J
+   6,R,J
+   1,R,K,G
+   3,R
+   2
+  20,R,D,X
+   2,R
+   1,R,J
+   1,R,J
+   6,R,D,X
+   4,R,K,G
+  10,R
+  40
+
+#lvl_end_3b
+   2,R
+   7,R,J
+  17,R
+   6,R,J
+  15,R,K,G
+  12,R,J,G
+  11,R,K,G
+   1,R
+   1,J,G
+   7,R
+   1,L
+   9,L,J
+  16,U,X
+  40
+
+#lvl_end_3cb
+Read, ../CelesteTAS/2S, lvl_end_3cb (0)

@@ -1,0 +1,39 @@
+RecordCount: 98
+console load 1 lvl_9b
+   1
+
+#Start
+  36
+   1,R
+   1,R,J
+  15,R,U,Z
+   1,K
+   2,L,J,G
+   1,L
+   4,L,K,G
+   4,R
+   2
+   1,J
+   7
+  10,R,D,X
+   2,L,J
+   1,L
+   2,L,J
+  12,L,U,Z
+   2,L,J,G
+   5,L
+   2,L,J
+   2,K
+   2
+   1,J
+   7,R
+   3,R,J
+  14,U,X
+   2,J
+  40
+
+#lvl_10
+Read, ../CelesteTAS/1HC, lvl_10, Return
+  62
+Read, RTMReenter, 2RCollect, 2RCollectEnd
+Read, 1A-chasm, RTM

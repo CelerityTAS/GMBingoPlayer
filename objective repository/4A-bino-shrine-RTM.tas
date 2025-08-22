@@ -1,0 +1,73 @@
+RecordCount: 103
+
+
+console load 4 lvl_b-00
+   1
+#Start
+  36
+   5,R,J
+  14,R,U,X
+  12,R,K,G
+   1,R,J,G
+   2,R,K,G
+  11,R,J,G
+   7,R
+   2,R,J
+  12,J
+  16,U,X
+   2,R
+   2,R,J
+   3,L,J
+   1,R,K,G
+   1,R,J,G
+   9,R,K,G
+  13,R
+   4,X
+   6,R,K
+  40
+
+#lvl_b-02
+   3,R,K
+   2,K
+   5,U,X
+   6,L,J
+   1,L,K,G
+   2,L,J,G
+   1,J
+   2,L
+   1,L,K,G
+   9,L
+   1,N
+   6
+#Bino1
+   1,S
+   1,D,J
+  72,O
+   4,Z
+   1,L,J
+  43
+
+
+#lvl_b-00
+  10,L,J
+  15,U,X
+   7,R,K,G
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   2,R
+  15,U,Z
+   2,L
+  15,J
+   9
+   1,L
+   1,L
+  10,R,D,X
+   1,R,J
+   5,R,K,G
+   4,R,J,G
+   8,R,U,X
+  40
+#syncs from lvl_b-02 with all other shrine tases
+Read, ../CelesteTAS/4A, lvl_b-02, lvl_c-00

@@ -1,0 +1,14 @@
+RecordCount: 41
+
+
+console load 5 lvl_c-00
+   1
+#Start
+  36
+
+Read, ../CelesteTAS/5S, Unravelling, lvl_c-08
+
+#lvl_c-08
+Read, ../CelesteTAS/5A, lvl_c-08, lvl_c-07
+#lvl_c-07
+Read, ../CelesteTAS/5S, lvl_c-07, lvl_d-00

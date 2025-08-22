@@ -1,0 +1,21 @@
+RecordCount: 140
+
+
+console load 7 lvl_f-00
+   1
+#Start
+  36
+  10,R
+   1,R,J
+   1,R
+  15,L,U,X
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   6,L,U,Z
+  40
+
+Read, ../CelesteTAS/7HC, lvl_f-01, lvl_f-07 (1)
+#lvl_f-07
+Read,../CelesteTAS/7A,lvl_f-07,lvl_g-00

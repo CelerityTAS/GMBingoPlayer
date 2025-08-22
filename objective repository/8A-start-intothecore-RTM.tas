@@ -1,0 +1,7 @@
+RecordCount: 4
+console hearts 4
+console load 9
+   1
+
+#Start
+Read, ../CelesteTAS/8A, Start, lvl_c-00

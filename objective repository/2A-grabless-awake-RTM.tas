@@ -1,9 +1,9 @@
-RecordCount: 266
+RecordCount: 265
 
 console load 2 lvl_end_3
    1
 
-#RTM
+#Start
   36
 Unsafe
    1,S
@@ -85,69 +85,6 @@ Unsafe
 Safe
   18
 
-Play, 2Aawakeendg
-
-
-Read, 2A-start
-Read, 2A-intervention, Start
-#Start
-#lvl_end_0
- 110
-Unsafe
-   1,S
-   1,J,F,180
-   1,R
-   1,X
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
-Safe
-  36
-   4,R,D,X
-  10,R,X
-   1,R,J
-   7,R
-  40
-
-#lvl_end_1
-   7,R,J
-  15,R,D,X
-   5,R,J
-   7,R
-   3,R,J
-  12,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-   6,R,D,X
-  40
-
-#lvl_end_2
-   1,R
-   1,R,J
-   7,R
-  11,R,J
-   4,D,X
-  10,R,X
-   6,R,J
-  15,R,D,X
-   7,R,J
-   9,R,D,X
-  40
-
-#lvl_end_3
-#Checkpoint
-   6,R
-   1,R,J
-  14,R
-  11,R,J
-   7,R
-   9,R,J
-   5,R
-  11,R,D,X
-  40
-Read, ../Grabless/G2A, lvl_end_4, lvl_end_6
-#2Aawakeendg
 #lvl_end_6 (1)
    1,R
    9,R,J

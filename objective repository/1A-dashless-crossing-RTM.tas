@@ -1,0 +1,63 @@
+#RecordCount: 31
+console load 1 lvl_6
+   1
+
+#Start
+  36,O
+#lvl_6
+   3,R
+   1,R,K
+  14,R
+   7,R,K
+   2,R
+   9,R,J,G
+   4,R
+  12,L,K
+   9,J,G
+   1,L,J
+   1,J
+   1,L,J
+   1,K
+   9,J,G
+   5,R,J
+   1,R,K,G
+   2,R,J,G
+   1,J
+   8,R,J
+   5,R
+   2,R,J
+  10,R,D
+   5,D
+   4,R,D
+   1,J
+   4,R,J
+   5,R
+   1,K
+   1,R,J,G
+   3,R,K,G
+   5,R
+   2,R,K
+   5,R
+   1,R,J,G
+   2,R,K,G
+   9,R
+   2,R,K
+   1,R
+   1
+   2,R
+   8,D
+   1,R,D
+   3,D
+   2,R,D
+   5,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+   8,R
+   1,R,J,G
+   6,R
+  43
+
+Read, ../CelesteTAS/1D, lvl_6a, lvl_9b

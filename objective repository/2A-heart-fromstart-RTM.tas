@@ -1,0 +1,12 @@
+RecordCount: 3
+
+console load 2
+   1
+
+#Start
+Read, ../CelesteTAS/2HC, Start, Restart
+#Collect
+   1,S
+   1,U,J
+   1,O
+  30

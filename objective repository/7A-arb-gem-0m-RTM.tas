@@ -1,0 +1,58 @@
+RecordCount: 11
+
+console load 7
+   1
+#Start
+Read, ../CelesteTAS/7SHC, Start, lvl_a-06
+#lvl_a-06
+   1,R
+  14,R,D,X
+   1,R,J
+  13,R,U,X
+  42,R
+  19,R,X
+  18,R,U,C
+  43,R
+  10,R,U,X
+  19,L
+  15,L,X
+  29,L,D
+  16,L,X
+  46,R
+  15,U,X
+   8,L,U,C
+  33,R
+  28,R,X
+  27,R,C
+   6,R,K,G
+   3,L,K
+   1,L
+   1,R,J,G
+   1,L,J
+   2,J
+   2,L,J
+   2,R,J
+   1,R
+   1,K,G
+   1
+   1,R
+   2,R
+   1,R
+   1,R
+   1,L
+   1,L
+   5,L,Z
+   1,R,J
+   6,R
+   9,R,J
+   1,R,J
+   1,R,J
+   4,R
+  27,L,D,X
+   7,L,U,C
+   1,L,J,G
+  35,L,D
+ 158
+   1,S
+   1,D,J
+ 141

@@ -1,0 +1,32 @@
+RecordCount: 123
+console load 1 lvl_9b
+   1
+
+#Start
+  36
+   1,R
+   1,R,J
+  15,R,U,Z
+   1,K
+   2,L,J,G
+   1,L
+   4,L,K,G
+   4,R
+   2
+   1,J
+   1
+  14,R,D,X
+  22,R,J
+  15,R,X
+   1,R
+   1,R,K
+   4,J
+  12,U,X
+   1,J
+   1,K
+   7
+   4,R,J
+   9,U,X
+  40
+
+Read, ../CelesteTAS/1A, lvl_10a

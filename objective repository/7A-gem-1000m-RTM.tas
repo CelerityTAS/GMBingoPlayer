@@ -1,0 +1,16 @@
+RecordCount: 12
+
+console load 7
+   1
+Read, 7A-0m, Start
+Read, 7A-500m, Start
+  40
+#Start
+  22
+#500mARBCollect
+  14
+
+Read, ../CelesteTAS/7A, 1000M, lvl_c-04
+Read, ../CelesteTAS/7HC, lvl_c-04, lvl_c-08
+#lvl_c-08
+Read,../CelesteTAS/7A,lvl_c-08,lvl_d-00
