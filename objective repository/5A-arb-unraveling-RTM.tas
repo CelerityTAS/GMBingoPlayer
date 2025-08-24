@@ -1,17 +1,7 @@
 RecordCount: 39
 
 
-Read, 5A-start
-Read, 5A-depths, Start
 #Start
-#lvl_c-00
- 111
-   1,S
-   1,D
-   1,F,180
-   1,D,J
-SaveAndQuitReenter
-#RTM
   36
 
 Read, ../CelesteTAS/5S, Unravelling, lvl_d-00
