@@ -1,0 +1,6 @@
+RecordCount: 1
+
+console load 10
+   1
+#Start
+Read, ../CelesteTAS/9, Start, lvl_c-00

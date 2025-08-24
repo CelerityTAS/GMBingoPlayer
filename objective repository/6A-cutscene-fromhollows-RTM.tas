@@ -1,0 +1,46 @@
+RecordCount: 88
+
+console load 6 lvl_04
+   1
+#lvl_04
+#Start
+  36
+   9,L,Z
+   1,R,J
+   7,R
+   3,R,J
+   1,J
+   1,R,K,G
+   1,K
+   2,R,K
+  10,R,J,G
+   1,J
+   8,R,J
+  13,R,X
+   6,R,K,G
+   3,R
+   1
+   3,R
+   2,R,J
+  14,R,D,X
+  43
+
+
+#lvl_04d
+   6,R,D
+   1,R,J
+   5,R
+   1,R
+   3,R,J
+   7,R,D
+  26,D
+  70
+Repeat, 75
+   1,J
+   1,O
+EndRepeat
+#Collect
+   1,S
+   1,U,J
+   1,O
+  31

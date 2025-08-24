@@ -1,0 +1,28 @@
+console load 3 lvl_08-a
+   1
+Read, 3A-enterpico-fromhugemess-RTM, Start
+
+#Start
+Read, ../Pico8/100%/100%, Start, 5Berries
+#5Berries
+Read, ../Pico8/100%/100%, 5Berries, OldSite
+#OldSite
+Read, ../Pico8/100%/100%, OldSite, 10Berries
+#10Berries
+Read, ../Pico8/100%/100%, 10Berries, Orb
+#Orb
+Read, ../Pico8/100%/100%, Orb, 15Berries
+#15Berries
+Read, ../Pico8/100%/100%, 15Berries, 18Berries
+#18Berries
+Read, ../Pico8/100%/100%, 18Berries
+   1,S
+   1,U,J
+  32
+#lvl_11-a
+  32
+#Exit
+   1,S
+   1,U,J
+   1,O
+  31
