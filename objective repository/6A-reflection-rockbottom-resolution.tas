@@ -67,4 +67,6 @@ SaveAndQuitReenter
   40
 
 #lvl_b-02
-Read, ../CelesteTAS/6A, lvl_b-02
+Read, ../CelesteTAS/6A, lvl_b-02, lvl_boss-00
+#Rock Bottom
+Read, ../CelesteTAS/6A, lvl_boss-00
