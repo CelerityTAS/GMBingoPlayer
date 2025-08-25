@@ -1,0 +1,70 @@
+RecordCount: 775
+console load 6 lvl_b-00
+   1
+Play, RTM
+
+Read, 6A-start
+Read, 6A-lake, Start
+Read, 6A-hollows, Start
+
+#Start
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+#RTM
+  36
+#cycle
+   2
+#
+   1,L
+   1,L,J
+  10,R,D,X
+   5,R,J
+  15,R,D,X
+   1,R,J
+   3,R,K,G
+  12,R,J,G
+  15,R,D,X
+   5,R,J
+   1,J
+   1,R
+   1,R,K,G
+   1,R
+   2,R,K,G
+   7,R
+   1,R,J
+   8,R,D,X
+   1,S
+   1,D,J
+  34
+   2,R
+   1,R,J
+   3,R
+  11,R,D,X
+   2,R,K,G
+   1,R,J
+   5,R
+   1,R,J
+   2,R
+  40
+
+#lvl_b-01
+   4,R
+   2,R,J
+   9,R,K,G
+   6,R,D,X
+   3,R,K,G
+   5,R
+   1,R,K
+  10,R
+   1,R,K
+  14,R,D
+  15,D,X
+  16,R,D
+  10,D
+  40
+
+#lvl_b-02
+Read, ../CelesteTAS/6A, lvl_b-02
