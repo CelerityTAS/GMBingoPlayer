@@ -1,0 +1,172 @@
+RecordCount: 145
+
+console load 7
+   1
+Read, 7A-0m, Start
+Read, 7A-500m, Start
+#Start
+  40
+#RTM
+  22
+#500mARBCollect
+  14
+
+Read, ../CelesteTAS/7S, 1000M, lvl_c-03b
+
+#lvl_c-03b
+   2,L,J
+   4,L
+   3
+  15,D,X
+   1,N
+   6
+#Bino1
+   1,S
+   1,D,J
+  69,O
+   4,Z
+   1,R,J
+  40
+
+#lvl_c-03
+  21,R,J
+   5,K
+  28,R,C
+   4,R,J
+  14,R,K
+  15,R,U,X
+  20,R,C
+   4,R,J
+   2,R,K
+  15,R,D,X
+   8,R
+  44,R,Z
+   5,R,J
+  10,R,K
+   6,R
+  15,R,U,X
+  49,R,C
+   4,R,J
+   1,R,K
+   2,R
+  40
+
+#lvl_c-04 (0)
+Read, ../CelesteTAS/7S, lvl_c-04 (0), lvl_c-05
+#lvl_c-05
+   3,J
+   4,K
+  10,L
+   2,L
+   1,N
+   6
+#Bino2
+# retry saves time on room leave, but does not make gultra possible
+  28
+   1,X
+  19
+   5,R
+   1,R,J
+   1,R
+  15,D,X
+  14,L,Z
+   1,L,J
+  40
+
+#lvl_c-04 (1)
+Read, ../CelesteTAS/7S, lvl_c-04 (1), lvl_c-06 (0)
+Read, ../CelesteTAS/7SHC, lvl_c-06, lvl_c-06c
+#lvl_c-06c
+   1,R
+   1,R,J
+   5,R
+   5
+  15,D,X
+   1,N
+   6
+#Bino3
+  28
+   1,X
+  19
+   1,L,J
+  10,R,Z
+  10,L,J
+   5,L,K,G
+   2,L
+   8,L,U,Z
+  40
+
+#lvl_c-06b
+   7,L,U,Z
+  17,L,U,X
+   4,L,J
+   3,L,K
+  16,L,D,X
+  12,L,J
+  14,L,U,Z
+   1,R
+   1,R,J,G
+   2,J,G
+  16,U,C
+  40
+
+#lvl_c-07 (0)
+Read, ../CelesteTAS/7SHC, lvl_c-07 (0), lvl_c-07b
+#lvl_c-07b
+   1,L,J
+   3,L
+  14,L,Z
+   1,R,J
+  15,D,X
+   1,N
+  17
+#Bino4
+   1,S
+   1,D,J
+  69,O
+   1,L,J
+  12,R,Z
+   1,R,J
+  11,R,K,G
+  13,R,D,X
+  40
+
+
+#lvl_c-07 (1)
+   2,R,D
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+  14,R,U,X
+   1,R,K,G
+   9,R
+  22,R,J
+   4,R
+  15,R,D,X
+   4,R
+   5,R,K,G
+  21,R,X
+   4,R,K
+   4,R,J
+  15,R,D,X
+  22,R,V
+   4,R,K
+   1,R,J
+  15,R,D,C
+  30,R,U,X
+   4,R,J
+   4,Z
+   6,R,J
+   1,R
+   1,R,J
+   8,R
+   1,R,J
+  14,R,D,X
+   2,R,J
+   8,R,D,X
+  40
+
+#lvl_c-08
+Read, ../CelesteTAS/7SHC, lvl_c-08, lvl_c-09
+Read, ../CelesteTAS/7A, lvl_c-09, lvl_d-00
