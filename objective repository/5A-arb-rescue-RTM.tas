@@ -22,4 +22,6 @@ console load 5 e-00
   34
 # cycle
    0
-Read,../CelesteTAS/5S,-------------
+Read, ../CelesteTAS/5S, -------------, lvl_e-05
+#Collect
+Read, ../CelesteTAS/5S, lvl_e-05
