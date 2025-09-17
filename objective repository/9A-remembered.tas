@@ -1,5 +1,5 @@
-RecordCount: 196
-
+RecordCount: 198
+play 83
 console load 10
    1
 Read, 9A-start-singular-DTS, Start
@@ -79,10 +79,14 @@ EndStunPause
 Read, ../CelesteTAS/9, Event Horizon, lvl_f-door
 Play, Exit
 
+
 console load 10 lvl_e-00z
    1
+
 #RTM
+#Start
   36
+#ResyncRemembered
    8,R,J
    2,R
   14,R,U,X
@@ -106,14 +110,7 @@ console load 10 lvl_e-00z
   18,J
   40
 
-Play, lvl_e-00
 
-console load 10 lvl_c-00
-   1
-
-Read, 9A-powersource, RTM, lvl_e-00z
-#Start
-Read, ../CelesteTAS/9NMG, lvl_e-00z, lvl_e-00
 #lvl_e-00
 Read, ../CelesteTAS/9NMG, lvl_e-00, lvl_f-door
 #Exit

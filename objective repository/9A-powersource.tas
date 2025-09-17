@@ -1,4 +1,4 @@
-RecordCount: 219
+RecordCount: 228
 
 
 console load 10 lvl_c-00
@@ -82,17 +82,10 @@ console load 10 lvl_c-00
 #lvl_c-alt-00
 Read, ../CelesteTAS/9NMG, lvl_c-alt-00, lvl_e-00z
 #lvl_e-00z
-  14,R,K
-   1,J
-   1,K
-   9,L
-   1,L,J
-   1,L
-   1
-   1,L
-   2
-  15,D,X
-
+  15,R,K
+   1,S
+   1,D,J
+  33,O
 Play, End
 
 console load 10

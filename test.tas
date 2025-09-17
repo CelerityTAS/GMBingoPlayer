@@ -1,8 +1,13 @@
-RecordCount: 69
+RecordCount: 72
 
 
-Read, objective repository/5B-2keys, Start, Key2
-Read, RTM, Immediate
+console load 10
+   1
+
+
+Read, objective repository/9A-start-singular, DTS
+Read, objective repository/9A-keys-powersource, DTS
+Read, objective repository/9A-remembered, DTS
 
 # Read, EnterCP1WithPostcard
 # Read, objective repository/2A-start, Start
@@ -11,11 +16,4 @@ Read, RTM, Immediate
 # Read, RTM, WalkinCheckpoint
 
 
-# there is a problem with play command :catassault:
 # use "Read, RTM, Menu" for files that end after collecting a heart, like 2A-heart-fromstart or all 8A-...-heart-heartofthemountain files
-
-
-# allkeyssearch
-# farewell
-# pico
-# heart order
