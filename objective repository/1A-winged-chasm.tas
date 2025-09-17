@@ -12,7 +12,7 @@ console load 1 lvl_9b
    1,L
    4,L,K,G
    7,R
-Play, End
+Play, End1Awingedchasm
 
 
 Read, 1A-start
@@ -25,7 +25,7 @@ Read, 1A-crossing, Start
    1,R,J
    1,J
    1,R,J
-#End
+#End1Awingedchasm
   14,R,D,X
   19,R,J
   22,R

@@ -88,3 +88,6 @@ EndRepeat
 
 #lvl_a-01
 Read, ../CelesteTAS/5A, lvl_a-01 (0), lvl_b-00
+   1,S
+   1,D,J
+  33,O

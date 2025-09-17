@@ -1,12 +1,9 @@
-RecordCount: 72
+RecordCount: 98
 
 
-console load 1
-   1
+Read, EnterBSide
+Read, objective repository/7B, Start
 
-Read, objective repository/1A-start, Start
-Read, objective repository/1A-dashless-crossing, Start
-Read, objective repository/1A-cassette-chasm, Start
 
 # Read, EnterCP1WithPostcard
 # Read, objective repository/2A-start, Start
