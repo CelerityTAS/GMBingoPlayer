@@ -1,4 +1,4 @@
-RecordCount: 265
+RecordCount: 267
 
 console load 2 lvl_end_3
    1
@@ -136,6 +136,7 @@ Safe
   40
 
 #lvl_end_3
+#Checkpoint
    6,R
    1,R,J
   14,R
