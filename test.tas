@@ -1,13 +1,12 @@
 RecordCount: 72
 
 
-console load 10
+console load 1
    1
 
-
-Read, objective repository/9A-start-singular, DTS
-Read, objective repository/9A-keys-powersource, DTS
-Read, objective repository/9A-remembered, DTS
+Read, objective repository/1A-start, Start
+Read, objective repository/1A-dashless-crossing, Start
+Read, objective repository/1A-cassette-chasm, Start
 
 # Read, EnterCP1WithPostcard
 # Read, objective repository/2A-start, Start

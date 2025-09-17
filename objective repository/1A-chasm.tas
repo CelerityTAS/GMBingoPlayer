@@ -15,7 +15,7 @@ console load 1 lvl_9b
    2
    1,J
    1
-Play, End
+Play, End1AChasm
 
 
 Read, 1A-start
@@ -34,7 +34,7 @@ Read, 1A-crossing, Start
    2
    1,J
    1
-#End
+#End1AChasm
   14,R,D,X
   22,R,J
   15,R,X

@@ -70,4 +70,49 @@ Read, 1A-start, Start
    6,R
   43
 
-Read, ../CelesteTAS/1D, lvl_6a, lvl_9b
+Read, ../CelesteTAS/1D, lvl_6a, lvl_9
+#lvl_9 (0)
+   1,K,G
+   1
+   6,K,G
+   1,J
+   4,K,G
+   7,R,K
+   1,R,J,G
+   1,R,K,G
+   2
+   6,R
+   1,R,J
+   1,R
+   1,D,J
+   2,R,J
+   2
+   1,R
+   3
+   1,J
+   1
+  17,L,K,G
+   1,J
+   5,K,G
+   3,R,K
+   3,L,K
+   8,L,J,G
+   2,J
+   4,R,K
+   3,R,J,G
+  16,R
+   1,R,J
+   3,R
+  40
+
+#lvl_9b
+#Collect
+   5,L,D,X
+  40
+
+#lvl_9 (1)
+   7,L,D,X
+   1,R,J
+   3,R
+   1,R,J
+  40
