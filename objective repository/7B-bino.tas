@@ -1,0 +1,213 @@
+RecordCount: 102
+console hard 7
+   1
+#Start
+Unsafe
+Read, ../CelesteTAS/7B, Start, lvl_b-01
+#lvl_b-01
+   3,K,G
+   3,J,G
+   2,J
+   7,R,J
+   6,K,G
+   5,R,Z
+   1,R,J
+   1
+  14,R
+  15,D,X
+   1,N
+  14
+#Bino1
+   1,S
+   1,D,J
+  69,O
+
+  12,L,J
+   1
+  10,L,X
+   1,J,G
+   2,L,J
+   6,L
+   1,R
+   1,L
+   1,R
+  10,L
+# Looses 3f here \/
+  13,G
+   3,U,G
+  14,L,Z
+   1,R,J
+   4,R,K,G
+   6,R
+  14,U,X
+  10,R,J
+   7,J
+   5,R,X
+  10,R,J,G
+   5,R
+   2,R,J
+   2,R
+   1
+   1,R
+   4,L
+   1,L,K
+   5,D,X
+   1,R,J,G
+   5
+   1,R,J
+   1
+   1,J
+   2,L
+   1,R
+   1,R,G
+   7,U,G
+  12,R,J
+  16,R
+   1,G
+  11,K,G
+  19,U,G
+   1,J,G
+   1,L,J
+   1,J
+   6,R,K,G
+  15,R,J,G
+   4
+   6,L,U,X
+   1,L,J,G
+   5,L
+   2,L,J
+  11,L
+   6,D
+   1,L,K
+   3,L,J
+  15,L,D,X
+   2,L
+   8,L,D
+   6,L,K
+   7
+   1,G
+   4
+   1,R
+   7,U,G
+   3,J
+   8,U,X
+   6,R,K
+  16,K
+  14,U,X
+   8,L,J
+  40
+
+#lvl_b-02
+#lvl_b-02
+   2
+   9,R
+  10,R,D,X
+   1,R,J
+   4,R,K,G
+   1,R
+  12,R,U,X
+   1,R,J,G
+   4,R
+   6,R,U,X
+   1,R,J,G
+  10,R
+   9,R,J
+  15,R,D,X
+   7,R
+  24,R,J,G
+  15,R
+   3,R,D
+  13,R,U,Z
+   1,L
+  11,K,G
+   5,R
+   1
+   6,R
+  12,R,D,X
+   2,R,J,G
+   2,R
+  15,R,D,X
+   1,D
+   4,R,D
+   6,R,J
+   1,J
+  15,U,Z
+   1,L,K,G
+   1,R,K
+   1,L,J,G
+   1,L,K,G
+  10,L
+   1,N
+  11
+#Bino2
+  29
+   1,X
+  19
+  12,R,Z
+   1,R,J
+   3,R
+  15,D,X
+  10,L,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  12,R,K
+   7,R
+  18,R,U,X
+  14,R,V
+   1,R,J,G
+  13,R
+   1,K,G
+   4,R
+   1,R,K
+   1,R
+   2
+   2,R
+  40,R,D
+  29,R,X
+  15,R,V
+   1,R,J,G
+   3,L,J
+   1,R,K,G
+   7,R
+   7,R,Z
+   1,R,J
+   7,R
+  40
+
+#lvl_b-03
+Read, ../CelesteTAS/7B, lvl_b-03, Exit
+
+
+#lvl_e-00
+#2000M
+Read, ../RTM, Immediate
+Unsafe
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+  46
+Add 1
+  36
+Read, ../CelesteTAS/7B, Spinner_e-01
+Safe
+   1,S
+   1,U,J
+   1,O
+  31
