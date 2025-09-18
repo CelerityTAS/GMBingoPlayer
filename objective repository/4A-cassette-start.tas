@@ -5,5 +5,5 @@ console load 4
 
 #Start
 Read, ../CelesteTAS/4HC, Start, Return
-#Collect
+#Cassette
 Read, ../CelesteTAS/4HC, Return, lvl_b-00

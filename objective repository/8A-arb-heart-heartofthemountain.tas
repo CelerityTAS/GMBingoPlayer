@@ -43,7 +43,9 @@ Read, 8A-hotandcold, Start
   40
 
 #lvl_d-01
-Read, ../CelesteTAS/8S, lvl_d-01
+Read, ../CelesteTAS/8S, lvl_d-01, lvl_d-09
+#ARB
+Read, ../CelesteTAS/8S, lvl_d-09
    1
    1,S
    1,U,J

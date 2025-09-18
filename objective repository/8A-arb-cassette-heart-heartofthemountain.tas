@@ -1,4 +1,4 @@
-RecordCount: 45
+RecordCount: 46
 
 console load 9 lvl_d-00
    1
@@ -44,7 +44,12 @@ Read, 8A-hotandcold, Start
 
 #lvl_d-01
 Read, ../CelesteTAS/8S, lvl_d-01, lvl_d-07
-Read, ../CelesteTAS/8AC, lvl_d-07
+Read, ../CelesteTAS/8S, lvl_d-07, lvl_d-09
+#lvl_d-09
+#ARB
+Read, ../CelesteTAS/8S, lvl_d-09, lvl_d-11
+Read, ../CelesteTAS/8AC, lvl_d-11, Return
+Read, ../CelesteTAS/8AC, Return
    1,S
    1,U,J
    1,O

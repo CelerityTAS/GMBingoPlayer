@@ -54,9 +54,8 @@ Read, 1A-crossing, Start
 
 #lvl_10
 Read, ../CelesteTAS/1HC, lvl_10, Return
-  62
 #Cassette
-Read, ../RTM, Immediate
+Read, ../RTM, Cassette
 Unsafe
 Read, ../EnterCP3
 

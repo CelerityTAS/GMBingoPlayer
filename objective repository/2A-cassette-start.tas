@@ -5,7 +5,7 @@ console load 2
 
 #Start
 Read, ../CelesteTAS/2HC, lvl_start (2), Return
-#Return
+#Cassette
 Read, ../CelesteTAS/2HC, Return, lvl_1
 #lvl_1
 Read, ../CelesteTAS/2A, lvl_1 (1), lvl_3

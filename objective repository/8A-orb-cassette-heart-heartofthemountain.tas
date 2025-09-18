@@ -227,9 +227,9 @@ Read, ../CelesteTAS/8A, lvl_d-01, lvl_d-07
 
 #lvl_d-09
 Read, ../CelesteTAS/8S, lvl_d-09, lvl_d-11
-Read, ../CelesteTAS/8AC, lvl_d-11, lvl_space
+Read, ../CelesteTAS/8AC, lvl_d-11, Return
 #Cassette
-Read, ../CelesteTAS/8AC, lvl_space
+Read, ../CelesteTAS/8AC, Return
    1,S
    1,U,J
    1,O

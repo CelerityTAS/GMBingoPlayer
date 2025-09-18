@@ -87,6 +87,7 @@ Read, ../CelesteTAS/5HC, lvl_b-01, lvl_b-01b
   40
 
 #lvl_b-04
-Read, ../CelesteTAS/5HC, lvl_b-04, lvl_b-16
-#Collect
+Read, ../CelesteTAS/5HC, lvl_b-04, Exit
+#Heart
+Read, ../CelesteTAS/5HC, Exit, lvl_b-16
 Read,../CelesteTAS/5S,lvl_b-16,lvl_c-00

@@ -11,7 +11,6 @@ Read, 7A-1000m, Start
   22
 #1000mARBCollect
   19
-***S
 
 Read, ../CelesteTAS/7S, 1500M, lvl_d-02
 Read, ../CelesteTAS/7SHC, lvl_d-02, Return

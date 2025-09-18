@@ -1,4 +1,4 @@
-RecordCount: 40
+RecordCount: 41
 
 console load 5 b-00
    1
@@ -41,9 +41,10 @@ console load 5 b-00
   40
 
 
-Read, ../CelesteTAS/5HC, lvl_b-01, lvl_b-17 (1)
+Read, ../CelesteTAS/5HC, lvl_b-01, Return
 #Cassette
-#lvl_b-17
-Read, ../CelesteTAS/5HC, lvl_b-17 (1), lvl_b-16
+Read, ../CelesteTAS/5HC, Return, Exit
+#Heart
+Read, ../CelesteTAS/5HC, Exit, lvl_b-16
 #lvl_b-16
 Read,../CelesteTAS/5S,lvl_b-16,lvl_c-00

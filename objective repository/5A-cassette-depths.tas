@@ -41,10 +41,9 @@ console load 5 b-00
   40
 
 
-Read, ../CelesteTAS/5HC, lvl_b-01, lvl_b-17 (1)
+Read, ../CelesteTAS/5HC, lvl_b-01, Return
 #Cassette
-#lvl_b-17
-Read, ../CelesteTAS/5HC, lvl_b-17 (1), lvl_b-02 (1)
+Read, ../CelesteTAS/5HC, Return, lvl_b-02 (1)
 #lvl_b-02
    9,L,U,V
    5,K,G

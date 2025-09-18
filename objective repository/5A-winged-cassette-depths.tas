@@ -1,4 +1,4 @@
-RecordCount: 84
+RecordCount: 85
 
 console load 5 b-00
    1
@@ -82,8 +82,9 @@ Read,../CelesteTAS/5S,lvl_b-20 (2),lvl_b-01 (4)
 #Winged
 Read,../CelesteTAS/5S,lvl_b-01 (4),lvl_b-01b
 
-Read, ../CelesteTAS/5HC, lvl_b-01b, lvl_b-17 (1)
+Read, ../CelesteTAS/5HC, lvl_b-01b, Return
 #Cassette
+Read, ../CelesteTAS/5HC, Return, lvl_b-17 (1)
 Read, ../CelesteTAS/5HC, lvl_b-17 (1), lvl_b-02 (1)
 #lvl_b-02
    9,L,U,V
