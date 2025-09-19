@@ -1,8 +1,8 @@
 RecordCount: 98
 
 
-Read, EnterBSide
-Read, objective repository/7B, Start
+Read, EnterCP2
+Read, objective repository/7A-500m, RTM
 
 
 # Read, EnterCP1WithPostcard
