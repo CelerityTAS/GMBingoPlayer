@@ -1,0 +1,97 @@
+RecordCount: 76
+console hard 7
+   1
+#Start
+Unsafe
+Read, ../CelesteTAS/7B, Start, Exit
+#2000M
+Read, ../RTM, Immediate
+Unsafe
+   1,J
+  43
+   1,R
+   1,J
+  30
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+  46
+Add 1
+  36
+Read, ../CelesteTAS/7B, Spinner_e-01, lvl_e-02
+#lvl_e-02
+   1,R,J,G
+  10,R,K,G
+  14,R,Z
+  16,R,J
+  14,R,Z
+   1,R,J
+  14,R,D,X
+  16,R,J
+   3,R
+  11,R,D,X
+   1,J,G
+  11,R
+  12,R,J
+  20,R,D,X
+   1,R,J
+   2,R
+  12,R,X
+   3,R,J,G
+  12,R,D,X
+   6,R
+Repeat, 4
+   1,S
+   1,D,J
+  69,O
+  10,R,X
+   1,R,J
+   1,J
+  10,R,J
+  15,R,X
+  14,R,Z
+   1,R,J
+  11,R,D,X
+  13,R,J
+   6,R
+  10,R,D,X
+   1,J,G
+  11,R
+  12,R,J
+  20,R,D,X
+   1,R,D
+   2,R,J
+   1,R
+  11,R,X
+   1,R,J,G
+   3,R
+  12,R,D,X
+   6,R
+EndRepeat
+   3,R
+   7,R,D,X
+  40
+
+#lvl_e-03
+   8,R,D,X
+  12,R,U,C
+  40,L
+#Spinner_e-03
+   1
+#end_cycle_e-03
+Read, ../CelesteTAS/7B, end_cycle_e-03
+Safe
+   1,S
+   1,U,J
+   1,O
+  31
