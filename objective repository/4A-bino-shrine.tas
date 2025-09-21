@@ -97,5 +97,7 @@ Read, 4A-start
    4,R,J,G
    8,R,U,X
   40
-#syncs from lvl_b-02 with all other shrine tases
+
+#lvl_b-02
+# syncs from lvl_b-02 with all other shrine tases
 Read, ../CelesteTAS/4A, lvl_b-02, lvl_c-00

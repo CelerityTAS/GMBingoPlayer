@@ -1,4 +1,4 @@
-RecordCount: 85
+RecordCount: 86
 console load 1 lvl_9b
    1
 
@@ -38,11 +38,12 @@ Read, 1A-crossing, Start
    2
    1,J
    7,R
-   3,R,J
-  14,U,X
-   2,J
+   1,J
+   2,R,J
+  15,U,X
+   1,L,J
   40
-Read, ../CelesteTAS/1SH2, lvl_10 (0)
+Read, ../CelesteTAS/1SHC, lvl_10 (0)
 Unsafe
 Read, ../RTM, Menu
 Read, ../EnterCP3
