@@ -5,6 +5,16 @@ console load 3 lvl_09-d
 
 #RTM
   36
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,F,
+   1,U,J
+   9
+Safe
    7,L,J
   15,U,X
   18,R,J

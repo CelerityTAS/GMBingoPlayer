@@ -1,16 +1,7 @@
-RecordCount: 101
+# figure out naming scheme lol
+# seekerkills
+# pure 1up files
 
-
-Read, EnterCP3
-Read, objective repository/9A-keys-bino-powersource, RTM
-Read, objective repository/9A-remembered, Start
-
-
-# Read, EnterCP1WithPostcard
-# Read, objective repository/2A-start, Start
-# Read, objective repository/2A-arb-1up-2up-3up-intervention, Start
-# Read, objective repository/2A-awake, Start, Checkpoint
-# Read, RTM, WalkinCheckpoint
 
 
 # use "Read, RTM, Menu" for files that end after collecting a heart, like 2A-heart-fromstart or all 8A-...-heart-heartofthemountain files

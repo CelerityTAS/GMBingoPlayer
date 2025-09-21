@@ -1,6 +1,4 @@
-console load 3 lvl_08-a
-   1
-Read, 3A-enterpico-fromhugemess-RTM, Start
+Read, 3A-enterpico-fromhugemess
 
 #Start
 Read, ../Pico8/100%/100%, Start, 5Berries

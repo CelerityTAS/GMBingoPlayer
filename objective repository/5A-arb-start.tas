@@ -1,7 +1,10 @@
-RecordCount: 1
+RecordCount: 2
 
 console load 5
    1
 
 #Start
 Read, ../CelesteTAS/5S, Start, Exit
+#arb
+Read, ../RTM, Immediate
+Read, ../EnterCP2

@@ -5,7 +5,7 @@ console load 9 lvl_c-00
 #RTM
   36
    9,R,Z
-Play, corearbhac
+Play, corearbhacresync
 
 
 console hearts 4
@@ -21,7 +21,7 @@ Read, 8A-start-intothecore, Start
    1,R,J,G
    7,R
    4,D,X
-#corearbhac
+#corearbhacresync
    1,R,J
    7,R
    7,R,J
