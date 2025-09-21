@@ -1,5 +1,4 @@
-RecordCount: 115
-
+RecordCount: 146
 
 console load 4 lvl_c-00
    1
@@ -18,22 +17,28 @@ console load 4 lvl_c-00
    2,L
    2,L,J,G
    7,L
+   1
 Play, 4atrailend
-
 
 Read, 4A-start
 Read, 4A-shrine, Start
 #Start
 #lvl_c-00 (0)
-   4
-  31,R,J
+   1,R,J,G
+   1,K
+  11,L,J
+   4,L
+  12,R,K
   15,U,X
-   4
-  21,L,J
-  12,K,G
-   3
-   3,J,G
-   7
+   1,R
+  20,L,J
+  12,L,K,G
+   7,J,G
+   1,R
+   1,L,K,G
+   2,L
+   2,L,J,G
+   7,L
 #4atrailend
    6,R,Z
    1,L,J
