@@ -28,7 +28,7 @@ Safe
   40,R
 
 #lvl_a-00d
-Read, ../Grabless/G5A1.3.0.0, lvl_a-00d, lvl_b-00
+Read, ../Grabless/G5A, lvl_a-00d, lvl_b-00
    1,S
 Unsafe
    1,F,180
