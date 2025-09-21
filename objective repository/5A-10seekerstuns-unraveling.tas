@@ -1,0 +1,108 @@
+RecordCount: 86
+
+console load 5 lvl_c-00
+   1
+play RTM
+
+Read, 5A-start
+Read, 5A-depths, Start
+#Start
+#lvl_c-00
+ 111
+   1,S
+   1,D
+   1,F,180
+   1,D,J
+SaveAndQuitReenter
+#RTM
+  36
+Read, ../CelesteTAS/5S, Unravelling, lvl_c-08b
+#lvl_c-08b
+   1,R
+   1,R,J
+   9,R
+   6,D
+   7,L,D
+  13,R,D,X
+   3,R,J
+  13,R,U,X
+   1,L
+   5,J,G
+   6
+  12,R,D
+  12,L,Z
+   1,L,J
+   6,L
+  20,J
+  15,R,U,Z
+  13
+   9
+#1stun
+  15,D,X
+   9,R
+  70
+  12,J
+  29
+   7,D,X
+#2stun
+ 100
+  12,J
+  29
+   7,D,X
+#3stun
+ 100
+  12,J
+  29
+   7,D,X
+#4stun
+ 100
+  12,J
+  29
+   7,D,X
+#5stun
+ 100
+  12,J
+  29
+   7,D,X
+#6stun
+ 100
+  12,J
+  29
+   7,D,X
+#7stun
+  17,R
+  14,R,D,X
+   9,R,J
+  10,U,X
+  11,R,J
+  11,R
+   1,J
+   1
+   5,L,Z
+   1,R,J
+   6
+   7,R
+   2,L,D
+  11,D
+  15,R,U,Z
+  12,R,J
+   2,K,G
+   1,L,K
+  12,R,J,G
+   7,R
+   4,D,X
+   1,R,J
+   2,R
+  40
+
+#lvl_c-08
+Read, ../CelesteTAS/5A, lvl_c-08, lvl_c-10
+#lvl_c-10
+#8stun
+Read, ../CelesteTAS/5A, lvl_c-10, lvl_c-07
+#lvl_c-07
+Read, ../CelesteTAS/5S, lvl_c-07, lvl_c-11
+#lvl_c-11
+#9stun
+Read, ../CelesteTAS/5S, lvl_c-11, lvl_d-00
+#10stun

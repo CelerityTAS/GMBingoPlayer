@@ -2,7 +2,18 @@ RecordCount: 1
 console hard 5
    1
 #Start
-Read, ../CelesteTAS/5B, Start
+Read, ../CelesteTAS/5B, Start, lvl_c-00
+
+#lvl_c-00
+ 110
+   1,S
+   1,F,180
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+#TTM
+  36
+Read, ../CelesteTAS/5B, 5BG1
    1,S
    1,U,J
    1,O
