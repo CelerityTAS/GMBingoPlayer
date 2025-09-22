@@ -1,12 +1,12 @@
-RecordCount: 112
+RecordCount: 160
 
 Read, 4A-start
 Read, 4A-shrine, Start
 Read, 4A-oldtrail, Start
 #Start
 #RTM
-#lvl_d-00 (0)
   36
+#lvl_d-00 (0)
    5,L
   16,L,J
   15,U,X
@@ -31,18 +31,7 @@ Read, 4A-oldtrail, Start
 #lvl_d-00b
    7,L
   14,R,D
-   4,R,D
-  15,L,D,X
-   3,L,D
-   8,R,D
-   2,D
-   1,N
-   7
-#Bino1
-   1,S
-   1,D,J
-  69,O
-   1,R,J
+  12,L,D
   13,L,D,X
    1,L,J
    2,L,K,G
@@ -129,4 +118,96 @@ Read, 4A-oldtrail, Start
   43
 
 #lvl_d-01
-Read, ../CelesteTAS/4SH0, lvl_d-01
+Read, ../CelesteTAS/4SH0, lvl_d-01, lvl_d-02
+
+
+#lvl_d-02
+   4,R
+   2,R,J
+   3,R
+  15,R,D,X
+   1,R,J
+  17,R,D,X
+   3
+  15,L,D,X
+  15,D,C
+   6,R
+   1,D
+   1,R
+   2,D
+   7,R
+  10,L,X
+  12,R,J
+   1,L,J
+   1,K,G
+   2,J,G
+   9,R,D,X
+   5,R,J,G
+   5,R
+   1,R,J
+  16,R,D
+   8,R,J
+   1,R
+  10,K
+   2
+   1,R,J
+   1,R,K
+   3,R,J
+   7,R
+   6,D
+   5,L,D,X
+   1,R,J
+   2,R
+  40
+
+
+#lvl_d-03
+   4,R
+   6,R,J
+   6,R
+   2,R,J
+   1,R
+  14,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  12,R,D,X
+   6,R,J
+Repeat, 5
+   1,S
+   1,D,J
+  69,O
+   4,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   2,R,J
+   2,R
+  15,R,D,X
+   1,R,J
+   8,R,U,Z
+   1,L,K,G
+   8,R,K
+  10,R
+EndRepeat
+   1,S
+   1,D,J
+  69,O
+   9,L,J
+   6,R,D,X
+   1,L,J
+   3
+  40
+
+#lvl_d-02 (1)
+   1
+   1,J
+   3
+   7,R,Z
+   1,R,J
+   2,R
+  40
+
+#lvl_d-03 (1)
+Read, ../CelesteTAS/4SH0, lvl_d-03
