@@ -17,11 +17,18 @@ console load 1
 
 Read, 1A-start, Start
 #Start
-  14,R,J
+   2,R,J,G
+  12,R,K,G
   15,U,Z
-   1,L,J,G
+   1,L
+   1,J,G
+   2
+   4,J,G
    7,L
 #End
 
-Read, ../CelesteTAS/1HC, top-hyper, lvl_9
+Read, ../CelesteTAS/1HC, top-hyper, Exit
+#Heart
+Read, ../CelesteTAS/1HC, Exit, lvl_9
+
 Read, 1A-crossing, lvl_9

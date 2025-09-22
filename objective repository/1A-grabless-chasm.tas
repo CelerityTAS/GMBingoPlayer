@@ -1,0 +1,83 @@
+RecordCount: 150
+
+play 29
+console load 1 lvl_9b
+   1
+
+#RTM
+  36
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   1,R
+   1,R,J
+  15,R,U,Z
+   1,K
+   5,L,K
+   7,L
+   1,R
+Play, End1AChasm
+
+
+Read, 1A-start
+Read, 1A-crossing, Start
+#Start
+#lvl_9b
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   3,R
+   1,D,J
+   3,R,J
+  13,J
+   2,K
+   1,J
+   2,L,J
+   1,J
+   1,R,J
+
+#End1AChasm
+  11,L,Z
+   1,R,J
+   7,R
+  23,R,J
+  17,R,U,X
+   1,J
+   1,R,J
+   7,R
+  11,U,X
+  40
+
+Read, ../Grabless/G1A, lvl_10a, lvl_end
+#lvl_end
+  11,R,J
+   7,R
+   4,D,X
+  10,R,X
+   1,R,J
+   7,R
+   1,R,J
+  13,R,D,X
+   1,S
+Unsafe
+   1,F,180
+   1,D,J
+   1,L
+   1,X
+   1,U,J
+Safe
+  18

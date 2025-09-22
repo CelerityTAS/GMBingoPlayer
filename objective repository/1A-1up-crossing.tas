@@ -14,14 +14,16 @@ Play, End
 
 console load 1
    1
-
-Read, 1A-ARB-start, Start
+Read, 1A-dashless-start, Start
 #Start
-  14,R,J
+   2,R,J,G
+  12,R,K,G
   15,U,Z
-   1,L,J,G
+   1,L
+   1,J,G
+   2
+   4,J,G
    7,L
-  14
 #End
 Read, ../CelesteTAS/1A, top-hyper, lvl_6b
 #lvl_6b

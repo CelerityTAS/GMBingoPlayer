@@ -1,4 +1,4 @@
-RecordCount: 58
+RecordCount: 60
 
 console load 1
    1
@@ -52,10 +52,13 @@ Read, ../CelesteTAS/1SH0, Start, lvl_5a
    1
    2,R
   17,R
-  12,L,K
-   1,J,G
-   3,R,J
+   6,L,K
   15,U,X
+   2
+   1,R
+   3,R,K,G
+   3,R,J,G
+   1,K
   40
 
 #lvl_6

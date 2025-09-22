@@ -1,7 +1,7 @@
 #a
 #Restart
 console load 1
- 
+
 #lvl_1
   88
    7,R,X
@@ -83,7 +83,7 @@ console load 1
   13,U,X
   10,R,J
   40
- 
+
 #lvl_3b
   11,R
   13,R,X
@@ -100,7 +100,7 @@ console load 1
    1,R,J
    8,R,K
   40,R
- 
+
 #lvl_5
   11,R
   20,R,X
@@ -142,7 +142,7 @@ console load 1
    7,R,J
    8,R,D,X
   43
- 
+
 #lvl_6a
    4,R
    6,R,J
@@ -196,7 +196,7 @@ console load 1
   15,R,D,X
    6,R,J
   40
- 
+
 #lvl_6c
    5,R,J
   13,R,D
@@ -398,7 +398,7 @@ console load 1
   14,R,J
    6,R,U,X
   40,R
- 
+
 #lvl_12a
    9,R
    1,J

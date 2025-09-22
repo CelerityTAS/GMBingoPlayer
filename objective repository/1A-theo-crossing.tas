@@ -18,13 +18,16 @@ Play, End
 console load 1
    1
 
-Read, ../CelesteTAS/1A, Start, lvl_6
+Read, 1A-start, Start
 #Start
 #lvl_6 (1)
-  14,R,J
+   2,R,J,G
+  12,R,K,G
   15,U,Z
-   1,L,J,G
-   1,R
+   1,L
+   1,J,G
+   2
+   4,J,G
    7,L
 #End
    6,R,D,X

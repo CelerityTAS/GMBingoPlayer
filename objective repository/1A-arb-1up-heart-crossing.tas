@@ -17,11 +17,14 @@ console load 1
 
 Read, 1A-ARB-start, Start
 #Start
-  14,R,J
+   2,R,J,G
+  12,R,K,G
   15,U,Z
-   1,L,J,G
+   1,L
+   1,J,G
+   2
+   4,J,G
    7,L
-  14
 #End
 #lvl_6 (0)
    6,R,D,X
@@ -114,7 +117,9 @@ Read, 1A-ARB-start, Start
   40
 
 #lvl_6a
-Read, ../CelesteTAS/1SH0, lvl_6a, lvl_9
+Read, ../CelesteTAS/1SH0, lvl_6a, Exit
+#Heart
+Read, ../CelesteTAS/1SH0, Exit, lvl_9
 #lvl_9
   16,J
    1,R,K,G
