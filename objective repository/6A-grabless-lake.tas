@@ -1,0 +1,234 @@
+RecordCount: 129
+play 40
+console load 6 lvl_00
+   1
+#RTM
+  36
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   4,Z
+   1,L,J
+   7,L
+   7,L,J
+  15,L,D,X
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   6,L,K
+   2,K
+  15,L,D,X
+   5
+  13,U,X
+  11,R,J
+   9,J
+  15,U,X
+   1,R
+Play, 6Alakeend
+
+Read, 6A-start
+#Start
+#lvl_00
+  19
+  15,U,X
+  15,L,U,C
+   4,U
+  12,L,C
+   3,L,U,J
+  14,L,U,X
+   1,R,J
+  13,U,X
+  11,R,J
+   9,J
+  15,U,X
+   1,R
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+
+#6Alakeend
+   1,R
+  29,L,J
+   1,J
+  14,R,K
+  43
+
+#lvl_01
+AnalogMode, Precise
+Read, ../CelesteTAS/6HC, lvl_01, lvl_02
+#lvl_02
+  13,J
+  14,U,Z
+  27,L,U
+   9,F,335.077
+   1,F,332.952
+  29,F,323.869
+   1,F,325.04
+  11,F,25
+  30,F,25.979
+   1,F,25.778
+   6,F,19.192
+   1,F,18.15
+  22,F,2.678
+   1,F,359.856
+   8,F,304
+  13,L
+  14,L,U,Z
+   1,R
+   1,J
+   1,K
+   1,J
+   1,K
+   4,L,K
+   6,L
+   1,L,K
+   1,L
+   3,L,K
+   8,L
+   8,L,Z
+   1,L,J
+   1,L
+  40
+
+#lvl_03
+   1,L,J
+   5,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   9,L
+   6,L,U,X
+AnalogMode,Square
+  27,F,314.382
+AnalogMode,Precise
+   7,F,281.826
+  11,F,342
+  11,F,42
+   3,F,70
+  28,F,87.1482
+  29,F,87.1481
+  14,R,Z
+   1,R,J
+   5,R,U,X
+   8,R,K,G
+  40
+
+#lvl_02 (2)
+   4,R,K
+  14,R,U,X
+  27,L,U
+  20,F,330.658
+  11,F,20
+  14,F,78.161
+   1,F,79.161
+   8,F,100.312
+   1,F,105.192
+  33,F,160.315
+   7,F,155.769
+  10,F,151.462
+   6,F,110.426
+  11,F,62.584
+   1,F,61.274
+   1,F,49.938
+   2,F,45.599
+   1,F,45.417
+   1,F,40
+   1,F,37.632
+   1,F,30.217
+   9,F,344
+   1,F,343.278
+  39,F,347.53
+  20,F,346
+   1,F,338.666
+   1,F,327
+   1,F,327.35
+   1,F,329.848
+  11,F,324.554
+   2,F,327.073
+   1,F,322.78
+   1,F,333.146
+  11,F,330
+  40
+
+#lvl_02b
+AnalogMode, Square
+   2,F,270,0.6
+AnalogMode, Ignore
+   9,L
+  15,L,X
+   5,L
+  15,L,C
+  36,L
+   1,J
+   1,K,G
+  11,J,G
+  12,D,X
+Repeat 5
+   1,R,K
+   1,R,J
+   1,L,K
+   1,L,J
+Endrepeat
+   1,R,K
+   1,R,J
+   1,L,J
+  11,U,X
+   7,L,J
+   6,R,J
+  14,U,X
+   6,L,J
+  11,L
+   1,L,K
+  10,L
+   6
+   6,R,K
+Repeat,4
+   1,K
+   1,R,K
+EndRepeat
+   1,R,K
+  20,K
+   1,L,K
+  15,U,X
+   1
+   1,L
+   1,L,K
+   2,K
+  16,J
+  15,U,X
+   5,R,J
+  11,R
+   2,R,J
+  14,U,X
+  11,L,J
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,U
+   1,J,F,
+   9,J
+Safe
+   1,L,J
+  40
+AnalogMode,Ignore
