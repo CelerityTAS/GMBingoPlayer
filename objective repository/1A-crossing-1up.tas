@@ -14,7 +14,7 @@ Play, End
 
 console load 1
    1
-Read, 1A-dashless-start, Start
+Read, 1A-start, Start
 #Start
    2,R,J,G
   12,R,K,G

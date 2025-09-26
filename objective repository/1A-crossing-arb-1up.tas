@@ -1,4 +1,3 @@
-#RecordCount: 31
 console load 1 lvl_6
    1
 
@@ -15,7 +14,7 @@ Play, End
 console load 1
    1
 
-Read, 1A-ARB-start, Start
+Read, 1A-start, Start
 #Start
    2,R,J,G
   12,R,K,G
@@ -34,7 +33,7 @@ Read, 1A-ARB-start, Start
    5,L,D,X
   43
 
-#lvl_6z (0)
+#lvl_6z
    9,L,D,X
   21,L,J
    2,J
@@ -70,6 +69,7 @@ Read, 1A-ARB-start, Start
    1,S
    1,D,J
   69,O
+
 
 
    2,R,J
@@ -117,9 +117,7 @@ Read, 1A-ARB-start, Start
   40
 
 #lvl_6a
-Read, ../CelesteTAS/1SH0, lvl_6a, Exit
-#Heart
-Read, ../CelesteTAS/1SH0, Exit, lvl_9
+Read, ../CelesteTAS/1SH0, lvl_6a, lvl_9
 #lvl_9
   16,J
    1,R,K,G
@@ -146,7 +144,6 @@ Read, ../CelesteTAS/1SH0, Exit, lvl_9
   11,R,J,G
    7,R
   92
-#1UP
    4,Z
    1,R,J
   12,R

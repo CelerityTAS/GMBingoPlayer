@@ -1,8 +1,8 @@
-RecordCount: 198
-play 83
+RecordCount: 199
+# play 83
 console load 10
    1
-Read, 9A-start-singular-DTS, Start
+Read, 9A-start-singular, DTS
 Read, 9A-powersource, DTS
 #DTS
 Read, ../CelesteTAS/9, lvl_e-00z, lvl_e-01

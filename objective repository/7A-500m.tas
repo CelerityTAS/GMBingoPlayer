@@ -1,5 +1,5 @@
 RecordCount: 11
-
+play 12
 console load 7 lvl_b-00
    1
 #RTM
@@ -9,7 +9,7 @@ console load 7 lvl_b-00
    2
 Play, End
 
-Read, ../CelesteTAS/7A, Start, lvl_b-00
+Read, ../CelesteTAS/7A, 0, lvl_b-00
 #Start
   62
 #0mARBCollect
