@@ -17,4 +17,5 @@ Read, 7A-gem-2500m, Start
 Read, ../CelesteTAS/7A, 3000M, lvl_g-00b
 #lvl_g-00b
 Read,../CelesteTAS/7HC,lvl_g-00b,Exit
+#Heart
 Read, ../CelesteTAS/7HC, Exit
