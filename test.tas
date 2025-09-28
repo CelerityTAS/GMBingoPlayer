@@ -7,6 +7,13 @@
 # fast berries where collect is guaranteed
 # progress 1up multickeckpoint files
 
+## Mess Orders
+# 1:21.243(4779) cbt Any% Order
+# 1:24.031(4943) bct
+# 1:26.428(5084) btc
+# 1:25.323(5019) tcb
+# 1:26.615(5095) tbc heart Order
+##
 
-# 3A Stopping labels are broken on RTM
-# use "Read, RTM, Menu" for files that end after collecting a heart, like 2A-heart-fromstart or all 8A-...-heart-heartofthemountain files or B-sides
+# Stopping labels are broken on RTM
+# use "Read, RTM, Menu" for files that end after collecting a heart, like 2A-fromstart-heart or all 8A-heartofthemountain-heart files or B-sides
