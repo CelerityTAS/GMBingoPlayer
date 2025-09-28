@@ -1,0 +1,6 @@
+console hard 5
+   1
+#Start
+Read, 5B-2keys, Start, TTM
+#TTM
+Read, 5B-20seekerstuns, TTM
