@@ -1,0 +1,199 @@
+RecordCount: 259
+console load 5 lvl_e-00 0
+   1
+Play, RTM
+
+console load 5 3099.32226514816 2473.29146420956 343.33328 -44.999878
+  37
+   1,R,J
+  40
+Read,../CelesteTAS/5S,lvl_c-13,lvl_d-00
+Read, 5A-search, Start
+#Start
+#lvl_e-00
+   1,S
+   1,F,
+   1,U
+   1,J,F,
+SaveAndQuitReenter
+#RTM
+  36
+  10,L,X
+   4,R,J
+   1,R
+  15,R,U,X
+   4,R
+   1,R,K,G
+   7,R
+   4,Z
+   1,R,J
+   2,R
+   1,R,K,G
+   6,R
+   1,S
+   1,D,J
+  34
+# cycle
+   2
+Read,../CelesteTAS/5S,-------------,lvl_e-02
+#lvl_e-02
+   1,R,J,G
+   6,R,G
+   5,R,J,G
+   1,R,G
+   1,R,J,G
+   5,R,G
+  36,R,K,G
+   3,R,D,K
+   9,R,D,X
+   1,L,J
+   5
+  11,L
+  14,L,D,C
+   1,R,K
+   3,K
+  15,R,D,X
+  14,R,G
+   9,G
+   1,D,J
+  15,R,D,X
+
+  21,L
+  35,G
+   6,J,G
+   2,R,J,G
+   2,J,G
+   1,L
+  17,L,D,X
+   1,L,J
+  16,L,D,X
+   1,L,J
+   3,L
+   6,R,D,X
+   7,R,G
+#Kill1
+  10,R,G
+   1,L,D,J,G
+  10,L,X
+#Cyclewait
+   0
+#
+   4,J
+   7,J
+   1,L,J
+   1,K,G
+   1,K
+   1,L,J
+  14,L,D,C
+   1,R,K
+   3,K
+  15,R,D,X
+   5,R,D,C
+  13,G
+   1,R,J,G
+   8,R,G
+  40
+
+
+#lvl_e-03
+   6,R,G
+   6,R,K,G
+   5,R,G
+   2,R,K,G
+   1,R,G
+  19,R,J,G
+   1,J,G
+   1,R,J
+  15,U,X
+   2,R,J
+  16,R,J,G
+  10,R,G
+   2,R,J,G
+   6,R,G
+  10,D,G
+   1
+  14,D
+   1,L,D
+   1,G
+   1,L,K,G
+   1,L
+   1,L,K
+   4,L
+  14,L,Z
+   4,R,J
+  15,R,D,X
+   2,R,K
+  11,R,D,X
+  16,R,G
+   1,R,D,J,G
+  15,D,X
+   6
+  25,G
+  35,J,G
+   1,L
+   8,L,D
+#Kill2
+  14,L,D,X
+   1,L,J
+   4,L
+   1,L,J
+   2,L
+  21,L,G
+   1,R
+   9,R,D,J
+   7
+  11,L,Z
+   4,R,J
+  15,R,D,X
+   1,R,K
+  11,R,D,X
+  14,R,K,G
+  11,R,J,G
+  40
+
+#lvl_e-04
+   1,R,J,G
+   5,R,G
+  16,R,J,G
+   5,R,G
+  12,R,J,G
+   7,R,G
+   1,R,J,G
+   1,R,G
+   2,R,J,G
+   2,R,K,G
+   1,R,K
+  12,U,X
+   9,R,J
+  15,R
+  12,D
+   7,R,D
+   1,R,D
+  11,R,D
+  16,G
+   1,D
+  15,U,X
+  15
+  17,L,D
+  14,G
+   6,L,G
+#Kill3
+   1,R,J,G
+  14,R,G
+   1,D
+   1,J
+   4,L
+   3
+   1,J
+   2
+   1,J
+   4
+   4,R,Z
+   1,R,J
+  13,G
+   1,R,J,G
+  11,R,G
+  40
+
+#lvl_e-06
+Read, ../CelesteTAS/5S, lvl_e-06
