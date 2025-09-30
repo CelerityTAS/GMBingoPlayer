@@ -1,4 +1,4 @@
-RecordCount: 63
+RecordCount: 64
 
 console load 2 lvl_3
    1
@@ -79,3 +79,5 @@ Unsafe
    1,U,J
 Safe
   18
+#Wakeup
+Read, 2A-awake-grabless, Start, Checkpoint

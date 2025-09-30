@@ -1,7 +1,17 @@
 RecordCount: 644
 console load 2 lvl_end_3
    1
-
+  36
+#FromGrabless
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,J,F,
+Safe
+  33,O
 #RTM
   36
    7,R,Z
