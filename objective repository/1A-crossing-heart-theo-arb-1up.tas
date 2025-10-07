@@ -62,28 +62,70 @@ Read, 1A-start, Start
   23,L,K,G
   23,L,U,X
   14,L,U,C
-   2,L,J,G
-  14,L
-  19,R
-   1,R,J
+   4,L,J,G
+   5,L
+   1,L,J
+   3,L
+   1,L,J
+   7,L
+  14,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+  15,R,D
+  40
+
+
+#lvl_6zb
+   3,R,D
+   5,J
+   4
+  15,D,X
+   6,R,D
+   4,R,J
+  15,R,D,X
+  10,R,D
+   7,D
+   1,N
+#cutscene
+  30
+Repeat, 285
+   1,J
+   1,N
+EndRepeat
+  20
+#cutsceneEnd
    1,S
    1,D,J
   69,O
-
-
-
-   2,R,J
-  11,R,D,X
+  14,R,Z
+  20,R,J
+  15,R,D,X
+   3,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+   1,R,J
   40
 
+
 #lvl_6z (1)
-   9,R,D
-  14,R,Z
-   1,R,J
-  12,R,D,X
-   7,R,J
-  30,R
-   4,R,Z
+   7,R
+   3,R,J
+  15,R,D,X
+  20,R
+  12,R,U,X
+  16,R,K,G
+   2,J
+   1
+   9,R,K,G
+   1
+   1,R
+   1,R,J,G
+   7,R
+   5,R,Z
    1,R,J
    5,R
   40
@@ -144,6 +186,7 @@ Read, ../CelesteTAS/1SH0, lvl_6a, lvl_9
   11,R,J,G
    7,R
   92
+#1up
    4,Z
    1,R,J
   12,R
