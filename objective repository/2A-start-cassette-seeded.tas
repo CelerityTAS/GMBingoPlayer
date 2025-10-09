@@ -1,0 +1,104 @@
+RecordCount: 143
+
+console load 2
+   1
+
+#Start
+Read, ../CelesteTAS/2HC, lvl_start (2), Return
+#Cassette
+ 123
+   3,L
+  15,L,U,Z
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,J
+   2,K
+   2,L,J,G
+   1,K
+  40
+
+#lvl_d0 (1)
+   1
+   1,K
+   1,J,G
+   1,R,J
+   1,R,K,G
+   7,R,J,G
+  35,U,X
+   6,R,D,C
+   7,R,J
+   1,R
+   1,R,J
+   2,R
+   2,R,J
+   3,J
+  35,U,Z
+   4,L
+  15,U,C
+  10,L
+  15,L,J
+   2,K,G
+  40,L,C
+   4,L,J
+   4,L,K
+  15,L,D,X
+  40
+
+
+#lvl_d1
+  10,L,J
+  18,L,X
+   4,L,J
+   5,L,K
+  18,L,U,X
+   4,L,K
+   9,L,J
+  19,U,X
+   5,L
+  16,R,U,X
+   4,R,K
+   7,R,J
+  15,R,D,X
+   3
+   1,S
+   1,D,J
+  34
+  41,L,D
+  13,L,D,X
+  11,R,K
+  32,U,Z
+  33,U,X
+  14,R,C
+  20,R,K
+   3,R,J,G
+  11,R,Z
+  43
+
+#lvl_d0 (1)
+   2,R
+   1,R,J
+#Seeded
+   5,R
+   4,R,J
+   4,R
+  22,R,U,V
+   6,R,J
+  14,U,X
+  40
+
+#lvl_1
+   1
+   8,R,J
+   5,L,J
+   7,R,J
+   4,J
+  11,L,Z
+   4,L,J
+  15,L,D,X
+   1,L,J
+   9,L,U,X
+  40
+
+#lvl_0
+Read, ../CelesteTAS/2A, lvl_0 (1), lvl_3

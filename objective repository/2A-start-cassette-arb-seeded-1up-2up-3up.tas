@@ -1,0 +1,56 @@
+RecordCount: 12
+
+console load 2
+   1
+
+#Start
+
+
+Read, ../CelesteTAS/2S, Start, lvl_d0 (2)
+Read, ../CelesteTAS/2SHC, lvl_d0 (2), lvl_d9
+#lvl_d9
+Read, ../CelesteTAS/2HC, lvl_d9, Return
+#Cassette
+ 123
+   3,L
+  15,L,U,Z
+   3,R,K,G
+   2,R,J,G
+   1,J
+   1,R,K,G
+   1,R,J,G
+   1,K
+  40
+
+#lvl_d0 (3)
+Read, ../CelesteTAS/2SHC, lvl_d0 (3), lvl_d1
+Read, ../CelesteTAS/2S, lvl_d1, lvl_0 (2)
+
+#lvl_0
+   2,L
+   1,L,K
+  13,L,D,X
+  10,L,J
+  24,L,D,X
+   4,L,J
+   3,L,K
+   3,K
+  14,U,X
+   5,L,J
+   1,K,G
+   7
+#STARTCOLLECT
+  94
+#1UP
+  17
+#2UP
+  15
+#3UP
+#Collect
+  16,U,X
+  18,R,J
+   1,R,K,G
+  40
+
+#lvl_3x
+Read, ../CelesteTAS/2S, lvl_3x, lvl_3

@@ -1,0 +1,109 @@
+RecordCount: 96
+
+console load 1
+   1
+
+#Start
+  88
+#lvl_1
+   7,R,X
+   6,R,J
+   7,R
+   5,R,J
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,F,
+   1,U,J
+   9
+Safe
+   3,R,J
+  14,R,U,X
+  10,R
+   4,R,D,X
+   1,R,J
+   6,R
+   3,J
+   7,R,J
+   5,R
+   2,R,J
+   1,R
+   2,L,K
+  17,U,X
+   1,J
+  40
+
+#lvl_2
+Read, ../Grabless/G1A, lvl_2, lvl_4
+#lvl_4
+  10,L,J
+   1,L
+  15,U,X
+   6,R,J
+  11,R
+   4,D,X
+   1,R,J
+  12,R
+   8,R,J
+  13,U,X
+  10,R,J
+  40
+
+#lvl_3b
+  18
+  17,R
+   6,R,J
+   9,R
+  20,R,J
+   5,R
+  12,U,X
+  14,R,J
+   8,R
+   1,R,J
+   3,R
+   3,R,J
+   9
+   1,R
+   4,D,X
+#Winged
+  11,R,U,X
+   1,R,J
+   8,R,K
+  40,R
+
+
+#lvl_5
+  11,R
+  20,R,X
+  15,D,C
+   2,R
+  10
+   1,D,X
+   4,L,X
+   1,R,J
+   8,R
+  10,R,J
+  12,R
+   1,D,X
+  15,R,X
+  12
+   3,L
+  19,U,X
+   1,R,J
+   2,J
+   6,R,J
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   1,K
+  43
