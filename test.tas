@@ -10,5 +10,9 @@
 # 1:26.615(5095) tbc heart Order
 ##
 
+Read, EnterCP2
+Read, objective repository/3A-hugemess-tbc-grabless-heart, RTM
+Read, objective repository/3A-shaft-arb, Start
+
 # Stopping labels are broken on RTM
 # use "Read, RTM, Menu" for files that end after collecting a heart, like 2A-fromstart-heart or all 8A-heartofthemountain-heart files or B-sides
