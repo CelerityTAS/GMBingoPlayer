@@ -1,0 +1,102 @@
+RecordCount: 106
+
+Read, 4A-start
+Read, 4A-shrine, Start
+Read, 4A-oldtrail, Start
+#Start
+#RTM
+#lvl_d-00
+  36
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   5,L
+  16,L,J
+  15,U,X
+  11,R,J
+   2,L,J
+   1,J
+   1,L,J
+   1,J
+   1,K
+   2,L,K
+   2,L
+   1
+   4,L
+   4,Z
+   1,L,J
+   7,L
+   2,L,J
+   3,L
+  43
+
+#lvl_d-00b
+   7,L
+  14,R,D
+   4,R,D
+  15,L,D,X
+   3,L,D
+   8,R,D
+   2,D
+   1,N
+   7
+#Bino1
+   1,S
+   1,D,J
+  69,O
+
+   2,J
+  15,U,X
+   9,J
+   1,K
+   7,R
+   4,Z
+   1,R,J
+   3,R
+  40
+
+#lvl_d-00 (1)
+   1,S
+   1,D,J
+  72,O
+   1,R,J
+   6,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R
+   6,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+  43
+
+#4acliffend
+#lvl_d-01
+Read, ../Grabless/G4A, lvl_d-01, lvl_d-10
+#lvl_d-10
+   6,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+   1,S
+Unsafe
+   1,F,180
+   1,D,J
+   1,L
+   1,X
+   1,U,J
+Safe
+  18
