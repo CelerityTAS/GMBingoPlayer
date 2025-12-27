@@ -9,10 +9,21 @@
 # 1:26.428(5084) btc
 # 1:26.615(5095) tbc heart Order
 ##
+Read, EnterSummit
+Read, objective repository/7A-0m-gem, Start
+Read, objective repository/7A-500m-gem, Start
+Read, objective repository/7A-1000m-gem, Start
+Read, objective repository/7A-1500m-gem, Start
+Read, objective repository/7A-2000m-gem, Start
+Read, objective repository/7A-2500m-gem, Start
+Read, objective repository/7A-3000m-heart, Start, Heart
+Read, RTM, Cassette
 
-Read, EnterCP2
-Read, objective repository/3A-hugemess-tbc-grabless-heart, RTM
-Read, objective repository/3A-shaft-arb, Start
+
+
+# Read, EnterCP2
+# Read, objective repository/3A-hugemess-tbc-grabless-heart, RTM
+# Read, objective repository/3A-shaft-arb, Start
 
 # Stopping labels are broken on RTM
 # use "Read, RTM, Menu" for files that end after collecting a heart, like 2A-fromstart-heart or all 8A-heartofthemountain-heart files or B-sides
