@@ -1,5 +1,5 @@
-RecordCount: 229
-
+RecordCount: 452
+#play 91
 
 console load 10 lvl_c-00
    1
@@ -80,12 +80,7 @@ console load 10 lvl_c-00
   40
 
 #lvl_c-alt-00
-Read, ../CelesteTAS/9NMG, lvl_c-alt-00, lvl_e-00z
-#lvl_e-00z
-  15,R,K
-   1,S
-   1,D,J
-  33,O
+Read, ../CelesteTAS/9NMG, lvl_c-alt-00
 Play, End
 
 console load 10
@@ -94,5 +89,5 @@ Read, 9A-start-singular-bino, DTS
 #Start
 #DTS
 #lvl_c-00 (1)
-Read, ../CelesteTAS/9, lvl_c-00, lvl_e-00z
+Read, ../CelesteTAS/9Askip, lvl_c-00 (0)
 #End
