@@ -1,7 +1,7 @@
 #RecordCount: 31
 console load 1 lvl_6
    1
-
+play RTM
 
 
 console load 1
@@ -9,8 +9,21 @@ console load 1
 
 Read, 1A-start, Start
 #Start
-   1,S
-   1,D,J
+   2,R,K,G
+   2,K
+  13,R,K
+   1,J,G
+  10,R,J
+   1,L,J
+   9,L,K
+   3,L
+   6,J,G
+   1,L,J
+   1,J
+   1,L,J
+play res1
+
+#lvl_6a
   36,O
 #RTM
   36,O
@@ -27,6 +40,7 @@ Read, 1A-start, Start
    1,L,J
    1,J
    1,L,J
+#res1
    1,K
    9,J,G
    5,R,J

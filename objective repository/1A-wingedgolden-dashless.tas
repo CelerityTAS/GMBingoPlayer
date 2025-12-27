@@ -1,0 +1,33 @@
+RecordCount: 23
+console load 1
+   1
+#Start
+Read,../CelesteTAS/1D,Start,lvl_end
+#lvl_end
+   2,R,J
+   4,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+   4,R,K
+  12,R,J,G
+   1,R,K,G
+   1,J
+   3,L,J
+  10,J
+   6,D
+  14,R,D
+   1,R,K,G
+   1,R,J,G
+  13,R
+   1,R,J
+  18,R
+   1,R,J
+   1
+  17,R
+   1,R,J
+   4,R
+   1,S
+   1,D,J
+  18
+ChapterTime: 1:16.160(4480)

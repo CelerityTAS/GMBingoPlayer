@@ -2,4 +2,4 @@ RecordCount: 2
 console load 1
    1
 #Start
-Read, ../CelesteTAS/1D, Start
+Read,../CelesteTAS/1D,Start
