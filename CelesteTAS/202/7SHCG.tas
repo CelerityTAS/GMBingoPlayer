@@ -17,7 +17,7 @@ Read,../7HC,lvl_a-06,lvl_b-00
 Read,../7S,lvl_b-00,7SHC1
 
 #lvl_b-02e (1)
-Read,../7SHC,lvl_b-02e,lvl_b-02d
+Read,../7SHC,lvl_b-02e (1),lvl_b-02d
 
 #lvl_b-02d
    6,L,D

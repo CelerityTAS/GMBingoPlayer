@@ -29,7 +29,7 @@ Read,7S,lvl_b-00,7SHC0
 #Lvl_b-02 (1)
 Read,7S,lvl_b-02b (0),7SHC1
 
-#lvl_b-02e
+#lvl_b-02e (1)
    7,U,X
    8,R,J
    5,R,V
@@ -100,7 +100,7 @@ Read,7S,lvl_b-02b (0),7SHC1
    9,D,C
   40
 
-#lvl_b-02
+#lvl_b-02 (1)
    9,R,D
    7,R,D,X
    1,R,J
@@ -534,7 +534,7 @@ Read,7HC,lvl_d-05 (0),lvl_d-05 (1)
   14,U,C
   40
 
-#lvl_d-06
+#lvl_d-06 (0)
    1
    2,L
    1
@@ -585,7 +585,7 @@ Read,7S,lvl_d-07,lvl_d-10b
   32,L,D
   40
 
-#lvl_d-10
+#lvl_d-10 (1)
 Read,7S,lvl_d-10 (1),lvl_e-00b
 
 #lvl_e-00b
@@ -902,7 +902,7 @@ Add 1
 #lvl_f-00 (2)
 Read,7HC,lvl_f-00 (1),7SHC
 
-#lvl_f-02b
+#lvl_f-02b (1)
    1,R
    2,R,D,J
    5,R
@@ -940,7 +940,7 @@ Read,7HC,lvl_f-00 (1),7SHC
   40
 
 #lvl_f-05 (0)
-Read,7HC,lvl_f-05,lvl_f-07 (1)
+Read,7HC,lvl_f-05 (0),lvl_f-07 (1)
 
 #lvl_f-07 (1)
 Read,7A,lvl_f-07,lvl_f-05 (1)

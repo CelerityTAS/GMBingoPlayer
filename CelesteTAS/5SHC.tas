@@ -181,7 +181,7 @@ Read,5HC,lvl_b-04,lvl_b-02 (2)
 Read,5S,5SHC4,5HC1
 
 #lvl_b-19 (1)
-Read,5HC,lvl_b-19,5SHC5
+Read,5HC,lvl_b-19 (1),5SHC5
 
 #resync keydoor
   13
@@ -190,4 +190,4 @@ Read,5HC,5SHC5,lvl_b-16
 
 #lvl_b-16
 Read,5S,lvl_b-16
-FileTime: 6:55.140(24420)
+FileTime: 6:55.021(24413)

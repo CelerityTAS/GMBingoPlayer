@@ -2,7 +2,7 @@ console load 7
    1
 
 #Start
-#lvl_a-00-intro
+#lvl_a-00-intro (0)
 Read,7A,Start,lvl_a-06
 
 #lvl_a-06
@@ -919,7 +919,7 @@ Read,7S,lvl_f-00 (0),lvl_f-01
   21,R,D,C
   40
 
-#lvl_f-05
+#lvl_f-05 (0)
    1
    8,L,D
   16,R,Z
@@ -1054,4 +1054,4 @@ SaveAndQuitReenter
   15,R,J
    2,K,G
 Read,7A,7HC1
-FileTime: 7:46.242(27426)
+FileTime: 7:46.208(27424)
