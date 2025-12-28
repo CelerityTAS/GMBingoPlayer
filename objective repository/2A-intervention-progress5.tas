@@ -1,0 +1,166 @@
+RecordCount: 75
+
+console load 2 lvl_3
+   1
+
+#RTM
+  36
+   1,S
+   1,D,J
+  36
+   1,R
+   1,R,J
+  14,R,U,Z
+   1,L
+   1,K
+   4,J,G
+   9,R
+  10,R,X
+   5,R,J
+  18,R,U,Z
+   5,R,J
+   5,R,K
+   1,K
+   1,R,K
+   5,K
+   1,R,K
+   1,J
+   8,R,J
+   1,J
+   6,U,X
+   3,L,J
+   1,J
+   2,L,J
+   1,L
+   1,L,K,G
+   1,L,J,G
+   1,K
+  40
+Play, 2aintend
+
+Read, 2A-start
+#Start
+#lvl_3
+   1,R
+  10,J
+   6,R,J,Z
+   1,S
+   1,D,O
+  34
+   2,R,J
+  11,R
+   1,R,J
+  26,R,U,Z
+   5,R,J
+   9,R,K
+   1,L
+   5,J,G
+   3,R,J
+   7,U,X
+   3,L,J
+   1,J
+   2,L,J
+   1,L
+   1,L,K,G
+   1,L,J,G
+   1,K
+  40
+
+#2aintend
+#lvl_4
+Read, ../CelesteTAS/2S, lvl_4, lvl_8
+#lvl_8
+   1,L,J,G
+   1,L,K,G
+   9,L
+   4,D,X
+   1,L,J
+   7,L
+   3,L,D,J
+   2,L
+   3
+   2,J
+   6,U,X
+   3,L,J
+   1,J
+   1,L,J
+   2,L
+   1,L,K,G
+   1,L,J,G
+   9,L
+  13,L,D,J
+  10,U,X
+   8,L,J
+   5,L
+   2,R,J,G
+   1,R,K,G
+   1,K
+   4,R
+   3
+  14,U,X
+  15,J
+   1,K
+  15
+  12,R,D
+   1,D
+  10,R,D
+   4,D,X
+   1,R,J
+   2,R
+   1,R,K,G
+   4
+   5,R
+   1,R,J
+  17,R,D,X
+   4,R,J
+   2,R,K
+   6,R
+   8,U,X
+   5,R,J
+  11,R
+   6,R,Z
+   1,R,J
+   3,R
+  40
+
+#lvl_9
+   1,R
+   4
+  11,R,D,X
+   1,R,J
+   3,J
+  33,R,D,X
+   1,R,J
+  29,R,X
+  18,R,D
+  14,D
+   3
+   1,D
+   9,R,J
+   2,R
+   6,R,X
+   1,R,J,G
+  15,R
+   2
+   6,R,Z
+   1,R,J
+   6,R
+   2,R,J
+  15,R,D,X
+   6,R,J
+  10,L,D,X
+   4,L,J
+   1,J
+   8,L,U,Z
+   1,R
+  10,K,G
+   6,L
+   1
+   2,K
+  15,R,D
+  12,L,D
+  40
+
+#lvl_10
+Read, ../CelesteTAS/2S, lvl_10, lvl_11
+Read, ../CelesteTAS/2A, lvl_11, lvl_end_0
