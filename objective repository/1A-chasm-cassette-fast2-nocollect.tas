@@ -1,0 +1,79 @@
+console load 1 lvl_9b
+   1
+
+#RTM
+  36
+#lvl_9b (0)
+   2,R,J
+  15,R,U,Z
+   2,J
+   1,L,K,G
+   3,L,J,G
+   7,L
+Play, End
+
+
+Read, 1A-start
+Read, 1A-crossing, Start
+#Start
+   3,R
+  12,R,J
+   5,K
+   2,L,J,G
+   2,L,K,G
+   5
+   1,J
+   9
+#End
+  10,R,D,X
+   2,L,J
+   1,L
+   2,L,J
+  12,L,U,Z
+   2,L,J,G
+   5,L
+   2,L,J
+   2,K
+   2
+   1,J
+   7,R
+   1,J
+   2,R,J
+  15,U,X
+   1,L,J
+  40
+Read, ../CelesteTAS/1SHC, lvl_10 (0)
+#Exit
+Unsafe
+Read, ../RTM, Menu
+#Menu
+Read, ../EnterCP3
+Safe
+  36
+   1,R
+   1,R,J
+  15,R,U,Z
+   1,K
+   2,L,J,G
+   1,L
+   4,L,K,G
+   4,R
+   2
+   1,J
+   1
+  14,R,D,X
+  22,R,J
+  15,R,X
+   1,R
+   1,R,K
+   4,J
+  12,U,X
+   1,J
+   1,K
+   7
+   4,R,J
+   9,U,X
+  40
+
+#lvl_10a
+Read, ../CelesteTAS/1A, lvl_10a
