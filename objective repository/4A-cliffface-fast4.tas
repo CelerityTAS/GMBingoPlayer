@@ -1,0 +1,29 @@
+RecordCount: 112
+
+Read, 4A-start
+Read, 4A-shrine, Start
+Read, 4A-oldtrail, Start
+#Start
+#RTM
+#lvl_d-00 (0)
+  36
+   8,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   8,R,J
+   1,R,K,G
+  13,R,D,X
+   2,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  43
+
+#lvl_d-01
+Read, ../CelesteTAS/4SH0, lvl_d-01
