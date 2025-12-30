@@ -1,6 +1,12 @@
 # some commands for setup
-# start on begin and make sure that the file "saveandquitreenter" has the first frame unpaused, if in bingo and paused, if in regular everest
-Set, BingoClient.MenuToggle, E
+# Set, BingoClient.MenuToggle, E
+Set, Everest.ShowModOptionsInGame, false
+Set, BingoUI.AutoEnableVariants, true
+Set, BingoUI.HideVariantsExceptGrabless, true
+Set, BingoUI.PreventPrologueCutsceneSkips, true
+Set, BingoUI.SkipTallyWithConfirm, true
+Set, BingoUI.SkipChapterComplete, true
+
 Unsafe
    1,O
 Add 131
