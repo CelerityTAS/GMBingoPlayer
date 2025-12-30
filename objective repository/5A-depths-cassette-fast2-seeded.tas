@@ -38,10 +38,14 @@ console load 5 b-00
    5,R,U,Z
   40
 
+#lvl_b-01
+Read, ../CelesteTAS/5HC, lvl_b-01, lvl_b-01b
+#lvl_b-01b
+Read, ../CelesteTAS/5S, lvl_b-01b, 5SHC1
+#lvl_b-17
 
-Read, ../CelesteTAS/5HC, lvl_b-01, Return
-#Cassette
-Read, ../CelesteTAS/5HC, Return, lvl_b-02 (1)
+Read,../CelesteTAS/5SHC,lvl_b-17 (2),lvl_b-13 (3)
+Read,../CelesteTAS/5HC,lvl_b-13 (1),lvl_b-02 (1)
 #lvl_b-02
    9,L,U,V
    5,K,G

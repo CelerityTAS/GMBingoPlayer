@@ -44,16 +44,68 @@ Read,../CelesteTAS/5S,lvl_c-13,lvl_d-00
   13,U,Z
    9,R,J
 #5ASearchend
-Read, ../CelesteTAS/5S, Search, lvl_d-19
+Read, ../CelesteTAS/5S, Search, lvl_d-01 (2)
+#lvl_d-01 (2)
+   5,L,U,V
+   1,R
+   3,J,G
+   3,L,K
+   7,R,K
+   8,J,G
+   1,L,J
+   1,K
+  10,R,Z
+   5,L,J
+  15,L,D,X
+  13,L,J
+  14,L,D,X
+   1,L,K,G
+   6
+   1
+   1,J
+   1,L
+   2,L
+   1,L,J
+  14,L
+   1,L,J
+  15,L,D,X
+   7,L,D
+   1,L
+   1,L,J
+   2,L
+   7,L,D,X
+   1,L,K,G
+   8,L
+  40
+
+
+#lvl_d-04
+   4,L
+   1,L,J
+   2,L
+  20,L,D,X
+   6,L,J
+   5,L
+   4,L,J
+  28,L,K
+   4,L
+  40
+
+#lvl_d-19b
+   1,L
+   1,J
+  15,D,X
+  25,R,D
+  40,D
+
 
 #lvl_d-19
-  30,L,D
+  29,L,D
   10,L,D,X
    9,L,J
   25,R,X
-   3,J
-  15,R,D,X
-  51
+   5,R
+  63,D,X
    7,L,V
    1,L,J
    1,L
@@ -111,7 +163,7 @@ Read, ../CelesteTAS/5S, Search, lvl_d-19
   40
 
 
-#lvl_d-19b
+#lvl_d-19b (1)
   12,L
   10,L,J,G
    1,L
