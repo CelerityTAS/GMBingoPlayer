@@ -1,0 +1,239 @@
+RecordCount: 57
+
+console load 7
+   1
+Read, 7A-0m, Start
+Read, 7A-500m, Start
+#Start
+  40
+#RTM
+  22
+#500mARBCollect
+  14
+Read,../CelesteTAS/7S,1000M,lvl_c-03b
+#lvl_c-03b
+   2,L,J
+   4,L
+   3
+  15,D,X
+   1,N
+   6
+#Bino1
+  28
+   1,X
+  19
+  11,L,U,X
+   1,L,K,G
+   7,L
+  14,L
+  40,L,C
+   5,L,J
+  18,L,D,X
+  30,L,U,C
+   7,U,X
+   7,L,J
+   1,J
+  15,D,X
+   1,L,D
+   4,D
+   8,R,D
+   4,R
+   4,R,D
+  22,R,X
+  22,R,U,C
+   4,R,J
+   1,R,K
+  15,R,D,X
+  18,R,D,C
+  15,R,U,X
+  18,R,U,C
+   4,R,J
+   7,R,Z
+   8,R,J
+  15,R,D,C
+  40
+
+#lvl_c-03
+Read,../CelesteTAS/7S,lvl_c-03 (1),lvl_c-05
+#lvl_c-05
+   3,R,J
+   4,K
+   6
+   2,K
+   1,N
+  14
+#Bino2
+  28
+   1,X
+  19
+   4,R,X
+  18,R,J
+   1,J
+
+  38,R,U,Z
+  14,U,X
+   1,L,J
+   1,L
+  34,L,U,X
+  18,R,U,C
+  15,L,D,X
+  33,R,D,C
+  15,D,X
+  26,L,D,C
+   4,L,J
+   1,L,K
+  26,L,D,X
+  14,L,D,C
+   1,L,K
+  40
+
+#lvl_c-04 (1)
+Read, ../CelesteTAS/7S, lvl_c-04 (1), lvl_c-06 (0)
+#lvl_c-06
+Read, ../CelesteTAS/7SHC, lvl_c-06, lvl_c-06c
+
+#lvl_c-06c
+   1,R,K
+   6,R,J
+   8,R
+   1,R,J
+  14,R,Z
+   4,R,J
+   1,L,J
+   4,L
+  10,R
+  47,R,Z
+  30,R,C
+   4,R,J
+   1,R,K
+   2,R
+  15,R,D,X
+   4,R
+   6
+   1,R,D
+   1
+  21,L,D,X
+   4,L,J
+   4,L,K
+  24,L
+  15,U,X
+  16,L,U,C
+   4,L,J
+   4,L,Z
+   1,L,J
+  10,L
+  18,L,D,X
+   4,L,Z
+   1,L,J
+   3,L
+   3,L,K
+   4,L
+  15,L,Z
+   4,L,J
+   1,L,K
+   5,L
+   2,L,K
+   1,L,J
+   6,L,K
+  15,R,U,X
+  27,R,U,Z
+   1,J
+   1,L,K,G
+   6,L,J,G
+   5,L
+   1,L,K,G
+   1,L,J,G
+  16,L
+   1,N
+  14
+#Bino3
+  28
+   1,X
+  19
+   1,L,J
+  10,R,Z
+  10,L,J
+   5,L,K,G
+   2,L
+   8,L,U,Z
+  40
+
+#lvl_c-06b
+   7,L,U,Z
+  17,L,U,X
+   4,L,J
+   3,L,K
+  16,L,D,X
+  12,L,J
+  14,L,U,Z
+   1,R
+   1,R,J,G
+   2,J,G
+  16,U,C
+  40
+
+#lvl_c-07 (0)
+Read, ../CelesteTAS/7SHC, lvl_c-07 (0), lvl_c-07b
+#lvl_c-07b
+   1,L,J
+   3,L
+  10,L,Z
+   1,L,J
+   2
+   1,L
+   3
+  14,L,J
+  16,L,U,C
+  27,L,U,X
+  15,U,C
+  24,R,U,X
+  14,U,C
+   1,R,J
+  19,R,U,X
+   4,R,J
+   1,R,K
+  15,R,U,C
+  14,R,Z
+   1,R,J
+   1,R
+  15,D,X
+#+1f berry
+   3,L,D
+   1,D
+   2,L,D
+   5,D
+   9,R,D
+  12,L,D
+  10,L
+   1,L,D
+   1,L
+   4,L,D
+   2,R,D
+   1,R,J
+   2,R
+   2,K,G
+   1,R
+   1
+   2,R
+  15,D,X
+   5,R,D
+  14,D
+   1,N
+   6
+#Bino4
+  28
+   1,X
+  19
+   4,R
+   1,N
+   1,R,J
+  15,R
+  10,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_c-07 (1)
+Read,../CelesteTAS/7S,lvl_c-07 (1),lvl_d-00

@@ -3,23 +3,19 @@
 # progress 1up multickeckpoint files
 
 ## Mess Orders
-# 1:21.243(4779) cbt Any% Order
-# 1:24.031(4943) bct
-# 1:25.323(5019) tcb
-# 1:26.428(5084) btc
-# 1:26.615(5095) tbc heart Order
+# 1:21.175(4775) cbt Any% Order
+# 1:24.048(4944) bct
+# 1:25.289(5017) tcb
+# 1:26.462(5086) btc
+# 1:26.666(5098) tbc heart Order
 ##
-Read, EnterSummit
-Read, objective repository/7A-0m-gem, Start
-Read, objective repository/7A-500m-gem, Start
-Read, objective repository/7A-1000m-gem, Start
-Read, objective repository/7A-1500m-gem, Start
-Read, objective repository/7A-2000m-gem, Start
-Read, objective repository/7A-2500m-gem, Start
-Read, objective repository/7A-3000m-heart, Start, Heart
-Read, RTM, Cassette
 
 
+Read, EnterCore
+Read, objective repository/8A-start-intothecore, Start
+Read, objective repository/8A-hotandcold, Start
+Read, objective repository/8A-heartofthemountain-heart, Start
+Read, RTM, Menu
 
 # Read, EnterCP2
 # Read, objective repository/3A-hugemess-tbc-grabless-heart, RTM
