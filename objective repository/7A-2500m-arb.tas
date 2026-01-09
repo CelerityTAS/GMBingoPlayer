@@ -1,4 +1,4 @@
-RecordCount: 200
+RecordCount: 204
 
 
 console load 7 lvl_f-00
@@ -87,13 +87,16 @@ SaveAndQuitReenter
    1,R,J
    1,R,J
   11,R
-   8,L,Z
+   8,L,D,X
    1,R,J
    6
-   5,L,J
-   7,R,J
-   6,R,U,X
+   6,L,J
+   2,R,J
+   1,L,J
+   3,R,J
 StunPause
+SkipInput 3 1
+   6,R,U,X
    8,R,U,X
    4,R,J,G
 EndStunPause
