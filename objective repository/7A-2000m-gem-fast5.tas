@@ -1,0 +1,138 @@
+console load 7 lvl_e-00b
+   1
+#RTM
+  36
+   1,L,J
+   8,L,Z
+   1,R,J
+   7,R
+   9,R,J
+  15,R,D,X
+   9,R,Z
+Play, 2kbubble
+
+console load 7
+   1
+Read, 7A-0m, Start
+Read, 7A-500m, Start
+Read, 7A-1000m, Start
+Read, 7A-1500m, Start
+#Start
+  40
+  25
+#1500mARBCollect
+  13
+#lvl_e-00b
+   9,R,J
+   3,R
+   5,R,Z
+   1,R,J
+   2,R
+   1
+   3,R
+   8,R,J
+  15,R,D,X
+  10,R,U,Z
+#2kbubble
+  17,R,U,X
+  14,L,U,C
+  11,L,J,G
+  14,L,X
+  16,L,U,C
+  15,L,X
+  11,U,C
+   1,J
+  40
+
+#lvl_e-00
+Read, ../CelesteTAS/7HC, lvl_e-00 (0), lvl_e-03
+#lvl_e-03
+Read, ../CelesteTAS/7S, lvl_e-03, lvl_e-08
+#lvl_e-08
+  20,R
+  15,R,U,Z
+   3,R
+   1,K
+   1,J
+   1,R,J
+   3,R
+  15,R,X
+  12,R
+   9,L,Z
+   1,R,J
+   6,R
+  40
+
+#lvl_e-10
+Read, ../CelesteTAS/7A, lvl_e-10, lvl_e-13
+#lvl_e-13
+   6,R,D,X
+   1,R,J
+  10,R,D,X
+   7,R,J
+  18,R,X
+  15,R,C
+  14,R,X
+  38
+  15,U,X
+  10,R,U,C
+  40
+  15,L,D,X
+  17,L,Z
+  20,L,X
+  15,L,D,C
+  20,L,X
+  41
+  10,L,U,X
+  37
+  15,R,U,X
+  13,R,Z
+   3,R,J,G
+   3,R
+   1,R,J
+  10,R,D,X
+   1,R,J
+   7,R
+  10,R,U,Z
+   1,L
+   1,K,G
+   4
+  40,R
+  15,U,X
+  12,L,U,C
+  46,L
+  15,L,D,X
+   2,L
+   1
+   5,L,D
+   1,L
+   5,L,Z
+   1,L,J
+   9,L
+  15,L,D,X
+   2,L
+   2,L,D
+   1,L
+   1
+   1,L
+   1,L,J
+  10,L,U,X
+  45,R
+  14,U,X
+  39
+  33,R,X
+  30,R,C
+   3,R,D
+  15,D,X
+  14
+   4,X
+   1,R,J
+  12,J
+  13,L,D,X
+   3,L,J
+  15,L,U,X
+  10,U,C
+ 198
+   1,S
+   1,D,J
+ 141

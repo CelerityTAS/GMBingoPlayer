@@ -30,53 +30,125 @@ Read, 7A-2000m, Start
   11,R,U,X
   11,K,G
 #7A2500Mbubble
-  78,R,X
+  77,R,X
   18,R,U,C
-  13,R,X
-   3,R,J,G
-  19,R
-  22,R,X
+  14,R,X
+   2,R,J,G
+  20,R
+  23,R,X
   15,D,C
-  10,R,D
+  11,R,D
+  14,R,X
+  11,R,J
    1,R
-  15,U,Z
+  15,U,X
+   7,R,C
+   1,J,G
+  10,R
+   1
+   1,R
+   1
+   4,R
+  13,R,D
+   1,R
+   2,R,D
+   1,R
+   6,R,X
+  16,R,J
+  14,R,U,X
+   4,R,J,G
+#Spinner cycle
+   0,Q
+#-------------
+  58,R,C
+  15,R,D,X
+   4,L,Z
+   1,R,J
+  43
+
+#lvl_f-02
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+   3,R
+   1,R,J
+  14,R
+  11,R,K
+   5,R
+   3,R,J
+   6,R
+   1,R,J,G
+  10,R,K,G
+   5,R
+   8,R,K
+  12,R
+   2,D
+   1,L,D
+   4,D
+   3,R,D
+   1,R
+   1,R,D
+   1
+   2,R
+  14,R,Z
+   1,J,G
+   1,L
+  10,R,D,X
+   6,R,J
+  14,R,U,X
+   4,R,J,G
+   8,R,D,X
+  43
+
+#lvl_f-04
+Read, ../CelesteTAS/7A, lvl_f-04, lvl_f-05 (1)
+#lvl_f-05
+Read, ../CelesteTAS/7S, lvl_f-05 (1), lvl_f-08
+#lvl_f-08
+   1,R,J
+   3,R
+   1
+   1,J
+   3
+   1
+  13,R,D,X
+  47,R,C
+  14,R,Z
+  21,R,X
+  15,U,C
+   1,L
+  15,L,U,X
+  40,L
+   3
+   2,J
+   2,L,J
    1,L
    3,L,J
-   3,L
-   1
-   1,L
-   1,L,J,G
-  11,L,K,G
-   7,L
-  15,L,U,X
-   8,R,U,C
-   1,R,J,G
-   1,L
-   1,R,J,G
-   4,R
-  15,D,X
-   1,S
-   1,D,J
-  72,O
-
-   4,L,Z
-  13,L,J
    2,L
-  14,L,D,X
-   1,L,J
-   7,K,G
-   3,J,G
-   3,R,K
-  18,L,U,X
-   8,L,D,C
-   1,L,J
-   7,L
-   1,L,J
-   6,L,U,Z
-  40
-Read, ../CelesteTAS/7SHC, lvl_f-01, lvl_f-08b
-#lvl_f-08b
-Read,../CelesteTAS/7S,lvl_f-08b,lvl_f-11
+   1
+   1,L,D,K
+   6,K
+  12,J
+   5,K,G
+   2,L,K
+   2,R,K
+   5,L,D,X
+   1,R,J
+   1,R,K
+   3,R,J,G
+   5,R
+   2,R,J
+   4,R
+  18,R,D
+   1,D
+  43
+
+#lvl_f-09
+Read, ../CelesteTAS/7A, lvl_f-09, lvl_f-11
+
 #lvl_f-11
    9,R,D,X
    1,R,J
@@ -189,10 +261,11 @@ Read,../CelesteTAS/7S,lvl_f-08b,lvl_f-11
    7,U,G
   20,L,J
   15,L,U,X
-  11,L,Z
-   5,L,J
-   3,J
-   7,R,D,X
+  15,L,Z
+   1
+  11,L,X
+   4,J
+  14,R,D,X
    9,R,J
   14,R,U,X
   17,L,U,C
@@ -210,20 +283,17 @@ Read,../CelesteTAS/7S,lvl_f-08b,lvl_f-11
    1,R,J
   15,R,U,Z
   15,L,D,X
-   4,D,C
+  10,L,D,C
    1,L,J
-   9
-   4,L
+   3,L
+   4
   15,D,X
-   7,R,D
-  11,R,D,X
+   8,R,D
+  14,R,D,X
    8,R,J
-  15,D,X
-  29
-
-   7,L,Z
+   7,L,D,X
    9,L,J
-  14,L,U,X
+  15,L,U,X
   40,U,C
  176
    1,S

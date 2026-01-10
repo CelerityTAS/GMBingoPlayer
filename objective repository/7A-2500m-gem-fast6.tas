@@ -74,9 +74,11 @@ Read, 7A-2000m, Start
    1,L,J
    6,L,U,Z
   40
-Read, ../CelesteTAS/7SHC, lvl_f-01, lvl_f-08b
-#lvl_f-08b
-Read,../CelesteTAS/7S,lvl_f-08b,lvl_f-11
+#lvl_f-01
+Read, ../CelesteTAS/7SHC, lvl_f-01, lvl_f-05 (1)
+#lvl_f-05
+
+Read, ../CelesteTAS/7A, lvl_f-05 (1), lvl_f-11
 #lvl_f-11
    9,R,D,X
    1,R,J
@@ -189,10 +191,11 @@ Read,../CelesteTAS/7S,lvl_f-08b,lvl_f-11
    7,U,G
   20,L,J
   15,L,U,X
-  11,L,Z
-   5,L,J
-   3,J
-   7,R,D,X
+  15,L,Z
+   1
+  11,L,X
+   4,J
+  14,R,D,X
    9,R,J
   14,R,U,X
   17,L,U,C
@@ -210,20 +213,17 @@ Read,../CelesteTAS/7S,lvl_f-08b,lvl_f-11
    1,R,J
   15,R,U,Z
   15,L,D,X
-   4,D,C
+  10,L,D,C
    1,L,J
-   9
-   4,L
+   3,L
+   4
   15,D,X
-   7,R,D
-  11,R,D,X
+   8,R,D
+  14,R,D,X
    8,R,J
-  15,D,X
-  29
-
-   7,L,Z
+   7,L,D,X
    9,L,J
-  14,L,U,X
+  15,L,U,X
   40,U,C
  176
    1,S
