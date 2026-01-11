@@ -10,12 +10,12 @@
 # 1:26.666(5098) tbc heart Order
 ##
 
+Read, EnterCP1WithPostcard
+Read, objective repository/6A-start, Start
+Read, objective repository/6A-lake, Start
+Read, objective repository/6A-fromhollows-heart-cassette-bino, Start, Heart
+Read, RTM, WalkinCheckpoint
 
-Read, EnterCore
-Read, objective repository/8A-start-intothecore, Start
-Read, objective repository/8A-hotandcold, Start
-Read, objective repository/8A-heartofthemountain-heart, Start
-Read, RTM, Menu
 
 # Read, EnterCP2
 # Read, objective repository/3A-hugemess-tbc-grabless-heart, RTM
@@ -23,3 +23,6 @@ Read, RTM, Menu
 
 # Stopping labels are broken on RTM
 # use "Read, RTM, Menu" for files that end after collecting a heart, like 2A-fromstart-heart or all 8A-heartofthemountain-heart files or B-sides
+
+
+# EnterCP7
