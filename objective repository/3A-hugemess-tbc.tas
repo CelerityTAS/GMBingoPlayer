@@ -139,5 +139,54 @@ Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
    1,D,J
   34
 #oshiro1
-Read, ../CelesteTAS/3A, oshiro1, lvl_09-d
-MidwayChapterTime: 1:21.175(4775)
+   5,K
+  14,R,U,X
+   1,J,G
+   1,R
+   1
+   1,R
+   2
+   1,J
+   3
+   8,R
+  15,D,X
+   1,R
+   2,R
+  15,R,D,C
+   3,R,K
+   4,R
+   1,L
+   4,K,G
+   1,R,K
+  13,R,U,Z
+   1,L
+   5,K,G
+   5
+   2,R
+   4,R,J
+   9,R,K,G
+   3,R,J,G
+   6,R,Z
+   4,R,J
+   3,R
+  40
+
+#lvl_11-b
+Read, ../CelesteTAS/3SH, lvl_11-b (0), lvl_12-b (0)
+Read, ../CelesteTAS/3HC, lvl_12-b (0), lvl_12-x
+
+#lvl_12-x
+   1,L,J
+   4,L
+   1,L,J
+   1,L
+  13,L,U,X
+   3,L,J,G
+   7,L
+   5,D,X
+Read, ../CelesteTAS/3SH, 3HC0, lvl_11-c (1)
+   1,S
+   1,D,J
+  33,O
+Read, ../CelesteTAS/3HC, lvl_11-c (2), lvl_09-d
+MidwayChapterTime: 1:24.405(4965)
