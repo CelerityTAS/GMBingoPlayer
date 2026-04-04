@@ -7,9 +7,9 @@ console load 7 lvl_b-00
   14,L,X
   12,L,J
    2
-Play, End
+Play,End
 
-Read, ../CelesteTAS/7A, Start, lvl_b-00
+Read,../CelesteTAS/7A,Start,lvl_b-00
 #Start
   62
 #0mARBCollect
@@ -33,6 +33,6 @@ Read, ../CelesteTAS/7A, Start, lvl_b-00
   40
 
 #lvl_b-01
-Read, ../CelesteTAS/7A, lvl_b-01, lvl_b-02
-Read, ../CelesteTAS/7HC, lvl_b-02, lvl_b-06
-Read, ../CelesteTAS/7A, lvl_b-06, lvl_c-00
+Read,../CelesteTAS/7A,lvl_b-01,lvl_b-02
+Read,../CelesteTAS/7HC,lvl_b-02,lvl_b-06
+Read,../CelesteTAS/7A,lvl_b-06,lvl_c-00
