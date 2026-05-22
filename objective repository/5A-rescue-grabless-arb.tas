@@ -1,4 +1,4 @@
-RecordCount: 38
+RecordCount: 72
 
 console load 5 3099.32226514816 2473.29146420956 343.33328 -44.999878
   37
@@ -16,7 +16,7 @@ SaveAndQuitReenter
 #RTM
   36
 #SpinnerCycle
-   2
+   1
 #EndSpinnerCycle
    1,S
 unsafe
@@ -52,7 +52,67 @@ safe
   40
 
 #lvl_e-01
-Read, ../Grabless/G5A, lvl_e-01, lvl_e-11
+Read, ../Grabless/G5A, lvl_e-01, lvl_e-06
+#lvl_e-06
+#lvl_e-06
+   4,R,G
+  11,R,J,G
+   6,R,G
+   2,R,J,G
+   1,R,G
+   9,R,J,G
+   1,R,G
+   1,R
+  14,R,U,X
+  24,R,G
+   1,R
+   9,R,Z
+   9,R,J
+   1,R
+   2,R,J
+   9,R
+   9
+  11,R,D,X
+   1,L,J
+   8,L
+  15,D,X
+   3,L,D
+   1,D
+   1
+   1,L
+   4,Z
+   1,R,J
+  13,G
+   6,R,J,G
+   5,R,G
+   1,R
+  14,R,U,X
+  21,R,G
+   1,J,G
+   1,J
+  10,L,J
+   7,L
+   1,R,J
+  13,R
+  15,L,X
+   4,K
+   6,K
+   1,L
+   1,L
+  15,R,D,X
+  13,D
+   1,R,D
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  13,G
+  18,R,J,G
+  40
+
+#lvl_e-05
+Read, ../CelesteTAS/5S, lvl_e-05, lvl_e-07
+#lvl_e-07
+Read, ../Grabless/G5A, lvl_e-07, lvl_e-11
 #lvl_e-11
    3,R,K,G
    5,R,G
