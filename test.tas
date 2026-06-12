@@ -11,11 +11,11 @@
 # 1:26.666(5098) tbc heart Order
 ##
 
-Read, EnterCP1WithPostcard
-Read, objective repository/6A-start, Start
-Read, objective repository/6A-lake, Start
-Read, objective repository/6A-fromhollows-heart-cassette-bino, Start, Heart
-Read, RTM, WalkinCheckpoint
+Read, EnterCP1NoPostcard
+Read, objective repository/1A-start-grabless-progress4-winged, Start
+Read, objective repository/1A-crossing-grabless-progress3, Start
+Read, objective repository/1A-chasm-fast2-collect-winged, Start
+Read, LeaveChapter
 
 
 # Read, EnterCP2
