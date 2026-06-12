@@ -1,4 +1,4 @@
-RecordCount: 849
+#play 48
 console load 2 lvl_end_3
    1
   36
@@ -159,13 +159,93 @@ EndRepeat
   18,D,X
 
 #lvl_end_s0 (1)
-  93,L,D
-  36,D
+  40
+  30,L,D
+  15,D
+  14,R,D
+  27,D
+   3,L,D
   40
 
-#lvl_end_1 (2)
-  25,L,D
+#lvl_end_1
+   1,D
+   1,L,D
+   1,D
+  20,L,D
+   1,L
+   6,Z
+   1,R,J
+   8,R,K,G
+   7,R
+   5,R,J
+  16,R,D,X
+  10,R,J
+   3,R
+   5,R,D,X
+   1,R,K,G
+  11,R
+   1,R,J
+  40
 
-#lvl_end_0 (2)
-  90,L,D
-Read, 2A-awake, poemCP0
+#lvl_end_2
+   1,R,J
+  15,R,D,X
+  18,R,D
+   5,R,J
+   8,R,K,G
+   1,R,J,G
+   3,R
+  40
+
+#lvl_end_3
+#Checkpoint
+  15,R,D,X
+  36,R,D
+   2,R,J
+   5,R,X
+  40
+
+#lvl_end_4
+   3,R,X
+  13,R,K,G
+   6,R,J,G
+  15,R,D,X
+   5,R,D
+   2,R,J
+   9,R
+   7,R,J
+  40
+
+#lvl_end_3b
+   5,R,J
+  15,R,D,X
+   1,R,J
+   1,R,K,G
+   1,R
+   3,R,K,G
+   7,R
+   2,R,J
+   7,R
+   8,R,J
+  15,R,D,X
+   1
+   1,R,J
+   1
+   5,R,U,X
+  40
+
+#lvl_end_5
+   9,R
+   4,L,K,G
+  23,R,D,X
+   9,R,U,C
+   5,R,K,G
+  40
+
+#lvl_end_6
+   1,R,K
+  15,R,U,X
+   1,S
+   1,D,J
+  18
+#1:41.167(5951)
