@@ -1,4 +1,4 @@
-RecordCount: 521
+RecordCount: 522
 #play 28
 
 console load 10 lvl_c-00
@@ -23,6 +23,7 @@ console load 10 lvl_c-00
 
 #lvl_c-00 (0)
 Read, ../CelesteTAS/202/9G, lvl_c-00 (0), end-granny
+   1
 Play, End
 
 console load 10
