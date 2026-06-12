@@ -1,0 +1,141 @@
+RecordCount: 155
+play 27
+console load 1 lvl_6
+   1
+
+#RTM
+  36
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   5,R
+  12,R,J
+   4,R
+  13,U,X
+  12,L,J
+  12,L,K
+   7,L
+Play, End1astart
+
+console load 1
+   1
+
+Read, 1A-start, Start
+#Start
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,R
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+  15,R
+  15,U,Z
+   1
+  10,L,J
+   2,L
+  12,L,K
+   7,L
+#End1astart
+   4,D,X
+   5,R,J
+  34,R,D
+   5,R
+   1,R,D
+
+  14,R,Z
+   3,R,J
+   3,R
+  10,R,D,X
+   5,R,K
+  11,R
+  10,R,U,Z
+   1,L
+   1,J
+   9,K
+   1,R
+   5,R,K
+   1,R
+   1,R
+   3,R,J
+   3,R
+   8,R,V
+   2
+  40
+
+#lvl_6a
+Read, ../Grabless/G1A, lvl_6a, lvl_8b
+#lvl_8b
+   6,R
+   1,R,J
+  15,R,D,X
+   7,R
+   1,R
+  10,L,J
+  15,U,X
+  11,J
+   8
+   4,J
+
+  10,D
+  28,R,D
+
+   8,R
+  14
+   5,R
+   6,J
+   2,R,J
+   1,J
+   2,K
+   7,R,K
+   6,L,K
+  11,U,X
+  40
+
+#lvl_9
+   6,L
+  13,R,J
+   2,R
+  15,D,X
+
+   3,L
+   1,L,J
+  14,R,D,C
+  37,R,J
+  10,U,X
+  19,L,J
+   1,K
+   1,J
+  11,R,J
+   5,R
+   1,R,J
+   2,R
+
+  11,R,Z
+   1,R,J
+  10,R
+   7,R,D,X
+   1,R,J
+   3,R
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   1,R,J
+  40
