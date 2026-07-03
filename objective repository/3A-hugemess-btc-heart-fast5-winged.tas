@@ -269,130 +269,60 @@ Read, ../CelesteTAS/3SH, lvl_12-c, lvl_11-d
    1,S
    1,D,J
   34
-
-   4,Z
-   1,L,J
-   7,L
-   3,L,D
-   1,D
-   1,L,D
-   4,D
-   3,R,D
-   1,R,G
-   1,R,J,G
-  10,R
-   4,Z
-   1,R,J
-   7,R
-   1,R,D
-   2,R
-   1,R,J
-   3,R
-   8,R,D,X
-   1,R,K,G
-   1,K
-   2,R
-   3,R,J,G
-   6,R
-   1,R,J
-   2,R
-
-   1,R,J
-   4
-  10,R
-  13,R,U,Z
-   1,K
-   1,L
-   1,J
-   1,R
-   3
-   4,R
-   3,R,J
-  15,R,D,X
-   3,R,D
-#diversion
-   4,Z
-   1,R,J
-   2
-  20,R,D
-   2,D
-  40
-
-#lvl_10-x
-   1,R
-  13,R,D,X
-   2,R,J
-   5,R,D,X
-  40
-
-#lvl_11-x
-Read, ../CelesteTAS/3SH, lvl_11-x, lvl_10-x (1)
-
-#lvl_10-x (1)
-   6,R
-  18,L,J
-   5,L,K,G
-   5,L,Z
-   1,L,J
-   3,L
-   1,L,J
-   3,L
-   9,L,J
-   8,L,D,X
- 103
-   4,D,X
-   3,L,J
-   4,L
-   8,L,D,J
-   5,L
-  14,U,X
-  12,J
-  40
-
-
-#lvl_09-b (2)
-  11,K,G
-  12,U,X
-   2,R,J
-   1,R,K,G
-   3,R
-   1
-   3,R
-   6,R,J
-  11,U,X
-  20,R,J
-  10,R,K,G
-   2
-   2,R,J,G
-   1,K
-   2,J,G
-   4,L,J
-   7,L
-  12,L,J
-   1,K
-   2,J,G
-   4,R,J
-  15,U,X
-  12,R,K,G
-   1,R,J,G
-   7,R
-  10,R,Z
-   1,R,J
-   1,R,N
    1,S
    1,D,J
-  34
-   5,R
-   2,R,J
-   6,R
-  14,R,Z
+  69,O
    1,R,J
-  15,R,D,X
+  13,L,D,X
+   2,R,J
+  15,D,X
+  10,R,D
+   4,Z
+   4,R,J
+   1,R
+   7,R,J
+   5,R
+  13,R,D
+  12,R,U,Z
+   1,L,K,G
+   2,R,K
+   1,R
+   4,R,J,G
+   4,R
+   1,K,G
+   9,R,K
+   1,R
+   1,R,J,G
+   8,R
+   4,Z
+   1,R,J
    6,R
   40
 
 #lvl_11-b
-Read, ../CelesteTAS/3A, lvl_11-b, lvl_12-b
+  12,R
+  15,R,Z
+  14
+   8,R,D
+   3,R
+   1,R,D
+   2,R
+   4,Z
+   1,R,J
+   6,R
+   3,R,J
+   1,S
+   1,D,J
+  34
+  12,R,J
+  15,R,U,X
+   1,R,J,G
+   1,L,J
+   1,L
+   6,R
+  11,R,D,X
+  40
+
 #lvl_12-b
    3,R,D,X
    1,R,J
@@ -402,40 +332,74 @@ Read, ../CelesteTAS/3A, lvl_11-b, lvl_12-b
    6,R,D,X
    1,R,J,G
   13,R
-   1,R,J
-  14,R
-   8,R,J
+   2,R,J
+   6,R,K,G
+  10,R,D,X
+   9,R,K,G
+   1,K
   40
 
 #lvl_13-b
-   1
-   1,R
   11,R,U,X
-   1,R,K,G
-  12,R,J,G
-   5,R
-   7,R,J
-  10,R
-  12,R,K,G
-   5,R
-   2,R,K
-   1
-  12,R
+  45,R,K,G
+   8,L,J
+  20,L
+  13,L,D
+   3,L
+   1,L,D
+   5
+   6,R,Z
    1,L,K
-  44,L,D
-   8,L
-   1,J
 #Winged
-   6,J
-  12,L,Z
-   3,L,J
+   7,L,K
+   4,L
+   2,L,J
   12,L,D,X
    3,L,J
   10,L,D,X
   40
 
-#lvl_13-a (0)
-Read, ../CelesteTAS/3A, lvl_13-a, lvl_13-x
+#lvl_13-a
+   2,L,D
+   2,D
+   3,R,J
+   1,L
+   2
+  12,L,D
+  16,D
+   1,L,D
+  15,R,D
+   7,R,X
+  11,R,J
+   3,R
+   2,R,K,G
+   7,R
+   1,R,K
+   1,R
+   1,R,K
+   5,R
+   6,R,J
+   3,R
+   8,U,X
+  18,J
+   1,R,K,G
+   3,L,K
+   1,R,J,G
+   1,R,K,G
+   7,R
+   4,Z
+   1,R,J
+   5,R
+   1,R,J
+   2,R
+   2,R,D,J
+  15,D,X
+   7,R,D
+   5,D
+   1,R,D
+  12,L,D
+  40
+
 #lvl_13-x
    2,D
   15,L,D,X
@@ -487,115 +451,150 @@ Read, ../CelesteTAS/3A, lvl_13-a, lvl_13-x
    1,L,J
   40,J
 
+
 #lvl_12-x
-Read, ../CelesteTAS/3A, lvl_12-x, lvl_09-b (3)
-#lvl_09-b (3)
-   1,L,J
-   5,L
-   1,L,J
-   2,L
-   1,L,J
-   1,L
-   1,L,J
-   5,L
-   3,L,K
-   3,K
-   7
-   2,R
-   3
-  15,U,Z
-   1,L,J,G
-   1,R,J
-   5
-   2,L
-   2,R
-   2,L
-   4,D,X
-   1,L,J
-   2,L
-   1,L,J
-   2,L
-  11,L,D,K
-   2,L
-   1
-   1,J,G
-  11,L,J
-  14,L,U,X
+   4,L,J
+   6,L,K,G
+  12,L,U,X
    2,L,J,G
-
-   1,J
    7,L
-   6,L
-   5
-
-  15,L,D,X
-  24,D
-  20,L,D
-   5,D
-   2
-#Have to wait for the
-#key door to unlock before
-#leaving the room
-   7,L,Z
-   6,L,J
-  40
-
-#lvl_08-a (1)
-  32,L,D
-  40
-
-#lvl_08-x
-  10,L,D
-   6,D
-   6,L,D
-  15,U,Z
-   2,R
-  21,R,K
-  40
-
-#lvl_08-a (2)
-  15,R
-  16,R,U,X
-   2,R,J,G
-   7,R
-#+1f Berry
-  13,R,X
-   2,R,J
-   5,R,U,X
-  40
-
-#lvl_09-b (3)
-   5,R,U,X
+   1,L,J
+   5,D,X
+  12
+Read,../CelesteTAS/3SH,3HC0,lvl_12-b (1)
+#lvl_12-b (1)
    1,L
-   4,J,G
-  14,R,U,X
-   1,R,J,G
-   5,R
-   1,R,J
-   2
-  15,L
-   2
-  15,U,X
-   1,R,J,G
-   3,L,J
-   2,R,K,G
+  16,L,J
+  15,L,D,X
+   1,L,J
+  13,L
+   1,L,J
+  40
+
+
+#lvl_11-b (1)
+   7,L,J
+   6,L
+   2,L
+  10,U,X
+   2,R,J
+   1,R,K,G
    7,R
    4,D,X
    1,R,J
-   3,R
-   1,R,J
-   6
-  10,L
-   5,L,K,G
-  10,L,C
-   7,L,J
+   6,R
+   3,R,K
+   3
+  11,U,X
+   1,L,K
+   1,L,J,G
+   1,K
+  40
+
+
+#lvl_11-c (0)
+   9,L,K,G
+   2,L,J,G
+  10,L,Z
+   9,L,J
+  36,L,D,X
+   1,L,J
+  15,L,D,X
+  13,L
+   1,L,J
+  25,L
+   4,L,K
+   1,L,J,G
+  47,L,K,G
+  60
+   1,X
+  30
+#Heart
+   2,L,J
+  11,D,X
+  40
+
+#lvl_11-b (2)
+  19,L,D
+  11,L,D,X
+  40
+
+#lvl_09-b (2)
+   2,L,D
+   1,L,J
+  12,L,U,X
+   3,L,K,G
+   1,K
+   1,J,G
+   3,D
+   8,L,D
+   2,D
+  19,L,D
+   2,L
+   8,L,U,Z
+   1,R,K,G
+  21,L,K
+   9,L,J,G
+   1,R,K,G
+   5,K
+   2,R,J,G
+  10,R
+   1,X
    1,S
    1,D,J
   34
-   2,J
-   1,L,J
-#Elevator Shaft
-  12,U,X
-   1,J
+
+  12,L
+   4
+   2,L
+   1
+  15,D,X
+  15,R,D,C
+   8,D
+   1,R
+   2,R,D
+   4,D,X
+   1,R,K
+  12,R
+   5,R,D
+   8,D
+  24,R,D
+  17,R,D,X
+   2,D
   40
-MidwayChapterTime: 1:44.023(6119)
+
+#lvl_10-x
+   1,D
+  14,R,D,X
+   2,R,J
+   5,R,D,X
+  40
+Read, ../CelesteTAS/3SH, lvl_11-x, lvl_11-y (0)
+Read, ../CelesteTAS/3HC, lvl_11-y, lvl_10-z
+
+#lvl_10-z
+Read, ../CelesteTAS/3SH, lvl_10-z, lvl_10-x (1)
+#lvl_10-x (1)
+   6,R
+  18,L,J
+   5,L,K,G
+   5,L,Z
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   9,L,J
+   8,L,D,X
+ 103
+   4,D,X
+   3,L,J
+   4,L
+   8,L,D,J
+   5,L
+  14,U,X
+  11,J
+   1,L,J
+  40
+
+#lvl_09-b (2)
+Read, ../CelesteTAS/3HC, lvl_09-b (2), lvl_09-d
