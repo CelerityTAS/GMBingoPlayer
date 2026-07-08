@@ -139,9 +139,31 @@ Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
    1,D,J
   34
 #oshiro1
-Read,../CelesteTAS/3SH,oshiro1,lvl_12-b (0)
-#lvl_12-b
-Read,../CelesteTAS/3HC,lvl_12-b (0),lvl_12-x
+Read,../CelesteTAS/3SH,oshiro1,lvl_13-b (0)
+
+#lvl_13-b
+  11,R,U,X
+  42,R,J,G
+   2
+   6,L,J
+   5,L
+   1,L,J
+  30,L,D
+   1,D
+   7
+   4,Z
+   1,L,J
+#Winged
+   7,L,J
+   4,L
+   2,L,J
+  12,L,D,X
+   3,L,J
+  10,L,D,X
+  40
+#lvl_13-a
+Read,../CelesteTAS/3HC,lvl_13-a (0),lvl_12-x
+
 #lvl_12-x
    1,L,J
    4,L
@@ -650,4 +672,4 @@ EndRepeat
    9,U,Z
    1,J
   40
-MidwayChapterTime: 1:39.195(5835)
+MidwayChapterTime: 1:39.807(5871)

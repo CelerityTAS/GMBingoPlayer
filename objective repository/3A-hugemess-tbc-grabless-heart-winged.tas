@@ -1,4 +1,4 @@
-RecordCount: 894
+RecordCount: 919
 
 console load 3 lvl_08-a
    1
@@ -230,15 +230,24 @@ Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
    2,R
    3
    6,R
-  12,R,J
-  19,R
-  11,R,Z
-   1,R,J
-   3,R
-  15,D,X
-  14,D
+  10,R,J
+   6,R
+  15,R,X
+  13,R
    4,Z
-   8,L,J
+   1,R,J
+  19,R
+   1,K
+   7,L,K
+   5,L
+   1,L,K
+  27,L,D
+   5,D
+   7
+   4,Z
+   1,L,J
+#Winged
+   7,L,J
    4,L
    2,L,J
   12,L,D,X
@@ -820,4 +829,4 @@ Safe
   40
 
 #lvl_09-d
-MidwayChapterTime: 1:32.820(5460)
+MidwayChapterTime: 1:33.602(5506)

@@ -139,9 +139,14 @@ Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
    1,D,J
   34
 #oshiro1
-Read, ../CelesteTAS/3A, oshiro1, lvl_10-z
+Read, ../CelesteTAS/3A, oshiro1, lvl_11-y
+#lvl_11-y
+Read, ../CelesteTAS/3SH, lvl_11-y (0), lvl_11-z
+#lvl_11-z
+Read, ../CelesteTAS/3A, lvl_11-z, lvl_10-z
 #lvl_10-z
 Read, ../CelesteTAS/3SH, lvl_10-z, lvl_10-x (1)
+
 #lvl_10-x (1)
    6,R
   18,L,J
@@ -343,5 +348,113 @@ Read, ../CelesteTAS/3A, lvl_13-a, lvl_13-x
   40,J
 
 #lvl_12-x
-Read, ../CelesteTAS/3A, lvl_12-x, lvl_09-d
-MidwayChapterTime: 1:30.083(5299)
+Read, ../CelesteTAS/3A, lvl_12-x, lvl_09-b (3)
+#lvl_09-b (3)
+   1,L,J
+   5,L
+   1,L,J
+   2,L
+   1,L,J
+   1,L
+   1,L,J
+   5,L
+   3,L,K
+   3,K
+   7
+   2,R
+   3
+  15,U,Z
+   1,L,J,G
+   1,R,J
+   5
+   2,L
+   2,R
+   2,L
+   4,D,X
+   1,L,J
+   2,L
+   1,L,J
+   2,L
+  11,L,D,K
+   2,L
+   1
+   1,J,G
+  11,L,J
+  14,L,U,X
+   2,L,J,G
+   1,J
+   7,L
+   6,L
+   5
+
+  15,L,D,X
+  24,D
+  20,L,D
+   5,D
+   2
+#Have to wait for the
+#key door to unlock before
+#leaving the room
+   7,L,Z
+   6,L,J
+  40
+
+#lvl_08-a (1)
+  32,L,D
+  40
+
+#lvl_08-x
+  10,L,D
+   6,D
+   6,L,D
+  15,U,Z
+   2,R
+  21,R,K
+  40
+
+#lvl_08-a (2)
+  15,R
+  16,R,U,X
+   2,R,J,G
+   7,R
+#+1f Berry
+  13,R,X
+   2,R,J
+   5,R,U,X
+  40
+
+#lvl_09-b (3)
+   5,R,U,X
+   1,L
+   4,J,G
+  14,R,U,X
+   1,R,J,G
+   5,R
+   1,R,J
+   2
+  15,L
+   2
+  15,U,X
+   1,R,J,G
+   3,L,J
+   2,R,K,G
+   7,R
+   4,D,X
+   1,R,J
+   3,R
+   1,R,J
+   6
+  10,L
+   5,L,K,G
+  10,L,C
+   7,L,J
+   1,S
+   1,D,J
+  34
+   2,J
+   1,L,J
+#Elevator Shaft
+  12,U,X
+   1,J
+  40
+MidwayChapterTime: 1:41.184(5952)
