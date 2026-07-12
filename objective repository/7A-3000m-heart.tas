@@ -1,13 +1,11 @@
-RecordCount: 13
-
 console load 7
    1
-Read, 7A-gem-0m, Start
-Read, 7A-gem-500m, Start
-Read, 7A-gem-1000m, Start
-Read, 7A-gem-1500m, Start
-Read, 7A-gem-2000m, Start
-Read, 7A-gem-2500m, Start
+Read, 7A-0m-gem, Start
+Read, 7A-500m-gem, Start
+Read, 7A-1000m-gem, Start
+Read, 7A-1500m-gem, Start
+Read, 7A-2000m-gem, Start
+Read, 7A-2500m-gem, Start
 #Start
   40
 #RTM

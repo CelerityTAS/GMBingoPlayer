@@ -1,7 +1,5 @@
-RecordCount: 28
 console load 1
    1
-
 
 #Start
 Read, ../CelesteTAS/1A, Start, lvl_4

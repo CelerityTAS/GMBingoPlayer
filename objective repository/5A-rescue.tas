@@ -1,4 +1,3 @@
-RecordCount: 31
 console load 5 lvl_e-00 0
    1
 Play, RTM
@@ -33,7 +32,7 @@ SaveAndQuitReenter
    1,S
    1,D,J
   34
-# cycle
+#cycle
    2
 Read,../CelesteTAS/5S,-------------,lvl_e-06
 Read, ../CelesteTAS/5A, lvl_e-06
