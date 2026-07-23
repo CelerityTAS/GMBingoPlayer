@@ -43,6 +43,7 @@ Read, ../CelesteTAS/2S, Start, lvl_d2 (0)
 
 #lvl_d9
 Read,../CelesteTAS/2HC,lvl_d9,Return
+#Cassette
  123
    3,L
   15,L,U,Z

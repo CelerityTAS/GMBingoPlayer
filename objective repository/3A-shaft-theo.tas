@@ -68,12 +68,14 @@ console load 3 4705.4 -287
 
 #talktheoelevator
    1,N
+#Theo
   10
 Repeat, 250
    1,J
    1,O
 EndRepeat
  104
+#TheoEnd
 #Complete
   10,L,X
   10,L,J

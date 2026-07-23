@@ -40,4 +40,6 @@ Read, ../CelesteTAS/3SH, lvl_09-d, lvl_08-d
 #lvl_08-d
 Read, ../CelesteTAS/3SH, lvl_08-d, lvl_04-d (0)
 #lvl_04-d (0)
-Read, ../CelesteTAS/3HC, lvl_04-d (0), lvl_00-d
+Read, ../CelesteTAS/3HC, lvl_04-d (0), Collect
+#Cassette
+Read, ../CelesteTAS/3HC, Collect, lvl_00-d

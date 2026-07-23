@@ -41,6 +41,8 @@ Read, 7A-2000m, Start
   40
 #7A2500End
 
-Read, ../CelesteTAS/7HC, lvl_f-01, lvl_f-07 (1)
-#lvl_f-07
+Read, ../CelesteTAS/7HC, lvl_f-01, 7SHC
+#Gem
+Read, ../CelesteTAS/7HC, 7SHC, lvl_f-07 (1)
+#lvl_f-07 (1)
 Read,../CelesteTAS/7A,lvl_f-07,lvl_g-00

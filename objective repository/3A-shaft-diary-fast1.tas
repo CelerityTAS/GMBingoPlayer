@@ -73,13 +73,14 @@ Read, ../CelesteTAS/3HC, lvl_04-d (0), lvl_02-c (0)
    1,L,K,G
    7,L
    1,N
+#Diary
   22
 Repeat, 32
    1,J
    1,O
 EndRepeat
   18
-#Diary
+#DiaryEnd
    1,S
    1,D,J
   69,O

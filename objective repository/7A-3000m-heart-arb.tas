@@ -1,11 +1,11 @@
 console load 7
    1
-Read, 7A-gem-0m, Start
-Read, 7A-gem-500m, Start
-Read, 7A-gem-1000m, Start
-Read, 7A-gem-1500m, Start
-Read, 7A-gem-2000m, Start
-Read, 7A-gem-2500m, Start
+Read, 7A-0m-gem, Start
+Read, 7A-500m-gem, Start
+Read, 7A-1000m-gem, Start
+Read, 7A-1500m-gem, Start
+Read, 7A-2000m-gem, Start
+Read, 7A-2500m-gem, Start
 #Start
   40
 #RTM
@@ -15,6 +15,7 @@ Read, 7A-gem-2500m, Start
 
 Read,../CelesteTAS/7S,3000M,lvl_g-00b
 Read, ../CelesteTAS/7HC, lvl_g-00b, Exit
+#Heart
 #Collect
    1,S
    1,F,180

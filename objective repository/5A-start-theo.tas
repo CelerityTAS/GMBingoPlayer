@@ -26,12 +26,14 @@ Read, ../CelesteTAS/5A, Start, lvl_a-00c
   13
    1,L
    1,N
+#Theo
   10
 Repeat, 195
    1,J
    1,O
 EndRepeat
   12
+#TheoEnd
    4,Z
    5,R,J
    4,R,K,G

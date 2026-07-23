@@ -185,6 +185,7 @@ Read, ../CelesteTAS/3HC, lvl_12-b (0), lvl_12-x
    7,L
    5,D,X
 Read, ../CelesteTAS/3SH, 3HC0, Collect
+#Heart
 #Collect
    1,S
    1,F,180

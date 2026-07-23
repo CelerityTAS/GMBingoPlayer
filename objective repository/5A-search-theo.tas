@@ -97,12 +97,14 @@ Read, ../CelesteTAS/5S, Search, lvl_d-01 (0)
    1,R,K,G
    6,R
    1,N
+#Theo
   10
 Repeat, 176
    1,J
    1,O
 EndRepeat
   20
+#TheoEnd
    1,L
    4,L,J
   15,D,X

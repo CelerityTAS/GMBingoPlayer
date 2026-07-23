@@ -43,12 +43,14 @@ Safe
   15,L,D
    2,D
    1,X
+#Theo
   10
 Repeat, 500
    1,J
    1,O
 EndRepeat
    6
+#TheoEnd
    1,S
    1,D,J
   69,O
@@ -120,12 +122,14 @@ SaveAndQuitReenter
    1
   15,R,D,X
    1,N
+#Theo
   10
 Repeat, 500
    1,J
    1,O
 EndRepeat
    6
+#TheoEnd
    1,S
    1,D,J
   69,O

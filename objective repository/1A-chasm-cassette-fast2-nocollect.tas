@@ -42,14 +42,28 @@ Read, 1A-crossing, Start
   15,U,X
    1,L,J
   40
-Read, ../CelesteTAS/1SHC, lvl_10 (0)
-#Exit
+Read, ../CelesteTAS/1SHC, lvl_10 (0), lvl_11z
+#lvl_11z
+   1,L
+  12,L,D,J
+   4,J
+  16,U,X
+   2,L,J
+   6,L
+   1,R,J,G
+   6,R,K,G
+#+5f Berry
+  14,R
+   6,R,U,X
+ 257
+   1,J
+#Cassette
 Unsafe
-Read, ../RTM, Menu
-#Menu
+Read, ../RTM, Cassette
 Read, ../EnterCP3
 Safe
   36
+#lvl_9b (1)
    1,R
    1,R,J
   15,R,U,Z

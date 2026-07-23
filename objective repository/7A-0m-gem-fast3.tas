@@ -48,7 +48,9 @@ Read, ../CelesteTAS/7S, lvl_a-03, lvl_a-06
    1,R,J
    1,R,J
    4,R
-  27,L,D,X
+   7,L,D,X
+#Gem
+  20,L,D,X
    7,L,U,C
    1,L,J,G
   35,L,D

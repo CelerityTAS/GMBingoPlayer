@@ -191,7 +191,9 @@ Read,../CelesteTAS/3SH,3HC0,lvl_11-c (0)
   32,L
    3,L,J
   32,L,D
-  60
+   5
+#Heart
+  55
    1,X
   44,L,D
   40

@@ -76,6 +76,7 @@ Read, ../CelesteTAS/3SHC, lvl_04-c (0), lvl_02-c (1)
    1,L,K,G
    7,L
    1,N
+#Diary
   22
 Repeat, 32
    1,J
@@ -84,7 +85,7 @@ EndRepeat
   18
 #ARB
 #Collect
-#Diary
+#DiaryEnd
    1,S
    1,D,J
   69,O

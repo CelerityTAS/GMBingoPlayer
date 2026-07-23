@@ -156,8 +156,11 @@ Read, ../CelesteTAS/7A, lvl_d-01b, lvl_d-10
   14,R,Z
    2,J
    5
+  15,D,X
+  13
   12,L,Z
    3,L,J
+#Winged
    1,J
   15,L,D,X
   15,L,D,C

@@ -127,8 +127,10 @@ Read, ../Grabless/G3A, lvl_s1, lvl_03-a
    1,K
   20,D
   11,R,D
-
-   3,R,D,J
+   8
+   1,R,D,J
+#Winged
+   2,R,J
    5,R
    2,R,J
    1,D,X

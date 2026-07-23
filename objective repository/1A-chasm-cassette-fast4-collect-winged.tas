@@ -118,6 +118,7 @@ Read, ../CelesteTAS/1SHC, lvl_11, lvl_11z
    6,R,U,X
  257
    1,J
+#Cassette
  124
   13,R,D
    4,Z
@@ -147,7 +148,7 @@ Read, ../CelesteTAS/1SHC, lvl_11, lvl_11z
   40
 
 
-#lvl_10
+#lvl_10 (1)
   13,R,D
    9,J
   15,D,C
@@ -158,7 +159,7 @@ Read, ../CelesteTAS/1SHC, lvl_11, lvl_11z
    9,L,D,X
   40
 
-#lvl_9b
+#lvl_9b (1)
    6,L,D
   14,R,D,X
    1,R,J
@@ -203,7 +204,7 @@ Read, ../CelesteTAS/1SHC, lvl_11, lvl_11z
    6,L
   40
 
-#lvl_9b
+#lvl_9b (2)
    4,L
    1
    1,L,J

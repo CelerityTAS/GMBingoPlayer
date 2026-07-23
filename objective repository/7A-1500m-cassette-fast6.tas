@@ -64,8 +64,10 @@ Read, 7A-1000m, Start
 #lvl_d-01
 Read, ../CelesteTAS/7S, lvl_d-01, lvl_d-02
 #lvl_d-02
-Read, ../CelesteTAS/7SHC, lvl_d-02, lvl_d-05 (0)
-#lvl_d-05
+Read, ../CelesteTAS/7SHC, lvl_d-02, Return
+#Cassette
+Read, ../CelesteTAS/7SHC, Return, lvl_d-05 (0)
+#lvl_d-05 (0)
 Read, ../CelesteTAS/7A, lvl_d-05, lvl_d-06
 #lvl_d-06
   10,R,J

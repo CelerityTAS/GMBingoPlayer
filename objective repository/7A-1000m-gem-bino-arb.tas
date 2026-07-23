@@ -134,7 +134,9 @@ Read, ../CelesteTAS/7SHC, lvl_c-06, lvl_c-06c
    1,L,J
    6,L,K
   15,R,U,X
-  27,R,U,Z
+  12,R,U,Z
+#Gem
+  15,R,U,Z
    1,J
    1,L,K,G
    6,L,J,G

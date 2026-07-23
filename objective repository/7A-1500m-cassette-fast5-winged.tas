@@ -108,7 +108,9 @@ Read, 7A-1000m, Start
   40
 
 #lvl_d-02
-Read, ../CelesteTAS/7SHC, lvl_d-02, lvl_d-05 (0)
+Read, ../CelesteTAS/7SHC, lvl_d-02, Return
+#Cassette
+Read, ../CelesteTAS/7SHC, Return, lvl_d-05 (0)
 #lvl_d-05
 Read, ../CelesteTAS/7A, lvl_d-05, lvl_d-06
 #lvl_d-06
@@ -181,9 +183,10 @@ Read, ../CelesteTAS/7S, lvl_d-10 (0), lvl_d-10b
    2,J
    5
   15,D,X
-  24
+  41
   10,L,Z
    2,L,J
+#Winged
    3,L
   15,L,D,X
   15,L,D,C

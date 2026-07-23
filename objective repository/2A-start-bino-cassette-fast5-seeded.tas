@@ -83,6 +83,7 @@ Read, ../CelesteTAS/2S, Start, lvl_d3 (1)
 
 #lvl_d9
 Read,../CelesteTAS/2HC,lvl_d9,Return
+#Cassette
  123
    3,L
   15,L,U,Z
@@ -95,6 +96,7 @@ Read,../CelesteTAS/2HC,lvl_d9,Return
   40
 
 Read, ../CelesteTAS/2SHC, lvl_d0 (3), lvl_d1
+#lvl_d1
 Read,../CelesteTAS/2S,lvl_d1,lvl_d0 (3)
 
 #lvl_d0 (3)

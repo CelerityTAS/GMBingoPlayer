@@ -71,11 +71,44 @@ console load 5 b-00
   13,U,X
   40
 #lvl_b-20
-Read,../CelesteTAS/5S,lvl_b-20 (0),lvl_b-01b
-Read, ../CelesteTAS/5S, lvl_b-01b, 5SHC1
-#lvl_b-17
+Read,../CelesteTAS/5S,lvl_b-20 (0),lvl_b-17 (0)
+#lvl_b-17 (0)
+   8,R,D,X
+#Winged
+   2,R,J
+  14,R,D,X
+   1,R,J
+   2
+  14,L,Z
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   2,L,J
+   5,L,D,X
+   8,L,J,G
+   3,L
+  58
 
-Read,../CelesteTAS/5SHC,lvl_b-17 (2),lvl_b-13 (3)
+#lvl_b-13 (1)
+Read, ../CelesteTAS/5S, lvl_b-13 (1), 5SHC1
+Read,../CelesteTAS/5SHC,lvl_b-17 (2),lvl_b-22
+#lvl_b-22
+   4,R,J
+  14,U,X
+   1,L
+   1,K,G
+   7,R
+   1,X
+   3,R
+  16,D,C
+  15,R,D,X
+#Seeded
+   6,R,C
+Read,../CelesteTAS/5HC,5SHC2,Return
+#Cassette
+Read,../CelesteTAS/5HC,Return,lvl_b-13 (1)
+#lvl_b-13 (3)
 Read,../CelesteTAS/5HC,lvl_b-13 (1),lvl_b-02 (1)
 #lvl_b-02
    9,L,U,V

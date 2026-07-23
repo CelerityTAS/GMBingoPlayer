@@ -44,8 +44,22 @@ Read, ../CelesteTAS/5HC, lvl_b-01, lvl_b-01b
 Read, ../CelesteTAS/5S, lvl_b-01b, 5SHC1
 #lvl_b-17
 
-Read,../CelesteTAS/5SHC,lvl_b-17 (2),lvl_b-13 (3)
-Read,../CelesteTAS/5HC,lvl_b-13 (1),lvl_b-02 (1)
+Read,../CelesteTAS/5SHC,lvl_b-17 (2),lvl_b-22
+#lvl_b-22
+   4,R,J
+  14,U,X
+   1,L
+   1,K,G
+   7,R
+   1,X
+   3,R
+  16,D,C
+  15,R,D,X
+#Seeded
+   6,R,C
+Read,../CelesteTAS/5HC,5SHC2,Return
+#Cassette
+Read,../CelesteTAS/5HC,Return,lvl_b-02 (1)
 #lvl_b-02
    9,L,U,V
    5,K,G

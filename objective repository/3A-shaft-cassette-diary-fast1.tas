@@ -52,13 +52,14 @@ Read, ../CelesteTAS/3HC, Collect, lvl_02-c (1)
    1,L,K,G
    7,L
    1,N
+#Diary
   22
 Repeat, 32
    1,J
    1,O
 EndRepeat
   18
-#Diary
+#DiaryEnd
    6,L,X
    6,R,J
    7,R

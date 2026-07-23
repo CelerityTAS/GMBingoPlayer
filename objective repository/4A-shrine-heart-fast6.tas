@@ -50,8 +50,6 @@ Read, ../CelesteTAS/4SH0, lvl_b-01, lvl_b-00 (2)
   40
 
 #lvl_b-02
-
-#lvl_b-02
    3,R
    1,R,J
    3,R
@@ -74,10 +72,9 @@ Read, ../CelesteTAS/4SH0, lvl_b-01, lvl_b-00 (2)
    9,R,Z
   40
 
-Read, ../CelesteTAS/4SH0, lvl_b-sec (0), lvl_b-08b
-
-#lvl_b-08b
-Read, ../CelesteTAS/4SH0, lvl_b-08b, lvl_b-08
+Read, ../CelesteTAS/4SH0, lvl_b-sec (0), Exit
+#Heart
+Read, ../CelesteTAS/4SH0, Exit, lvl_b-08
 
 #lvl_b-08
    5,R

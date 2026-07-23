@@ -24,7 +24,10 @@ Read, 4A-start
 Read, ../CelesteTAS/4SH0, lvl_b-00 (0), lvl_b-01
 #4ashrineend
 #lvl_b-01
-Read, ../CelesteTAS/4SH0, lvl_b-01, lvl_b-08
+Read, ../CelesteTAS/4SH0, lvl_b-01, Exit
+#Heart
+Read, ../CelesteTAS/4SH0, Exit, lvl_b-08
+#lvl_b-08
    5,R
    1,R,J,G
    1,R,K,G

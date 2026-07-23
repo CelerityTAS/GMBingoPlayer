@@ -88,14 +88,14 @@ Read, 1A-start, Start
   10,R,D
    7,D
    1,N
-#cutscene
+#Theo
   30
 Repeat, 285
    1,J
    1,N
 EndRepeat
   20
-#cutsceneEnd
+#TheoEnd
    1,S
    1,D,J
   69,O
@@ -159,7 +159,9 @@ EndRepeat
   40
 
 #lvl_6a
-Read, ../CelesteTAS/1SH0, lvl_6a, lvl_9
+Read, ../CelesteTAS/1SH0, lvl_6a, Exit
+#Heart
+Read, ../CelesteTAS/1SH0, Exit, lvl_9
 #lvl_9
   16,J
    1,R,K,G

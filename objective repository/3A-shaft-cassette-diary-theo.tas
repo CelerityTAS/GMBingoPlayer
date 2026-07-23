@@ -68,12 +68,14 @@ console load 3 4705.4 -287
 
 #talktheoelevator
    1,N
+#Theo
   10
 Repeat, 250
    1,J
    1,O
 EndRepeat
  104
+#TheoEnd
 #Complete
   10,L,X
   10,L,J
@@ -107,13 +109,14 @@ Read, ../CelesteTAS/3HC, Collect, lvl_02-c (1)
    1,L,K,G
    7,L
    1,N
+#Diary
   22
 Repeat, 32
    1,J
    1,O
 EndRepeat
   18
-#Diary
+#DiaryEnd
    6,L,X
    6,R,J
    7,R
@@ -143,8 +146,6 @@ EndRepeat
    1,R,J
    2,J
   40
-
-
 
 #lvl_04-c (1)
    5

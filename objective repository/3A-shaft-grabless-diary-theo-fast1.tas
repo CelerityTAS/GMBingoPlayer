@@ -72,12 +72,14 @@ Safe
   10,D
   30
    1,N
+#Theo
   10
 Repeat, 250
    1,J
    1,O
 EndRepeat
  104
+#TheoEnd
 #Complete
   10,L,X
   13,L,J
@@ -237,13 +239,14 @@ Read, ../Grabless/G3A, lvl_08-d, lvl_06-d
    7,L,J
    9,L
    1,N
+#Diary
   22
 Repeat, 32
    1,J
    1,O
 EndRepeat
   18
-#Diary
+#DiaryEnd
    6,L,X
    1,R,J
    1,J

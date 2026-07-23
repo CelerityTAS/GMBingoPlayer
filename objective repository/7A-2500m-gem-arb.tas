@@ -74,7 +74,9 @@ Read, 7A-2000m, Start
    1,L,J
    6,L,U,Z
   40
-Read, ../CelesteTAS/7SHC, lvl_f-01, lvl_f-08b
+Read, ../CelesteTAS/7SHC, lvl_f-01, lvl_f-02b (1)
+#Gem
+Read, ../CelesteTAS/7SHC, lvl_f-02b (1), lvl_f-08b
 #lvl_f-08b
 Read,../CelesteTAS/7S,lvl_f-08b,lvl_f-11
 #lvl_f-11

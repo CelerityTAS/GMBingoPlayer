@@ -77,6 +77,43 @@ Read, ../CelesteTAS/7S, lvl_b-01, lvl_b-02b (0)
   40
 #lvl_b-02c (0)
 Read, ../CelesteTAS/7HC, lvl_b-02c (0), lvl_b-02d
-Read, ../CelesteTAS/7SHC, lvl_b-02d, lvl_b-07
+#lvl_b-02d
+   6,L,D
+  10,L,Z
+   5,L,J
+  15,L,D,X
+   5,L
+   4,L,D
+   1,L
+   4,L,D
+   1,L
+  10,L,U,C
+   1,L,K,G
+   4,L
+  21,L,D,X
+   3,R,D
+  18,R,D,C
+   2,R
+   2,R,D
+   1,R
+  23,R,X
+  11,R,U,C
+   4,R,J,G
+  15,R,D,X
+   4,V
+   8,R,J
+   2,R
+   1
+   1,R,J
+   3
+   7,L,D,X
+#Gem
+  23,L,D,X
+   1,L
+   9,D,C
+  40
+
+#lvl_b-02 (1)
+Read, ../CelesteTAS/7SHC, lvl_b-02 (1), lvl_b-07
 #lvl_b-07
 Read, ../CelesteTAS/7S, lvl_b-07, lvl_c-00

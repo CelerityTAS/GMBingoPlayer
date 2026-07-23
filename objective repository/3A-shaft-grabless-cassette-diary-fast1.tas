@@ -264,13 +264,14 @@ Read, ../Grabless/G3A, lvl_08-d, lvl_06-d
    3,L,J
    9,L
    1,N
+#Diary
   22
 Repeat, 32
    1,J
    1,O
 EndRepeat
   18
-#Diary
+#DiaryEnd
    6,L,X
    6,R,J
    7,R
