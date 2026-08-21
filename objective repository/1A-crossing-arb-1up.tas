@@ -116,9 +116,47 @@ Read, 1A-start, Start
   40
 
 #lvl_6a
-Read, ../CelesteTAS/1SH0, lvl_6a, Exit
-#Heart
-Read, ../CelesteTAS/1SH0, Exit, lvl_9
+Read, ../CelesteTAS/1SH0, lvl_6a, lvl_s1
+#lvl_s1
+   5,L
+  12,L,K
+  14,L,U,X
+  10,L,K,G
+   1,R
+   6,L
+  10,L,D,X
+   5,L,J
+  15,L,D,X
+   3,L,D
+   2,L
+   1,L,J
+   3,L,K,G
+   2,K
+   1,L,K
+  14,L,U,X
+   4,L,K,G
+  23,L,D
+   1,L,J
+  10,R,X
+   7,R,J
+   3,J
+  15,R,Z
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+   2,D
+   2,R,D
+  19,R,J
+   5,R,K,G
+  15,R,D,X
+   8,R,D
+   6,D
+   1,R,J
+   2
+  40
+
+#lvl_s0 (1)
+Read, ../CelesteTAS/1SH0, lvl_s0 (1), lvl_9
 #lvl_9
   16,J
    1,R,K,G
@@ -155,4 +193,5 @@ Read, ../CelesteTAS/1SH0, Exit, lvl_9
    3,R
    1,R,J
   40
-MidwayRealTime: 1:13.266(4396)
+MidwayRealTime: 1:04.633(3878)
+# 1:13.266(4396)
