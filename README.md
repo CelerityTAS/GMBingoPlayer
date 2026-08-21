@@ -109,6 +109,9 @@ all need another frame for SNQ
 
 ### 7HC and 7SHC needs 1,F,180 on Heart
 
+### Figure out Farewell
+you will probably not want to touch farewell, since it is so cursed, lol
+
 ### Other changes
 Go through the improvements and see if any of them would affect the current tases. This is the longest thing and there will be mistakes.
 look for route diversions, since those are where different inputs matter
