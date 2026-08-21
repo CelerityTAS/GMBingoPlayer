@@ -27,31 +27,30 @@ console load 6 lvl_04
   15,L,X
    1,L,J,G
   31,D
-   9
+  12,R
    8,U,X
-  14,L,D
-  37
-  18,R,G
-   4,U,G
+  13,L
+  24
+  21,R,G
+  10,D,G
    1,G
    5,R,X
    1,R,J,G
-   1,R,K,G
-   6,R
-   2,R,K
-   3
-   7,L,Z
-   1,R,J
-   1
-   1,J
-   6
-   6,R,D,X
+  23,R,D
+  12,R,Z
    1,L,J
-   1
-   5,L
-   1,L,D,J
-   2,L,K,G
-  12,L,D,X
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   7,L,U,Z
+   1,R
+   3,O
+   1,J,G
+   1,K
+   4,J,G
   43
 Play, lvl_04e
 

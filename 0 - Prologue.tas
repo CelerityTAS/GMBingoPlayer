@@ -115,13 +115,18 @@ console load 0
    6,R
    1,R,K
    4,R
-   1,R,J
-   1,S
-   1,D,J
   34
-  21,R
+Repeat,600
+   1,J
+   1,N
+EndRepeat
+   5
+   5,R
    1,R,J
-  15,R
+  18,R
+   3,R,D
+   1,R,J
+  16,R
    1,R,J
    7,R
   40
@@ -147,7 +152,8 @@ EndRepeat
    3,R,J
   11,R
   16,R,J
-   1,S
-   1,D,J
- 232
-ChapterTime: 0:24.650(1450)
+ 369,R
+  15,R,U,X
+ 497,R
+ 214
+ChapterTime: 0:59.840(3520)

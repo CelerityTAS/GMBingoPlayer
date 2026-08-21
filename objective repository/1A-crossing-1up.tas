@@ -10,11 +10,11 @@ console load 1 lvl_6
   12,L,K,G
    2,L,J,G
    7,L
-Play, End
+Play,End
 
 console load 1
    1
-Read, 1A-start, Start
+Read,1A-start,Start
 #Start
    2,R,J,G
   12,R,K,G
@@ -25,7 +25,7 @@ Read, 1A-start, Start
    4,J,G
    7,L
 #End
-Read, ../CelesteTAS/1A, top-hyper, lvl_6b
+Read,../CelesteTAS/1A,top-hyper,lvl_6b
 #lvl_6b
    1,R
   15,U,X
@@ -40,19 +40,26 @@ Read, ../CelesteTAS/1A, top-hyper, lvl_6b
    1,R
    1,R,J
    5,R
-  11,R,D,J
-   6,K
-   1,R,K
-   5,R,Z
+   9,R,D,J
+   1,J
+   1,R,J
+   1,K
+   4,L,J,G
+   1,R,J
+   1,K
+   6,R,Z
    1,R,J
    7,R
-   6,R,J
-   8,R
+   1,R,J
+   4,R
   13,R,U,Z
+   1,L
+   2,J,G
+   3,L
   40
 
-#lvl_6c
-Read, ../CelesteTAS/1SH0, lvl_6c, lvl_9
+#lvl_6c (0)
+Read,../CelesteTAS/1SH0,lvl_6c,lvl_9
 #lvl_9
   16,J
    1,R,K,G

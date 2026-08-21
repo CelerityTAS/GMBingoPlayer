@@ -101,9 +101,9 @@ EndRepeat
 
 #lvl_6 (2)
   10,R
-Read, ../CelesteTAS/1A, top-hyper, lvl_6a
-#lvl_6a
-Read, ../CelesteTAS/1HC, lvl_6a, Exit
+Read, ../CelesteTAS/1A, top-hyper, lvl_6b
+#lvl_6b (0)
+Read, ../CelesteTAS/1HC, lvl_6b (0), Exit
 #Heart
 Read, ../CelesteTAS/1HC, Exit, lvl_9
 #lvl_9

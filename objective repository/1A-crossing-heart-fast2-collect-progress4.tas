@@ -9,14 +9,14 @@ console load 1 lvl_6
   12,L,K,G
    2,L,J,G
    7,L
-Play, End
+Play,End
 
 console load 1
    1
 
-Read, 1A-start-progress5-winged, Start
+Read,1A-start-progress5-winged,Start
 #Start
-#lvl_6
+#lvl_6 (0)
    2,R,J,G
   12,R,K,G
   15,U,Z
@@ -57,9 +57,9 @@ Read, 1A-start-progress5-winged, Start
   40
 
 #lvl_6a
-Read, ../CelesteTAS/1SH0, lvl_6a, lvl_6b (0)
-Read, ../CelesteTAS/1HC, lvl_6b (0), lvl_s1 (0)
-#lvl_s1 (0)
+Read,../CelesteTAS/1SH0,lvl_6a,lvl_6b (0)
+Read,../CelesteTAS/1HC,lvl_6b (0),lvl_s1 (0)
+#lvl_s1
    4,L
   10,L,J
    5,L
@@ -119,9 +119,29 @@ Read, ../CelesteTAS/1HC, lvl_6b (0), lvl_s1 (0)
   30,L,D,X
   50,L,J
 #Heart
-Read, ../CelesteTAS/1SH0, Exit, lvl_8 (0)
-#lvl_8
-   3,R,D,X
+Read,../CelesteTAS/1SH0,Exit,lvl_8zb
+#lvl_8zb
+   4,R
+   4,R,D
+   1,R,J
+   2,J
+   5,R,U,X
+   1,J,G
+   1,R
+   8
+   1,R
+   9
+  14,R,D
+   2,R
+  23,R,X
+  13,R,C
+   1,L
+   1,J,G
+   4
+  40
+
+#lvl_8 (0)
+  10,R,D,X
    1,R,J
    3,K,G
    4,G
@@ -154,7 +174,7 @@ Read, ../CelesteTAS/1SH0, Exit, lvl_8 (0)
    5,R,K
   40
 #lvl_8b
-Read, ../CelesteTAS/1SH0, lvl_8b, lvl_9
+Read,../CelesteTAS/1SH0,lvl_8b,lvl_9
 
 #lvl_9
   16,J

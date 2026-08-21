@@ -1,3 +1,4 @@
+#play 10
 console load 6 lvl_04
    1
 #lvl_04 (0)
@@ -10,10 +11,10 @@ Read, 6A-start
 Read, 6A-lake, Start
 #Start
 #lvl_04 (1)
-   1,K
-   9,R
-   1,R,J
-   7,Z
+   1,K,G
+   7
+   3,R
+   4,Z
 #hyper
    1,R,J
    7,R

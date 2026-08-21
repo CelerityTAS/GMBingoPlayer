@@ -84,6 +84,7 @@ Read,../CelesteTAS/5S,lvl_b-20 (0),lvl_b-01 (2)
   40
 #lvl_b-20 (1)
 Read,../CelesteTAS/5S,lvl_b-20 (1),lvl_b-01b
+#lvl_b-01b
 Read, ../CelesteTAS/5HC, lvl_b-01b, Return
 #Cassette
 Read, ../CelesteTAS/5HC, Return, lvl_b-02 (1)

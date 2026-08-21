@@ -1,11 +1,14 @@
+console load 6 lvl_04
+   1
+play 50
 Read, 6A-start
 Read, 6A-lake, Start
 #Start
 #lvl_04
-   1,K
+   1,K,G
    9,R
    1,J
-  10,Z
+   5,Z
    1,R,J
    7,R
    2,R,K

@@ -1,4 +1,4 @@
-FileTime: 35:34.401(125553)
+FileTime: 35:32.973(125469)
 #Start from Begin
 
 Read,StartFullGameFile
@@ -83,7 +83,7 @@ Read,5S,Depths
 
 Read,LoadA
 
-Read,6HC,Start,Return
+Read,6AC,Start,Return
 
 Read,LoadBFromA
 

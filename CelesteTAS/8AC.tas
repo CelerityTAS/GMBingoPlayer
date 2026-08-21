@@ -33,8 +33,8 @@ Read,8S,lvl_d-07,lvl_d-11
   17,R
   21,R,J
  257
-#Return
    1,J
+#Return
   62
    1,S
    1,F,180
@@ -54,28 +54,32 @@ SaveAndQuitReenter
    1,R,J
   14,R,D,X
    1,R,J
-  10,R,D,X
+   1,R
+  14,R,D,X
    1,R,J
-  12,R
-  12,R,J
-  15,R,D,X
-  12,R,J
-  15,R,D,X
+   1,R
+  14,R,D,X
    1,R,J
+   8,R,D,X
+  13,R,J,G
   15,R,D,X
-  40,R,D,C
+   3,R,J
+  29,R,D,X
+  25,R,D,C
    7,R,J
   15,R,D,X
    2,R,J
-  15,R,D,X
-  81,R,D,C
+  21,R,D,X
+  75,R,D,C
+  14,R,D,X
    1,R,J
-  13,R,D,X
-   2,R,J
   16,R,D,X
-   4,R,J
-  22,R,D,X
-   1,R,J
-  49,R,D,C
- 152,R,D,X
-FileTime: 2:30.348(8844)
+   2,R,J
+  15,R,D,X
+   7,R
+  24,R,D,X
+  39,R,D,C
+   4,X
+ 135,L,U
+
+FileTime: 2:30.025(8825)

@@ -77,6 +77,7 @@ Read, 1A-start-progress4-winged, Start
    3,J
   20,R,U,X
   40
+
 #lvl_6b
    1,R
   15,U,X
@@ -91,21 +92,27 @@ Read, 1A-start-progress4-winged, Start
    1,R
    1,R,J
    5,R
-  11,R,D,J
-   6,K
-   1,R,K
-   5,R,Z
+   9,R,D,J
+   1,J
+   1,R,J
+   1,K
+   4,L,J,G
+   1,R,J
+   1,K
+   6,R,Z
    1,R,J
    7,R
-   6,R,J
-   8,R
+   5,R,J
   13,R,U,Z
+   1,L
+   2,J,G
+   3,L
   40
 
 #lvl_6c
 Read, ../CelesteTAS/1SH0, lvl_6c, lvl_8 (0)
 #lvl_8
-   3,R,D,X
+  10,R,D,X
    1,R,J
    3,K,G
    4,G

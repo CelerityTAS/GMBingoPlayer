@@ -34,3 +34,81 @@ like secret in 6A, reflection cutscene, diary in elevator shaft etc.
 - winged (gets the winged)
 - seeded (gets the seeded)
 - 1up, 2up, 3up (all included)
+
+## Updating Maingame tas
+This will notate the changes that need to be done, when updating the maingame tases to a newer version, since there are unfortunately things I changed in the maingame files for an easier time drafting the objectives.
+
+### 1A
+change the lvl_6 room to match this. This will only add a #top-hyper label, that is used in all 1A-crossing files
+```
+#lvl_6
+  14,R,J
+  15,U,Z
+   1,L,J,G
+   7,L
+#top-hyper
+  14,L,D,X
+   1,R,J
+  14,R,U,X
+   4,R,J,G
+   7,R
+   5,R,J
+   2,R,K,G
+   5,R
+  10,R,J,G
+   9,R
+   2,R,J
+   7,R
+  43
+```
+
+### 1SH0 and 1HC
+add a frame of 1,F,180 to the lvl_s1 SNQ and add the #Exit label
+```
+27,L,D,X
+  59,L,J
+#Exit
+   1,S
+   1,F,180
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
+
+#Post Heart
+```
+
+### 2A
+add a frame of 1,F,180 to the save and quit in awake, so #lvl_end_0
+
+### 3A
+add the #oshiro1 label to first huge mess visit
+```
+11,L,D,X
+   1,R,K
+   3,R,K,N
+   1,S
+   1,D,J
+  34
+#oshiro1
+   2,R,K
+   1,K
+  14,R,U,X
+   1,R,J,G
+```
+### 3SH, 3HC, 3SHC
+3SH needs a oshiro1 label
+all need another frame for SNQ
+3HC needs a #Return label after Cassette
+3SH needs a #Collect on heart
+3SHC needs a #Return label after Cassette
+
+### 4HC and 4SH0 need 1,F,180 like above
+### 5B and 5S need the same at TTM and Unraveling
+### 5HC needs that as well and a #Return at Cassette
+
+### 7HC and 7SHC needs 1,F,180 on Heart
+
+### Other changes
+Go through the improvements and see if any of them would affect the current tases. This is the longest thing and there will be mistakes.
+look for route diversions, since those are where different inputs matter

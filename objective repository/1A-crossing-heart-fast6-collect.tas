@@ -121,7 +121,7 @@ Read, ../CelesteTAS/1HC, lvl_6b (0), lvl_s1 (0)
 #Heart
 Read, ../CelesteTAS/1SH0, Exit, lvl_8 (0)
 #lvl_8
-   3,R,D,X
+  10,R,D,X
    1,R,J
    3,K,G
    4,G
