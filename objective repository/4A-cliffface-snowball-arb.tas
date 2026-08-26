@@ -90,7 +90,6 @@ Read, 4A-oldtrail, Start
    3,R,J
    2,R
   40
-
 #lvl_d-00 (1)
    1,S
    1,D,J
@@ -202,9 +201,10 @@ EndRepeat
    1
    1,J
    3
-   7,R,Z
+   6,R,Z
    1,R,J
    2,R
+   1,R,J
   40
 
 #lvl_d-03 (1)
