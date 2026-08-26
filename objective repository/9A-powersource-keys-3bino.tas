@@ -1,4 +1,4 @@
-play 665
+play 585
 console load 10 lvl_c-00
    1
 #RTM
@@ -356,20 +356,6 @@ Read, ../CelesteTAS/9NMG, lvl_c-alt-00, lvl_d-00
    1,S
    1,D,J
   69,O
-   1,R,J
-  15,U,X
-   3,R
-   3,J
-   3,R,K,G
-   1,R,K
-   1,L
-   6,R
-   1,N
-   7
-#Bino4
-   1,S
-   1,D,J
-  69,O
    4,Z
    2,R,K
    7,R,J,G
@@ -462,15 +448,6 @@ Read, ../CelesteTAS/9NMG, lvl_c-alt-00, lvl_d-00
    1,S
    1,D,J
   69,O
-   4,Z
-   4,R,J
-  20,R
-   1,N
-   9
-#Bino5
-   1,S
-   1,D,J
-  69,O
   10,L
   13,G
    2,R,J,G
@@ -550,14 +527,11 @@ Read, ../CelesteTAS/9NMG, lvl_c-alt-00, lvl_d-00
    1,R,K
    1,L,J,G
    1,L,K,G
-  11,L
-   1,N
-  13
-#Bino6
-  24
-   1,X
-  19
-  10,L,D,X
+  12,L
+   2
+   1
+   1,L
+  10,L,D,C
    4,R,J
    2,R
    1,J
@@ -604,61 +578,7 @@ Read, ../CelesteTAS/9NMG, lvl_c-alt-00, lvl_d-00
   40
 
 #lvl_e-00yb
-   9,R
-  13
-   1,N
-   7
-#Bino7
-   1,S
-   1,D,J
-  69,O
-   1,R
-   1,L,J
-   9,L,Z
-   1,R,J
-   1,R
-   2
-   1,R
-   1
-   2,R
-   1,R,J
-   4,R
-   9,R,U,X
-   1,R,J,G
-   2,R,K,G
-   1,R,J,G
-  18,R,K,G
-   7
-
-  15,U,X
-   3
-   2,R
-  21,R,J
-   7,J
-  15,U,X
-   8,U,C
-  14,L,J
-   8,L
-  13,L,X
-   1,L,J,G
-   4,L,K,G
-  20,L
-  37,R,U,X
-  45,U,C
-  60,L,U,X
-  40
-
-#lvl_e-00y
-  61
-  15,U,X
-  40
-
-#lvl_e-00z
-  15,R,K
-   1,S
-   1,D,J
-  33,O
-
+read, ../CelesteTAS/9NMG, lvl_e-00yb, lvl_e-00z
 
 Play, 9AKeysPsEnd
 
@@ -905,22 +825,6 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    1,S
    1,D,J
   69,O
-   1,R,J
-  15,U,X
-   3,R
-   3,J
-   3,R,K,G
-   1,R,K
-   1,L
-   6,R
-   1,N
-   7
-#Bino4
-   1,S
-   1,D,J
-  69,O
-
-
    4,Z
    2,R,K
    7,R,J,G
@@ -1010,15 +914,6 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    1,S
    1,D,J
   69,O
-   4,Z
-   4,R,J
-  20,R
-   1,N
-   9
-#Bino5
-   1,S
-   1,D,J
-  69,O
    5,R
    1,R,J
    1,R
@@ -1085,27 +980,10 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    1,F,
    1,U,J
 SaveAndQuitReenter
-
   36
-   4,R,Z
-   1,L,J
-   8,L
-   1,L,J
-   1,L
-   7,L,X
-   1,L,K
-   2,K
-   3,L,K
-   9,L
-   1,N
-  12
-#Spinnercycle
+# SpinnerCycle
    2
-#
-   1,S
-   1,D,J
-  69,O
-
+# EndSpinnerCycle
 
    5,R,Z
    1,L,J
@@ -1151,47 +1029,5 @@ EndStunPause
   40
 
 #lvl_e-00yb
-   5
-
-
-  15,D,X
-   1,N
-  11
-   1,S
-   1,D,J
-  69,O
-
-
-   1,L,J
-  14,R,D,X
-   1,R,J
-  10,R,U,X
-   1,R,K,G
-   2,R,J,G
-   1,R,K,G
-  10,R,J,G
-   1,J
-  12,R,J
-  15,U,X
-   3,R
-  26,J
-  15,U,X
-   6,R
-   8,U,C
-  18,J
-  15,L,X
-   7,L,C
-   1,L,J,G
-   7,L,K,G
-  17,L
-  37,R,U,X
-  45,U,C
-  60,L,U,X
-  40
-
-#lvl_e-00y
-  61
-  15,U,X
-  40
-
+Read, ../CelesteTAS/9, lvl_e-00yb, lvl_e-00z
 #9AKeysPsEnd
