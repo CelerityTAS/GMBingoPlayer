@@ -251,6 +251,7 @@ Read,../Grabless/G5A,lvl_b-01,lvl_b-02
  257
    1,J
 #Return
+#Cassette
  123
    7,L
   14,L,D,X
@@ -476,6 +477,7 @@ Read,../Grabless/G5A,lvl_b-06,lvl_b-19
   12,R,U,X
  135,D
 #Exit
+#Heart
    1,S
    1,F,180
    1,D

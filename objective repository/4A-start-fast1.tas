@@ -256,7 +256,6 @@ console load 4
 #Start
 Read,../CelesteTAS/4A,Start,lvl_a-04
 #lvl_a-04 (1)
-***
    6,R,J
    2,R
   20,R,D,X
