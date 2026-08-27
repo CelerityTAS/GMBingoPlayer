@@ -6,7 +6,7 @@ Set, BingoUI.HideVariantsExceptGrabless, true
 Set, BingoUI.PreventPrologueCutsceneSkips, true
 Set, BingoUI.SkipTallyWithConfirm, true
 Set, BingoUI.SkipChapterComplete, true
-
+   1
 Unsafe
    1,O
 Add 131

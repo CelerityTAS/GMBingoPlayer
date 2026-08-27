@@ -1,7 +1,12 @@
 console load 5 b-00
    1
-
 #Start
+  36
+   1,S
+   1,F,
+   1,U
+   1,J,F,
+SaveAndQuitReenter
 #RTM
   36
 Unsafe

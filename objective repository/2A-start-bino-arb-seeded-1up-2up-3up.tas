@@ -66,9 +66,10 @@ Read, ../CelesteTAS/2S, lvl_d2 (0), lvl_0 (2)
   17
 #2UP
   17
+   5,U,X
 #3UP
 #Collect
-  16,U,X
+  11,U,X
   18,R,J
    1,R,K,G
   40
