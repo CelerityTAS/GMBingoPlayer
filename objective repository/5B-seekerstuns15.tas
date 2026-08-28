@@ -98,8 +98,8 @@ Read, ../CelesteTAS/5B, 5BG1, lvl_c-01
    9,R
 #8stun
   19,D
-  94,R,G
-   2,K,G
+  95,R,G
+   1,K,G
    1,L
    7
   15,D,X
@@ -107,50 +107,12 @@ Read, ../CelesteTAS/5B, 5BG1, lvl_c-01
 #9stun
   19,D
   94,R,G
-   2,K,G
-   1,L
-   7
-  15,D,X
-   9,R
-#10stun
-  19,D
-  94,R,G
-   2,K,G
-   1,L
-   7
-  15,D,X
-   9,R
-#11stun
-  19,D
-  94,R,G
-   2,K,G
-   1,L
-   7
-  15,D,X
-   9,R
-#12stun
-  19,D
-  94,R,G
-   3,K,G
-   1,L
-   7
-  15,D,X
-   9,R
-#13stun
-  19,D
-  94,R,G
-   3,K,G
-   1,L
-   7
-  15,D,X
-   9,R
-#14stun
-  19,D
-  94,R,G
   10,K
-#15stun
-  14,R,J,G
-  10,R,Z
+#10stun
+  10,R,J,G
+   1,R
+   5,R,J
+   9,R,Z
    1,R,K
    6,R
    6,R,D,J
@@ -159,18 +121,18 @@ Read, ../CelesteTAS/5B, 5BG1, lvl_c-01
 #lvl_c-02
 Read, ../CelesteTAS/5B, lvl_c-02, lvl_c-03
 
-#16stun
+#11stun
 #lvl_c-03
 Read, ../CelesteTAS/5B, lvl_c-03, lvl_c-04
 #lvl_c-04
-#17stun
+#12stun
 Read, ../CelesteTAS/5B, lvl_c-04, lvl_d-02
-#18stun
+#13stun
 #lvl_d-02
 Read, ../CelesteTAS/5B, lvl_d-02, lvl_d-03
 #lvl_d-03
-#19stun
-#20stun
+#14stun
+#15stun
 Read, ../CelesteTAS/5B, lvl_d-03
    1,S
    1,U,J

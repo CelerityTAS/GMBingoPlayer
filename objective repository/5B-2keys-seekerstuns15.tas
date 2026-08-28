@@ -3,4 +3,4 @@ console hard 5
 #Start
 Read, 5B-2keys, Start, TTM
 #TTM
-Read, 5B-seekerstuns20, TTM
+Read, 5B-seekerstuns15, TTM
