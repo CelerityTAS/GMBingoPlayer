@@ -175,7 +175,31 @@ Read,../CelesteTAS/7A,Start,lvl_b-00
    9,R
   40
 
-#lvl_b-03 (0)
-Read,../CelesteTAS/7S,lvl_b-03 (0),lvl_b-06
+#lvl_b-03
+Read,../CelesteTAS/7S,lvl_b-03 (0),lvl_b-04
+#lvl_b-04
+   1,R,J
+   5,R
+   3
+  14,R,U,Z
+   2,K,G
+   2,L,K
+   2,K
+   1,L
+  25,L,D,X
+   4,L
+   2
+  15,D,X
+#Winged
+   1
+  15,L,U,C
+  11,L,V
+   2,L,J
+   8,L
+   5,L,U,Z
+  40
+
+#lvl_b-03 (1)
+Read,../CelesteTAS/7S,lvl_b-03 (1),lvl_b-06
 #lvl_b-06
 Read,../CelesteTAS/7A,lvl_b-06,lvl_c-00
