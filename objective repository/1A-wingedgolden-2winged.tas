@@ -1,0 +1,12 @@
+console load 1
+   1
+#Start
+Read,../CelesteTAS/1D,Start,lvl_3b
+#lvl_3b
+Read,1A-start-dashless-winged,lvl_3b,lvl_5
+#lvl_5
+Read,../CelesteTAS/1D,lvl_5,lvl_9b
+#lvl_9b (0)
+Read,1A-chasm-dashless-winged,Start,lvl_10a
+#lvl_10a
+Read,../CelesteTAS/1D,lvl_10a
