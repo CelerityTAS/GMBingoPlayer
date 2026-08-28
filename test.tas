@@ -11,8 +11,11 @@
 # 1:26.666(5098) tbc heart Order
 ##
 
-Read, objective repository/5A-start-1up
-Read, objective repository/5A-depths-grabless-key, Start
+
+read, objective repository/7A-0m
+***
+read, RTM, SummitNoCollect
+
 
 
 # Read, EnterCP2

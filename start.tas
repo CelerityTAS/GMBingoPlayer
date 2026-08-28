@@ -2,6 +2,7 @@
 # Set, BingoClient.MenuToggle, E
 Set, Everest.ShowModOptionsInGame, false
 Set, BingoUI.AutoEnableVariants, true
+Set, BingoClient.TriggerBehavior, Hasty
 Set, BingoUI.HideVariantsExceptGrabless, true
 Set, BingoUI.PreventPrologueCutsceneSkips, true
 Set, BingoUI.SkipTallyWithConfirm, true
