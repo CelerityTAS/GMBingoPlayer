@@ -1,4 +1,4 @@
-play 100
+#play 100
 console load 2 lvl_end_3
    1
   36
@@ -84,16 +84,6 @@ Safe
 #lvl_end_6 (0)
    2,R,J
   14,R,U,X
-   1,S
-Unsafe
-   1,D
-   1,J,F,180
-   1,L
-   1,X
-   1,U,J
-Safe
-  18
-
 Play, 2Aawakeendg
 
 
@@ -156,11 +146,11 @@ Safe
   11,R,D,X
   40
 Read, ../Grabless/G2A, lvl_end_4, lvl_end_6
-#2Aawakeendg
 #lvl_end_6 (1)
    1,R
    9,R,J
   15,R,U,X
+#2Aawakeendg
    1,S
 Unsafe
    1,D
@@ -169,4 +159,4 @@ Unsafe
    1,X
    1,U,J
 Safe
-  18
+  16

@@ -1,0 +1,117 @@
+play 39
+console load 2 lvl_end_3
+   1
+  36
+#FromGrabless
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,J,F,
+Safe
+  33,O
+#RTM
+  36
+   3,L
+   3
+   1,L
+   1
+   1,L
+   1
+   5,R
+   1
+   1,R
+   1,R,J
+   5,R
+   1,R
+   1,R
+   2,R,J
+   1,R
+   1,R,J
+   4,R
+   1,R,J
+  14,R
+Play, awakeenddashless
+
+
+Read, 2A-start
+Read, 2A-intervention, Start
+#Start
+ 110
+#lvl_end_0
+#0x
+   1,S
+   1,F,180
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
+   4,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  12,R
+  40
+
+#lvl_end_1
+Read, ../Dashless/D2A_R_SR_U, lvl_end_1, lvl_end_3
+#lvl_end_3
+#0x
+   6,R,D
+   1,R,J
+   6,R,J
+   6,R
+   2,R,J
+   1,R
+   2,R,J
+   9,R
+#awakeenddashless
+   1,R,J
+  17,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   5,R
+   2,R,J
+   7,R
+   1
+   2,R
+   1,R,K,G
+   1,R,J,G
+   6,R
+   2,R,J
+   4,R
+   1,R,J
+   1,R,K,G
+   5,R
+   1,R,J
+   4,R
+   3,R,J
+   4,R
+
+   1,R,J,G
+   3
+   6,R
+   1,R,D,J
+   9,R,D
+   1,D
+   1,R,D
+   3,D
+   9,R,D
+   1,R,D,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+
+   1,R,J
+   5,R
+   2,R,J
+   1,R
+  40
+
+#lvl_end_4
+Read, ../Dashless/D2A_R_SR_U, lvl_end_4
