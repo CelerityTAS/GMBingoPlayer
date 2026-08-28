@@ -20,7 +20,7 @@ console load 4 lvl_b-00
    1,R,K,G
   20,R
   18
-Play, 4ashrineend
+Play, 4ashrineenddash
 
 Read, 4A-start
 #Start
@@ -41,7 +41,7 @@ Read, 4A-start
    1,R,K,G
   19,R
   19
-#4ashrineend
+#4ashrineenddash
   18,J
    4,K,G
    1,R,K
