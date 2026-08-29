@@ -1008,7 +1008,10 @@ console load 2
    1,R,J
    1,S
    1,D,J
- 208
+  18
+
+#lvl_end_0
+ 190
    4,R,D,X
   10,R,X
    1,R,J
