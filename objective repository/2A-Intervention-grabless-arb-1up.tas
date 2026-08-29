@@ -1,4 +1,4 @@
-RecordCount: 5
+play 34
 
 console load 2 3
    1
@@ -63,8 +63,19 @@ Safe
   13,U,X
   40
 
-Read ../Grabless/G2SHC lvl_4 lvl_end_0
+Read ../Grabless/G2SHC lvl_4 lvl_13
+#lvl_13
+   5,R
+  14,R,J
+  14,R,D,X
+   1,R,J
+Unsafe
+   1,S
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,U,J
+Safe
+  18
    2
-#1up
-#arb
-read, 2A-awake, Start
