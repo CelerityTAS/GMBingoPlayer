@@ -1,0 +1,87 @@
+console hard 4
+   1
+
+#Start
+Read, ../CelesteTAS/4B, Start, lvl_d-01
+#lvl_d-01
+   1
+   1,R,J
+   1,R
+  11,R
+  15,D,X
+   1,N
+   3
+#Bino1
+   1,S
+   1,D,J
+  69,O
+   4,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
+   5,R
+   4,R
+  14,R,Z
+   2,R,J
+   1,R
+   1,R,J
+   6,R
+   2
+  16,R,Z
+   4,X
+  11,D,X
+  14,R,C
+  10,R,J
+  29,R,D
+   1,D
+   7,R,D
+   1,R
+   1
+   1,R
+   3
+  15,R,X
+   6,L
+  15,L,J
+   6,R,J
+  21,R,X
+  14,D
+   5,L,D
+   4,R,D
+  17,R
+  15,R,U,Z
+   1,J
+   6,U,X
+  14,R,J
+  11,R
+   4,R,Z
+   1,R,J
+   3,R
+   2,R,J
+   2,R,K,G
+   6,R
+   2,R,K
+  13,R
+  10,L,D,X
+   2,R,J
+   3,R
+   4,R,K,G
+   9,R
+  14,R,U,X
+   1,J,G
+   8,R
+   1,L
+  26,R,D
+  14,D
+   4,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_d-02
+Read, ../CelesteTAS/4B, lvl_d-02
+   1,S
+   1,U,J
+   1,O
+  31
