@@ -1,12 +1,11 @@
 #Created by EuniverseCat
 
-#Restart
-   1,Q
-   1,J
-  31
+console load 5
+   1
 
-#lvl_a-00b (1)
+#Start
  110
+#lvl_a-00b (1)
    1,S
    1,D,J
   34
@@ -149,25 +148,26 @@
   10,R
   11
   22,R
-  39
-   1,J
-   6,L,J
+  30
    6,L
+   1,J
+   7,L,J
+  15,L
   40,R
   10,R,U,X
   31,R
   15,R,X
-  15,D,C
+  16,D,C
    4,R,D,X
    1,R,J
-   5,R
+   3,R
 #Start-Berry5
   40
-   2,R
+   4,R
    1,R,J
    9,R
   10,D,X
-  11,R,D
+  13,R,D
    4,R,D,X
    1,R,J
    7,R
@@ -1060,6 +1060,7 @@
    6,U,X
  257
    1,J
+#Return
  123
   10,L,D,X
    6,L
@@ -1476,7 +1477,8 @@
   10,R,U,X
  105,L,D
   31,L,D,X
-  59
+  60
+#Exit
    1,J
   30
    7,L,D,X
@@ -1930,7 +1932,7 @@
    4,R,D,X
    4,R,J
    3,R
-#d-15 (2)
+#d-1-5 (2)
   40
    2,R,D
   42,L,D
@@ -1973,7 +1975,7 @@
   10,L,D,X
    5,L,J
   10,L,X
-  18,R,D
+  19,R,D
    7,L,D
    4,L,D,X
    1,L,J
@@ -1987,11 +1989,11 @@
    7,L,D
    8,R,D
   17,D
-  13,R,D,X
+  14,R,D,X
   10,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
+  13,R,D,X
    3,R,J
   29,R,D
 #d-13
@@ -2231,7 +2233,7 @@
    9,R,K
    1,J
   20,L,J
-  10,L
+   9,L
   10,L,X
    4,L,J
    9,R,K
