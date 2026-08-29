@@ -6,6 +6,7 @@ It should be noted, that these are true grabless files and not just variant grab
 Pico8 Tases are a copy of [DemoJameson's port](https://github.com/DemoJameson/CelesteClassicTAS/tree/master) of the [Pico8 TASes](https://celesteclassic.github.io/tasdatabase/classic/)
 The actual TASes were made by the Pico8 TASing community found [here](https://discord.gg/9Dm3NCS).
 
+Contributors for objectives: CelerityTAS, SaharPanda, LordOfRage and Isaac
 
 ## The naming scheme for objective encoding file follows the following scheme:
 
