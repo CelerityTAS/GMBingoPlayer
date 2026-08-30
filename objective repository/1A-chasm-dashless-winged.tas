@@ -68,36 +68,18 @@ Read, 1A-crossing, Start
    5,R
    6,L
    1,L,K,G
-   1,L,J,G
-   1,L
-   1
-   6,L
-   1,L,J
-   1,L
-   1,L,J
-  48,L,D
-   1,L,K,G
-   1,L,J,G
-  10,L
-  16,L,J
-  11,K,G
-   1,R,K
-   1,J
-  12,L,K,G
-   1
-   1,L,J,G
-   1,J
-   3,R,J
-   3,L,J
-   1,L,K,G
    7,L
-   3,L,J
-   4,L
+  13
+#Winged
+   1,S
+   1,D,J
+  69,O
+   5,L
+   1,L,J
   40
 
 #lvl_9b (1)
   12,L
-#Winged
    3,L
    3,L,K
    1,R,K

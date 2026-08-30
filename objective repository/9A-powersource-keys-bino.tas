@@ -743,7 +743,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    7,R
   14,R,Z
   98,R,U,G
-#Key1
+#Key1DTS
    1,S
    1,D,J
   69,O
@@ -757,7 +757,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    4
    1,N
   10
-#Bino1
+#Bino1DTS
    1,S
    1,D,J
   69,O
@@ -805,7 +805,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
   57,R,G
    1,L
   14,R,X
-#Key2
+#Key2DTS
    1,S
    1,D,J
   69,O
@@ -819,7 +819,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    4,D
    1,N
    7
-#Bino2
+#Bino2DTS
    1,S
    1,D,J
   69,O
@@ -860,7 +860,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
   16,R
    1,N
   17
-#Bino3
+#Bino3DTS
   24
    1,X
   19
@@ -901,7 +901,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
   10,L,C
    2,L,K,G
   36,L
-#Key3
+#Key3DTS
    1,S
    1,D,J
   69,O
@@ -915,7 +915,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    6,R
    1,N
    7
-#Bino4
+#Bino4DTS
    1,S
    1,D,J
   69,O
@@ -1006,7 +1006,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    3,R
   15,R,U,C
   10,U,X
-#Key4
+#Key4DTS
    1,S
    1,D,J
   69,O
@@ -1015,7 +1015,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
   20,R
    1,N
    9
-#Bino5
+#Bino5DTS
    1,S
    1,D,J
   69,O
@@ -1079,7 +1079,7 @@ Read, ../CelesteTAS/9, lvl_c-00, lvl_d-00
    9,R,J,G
    1,R
    6,R,K,G
-#Key5
+#Key5DTS
    1,S
    1,U
    1,F,

@@ -3,6 +3,7 @@ Bingo Player TAS repository
 CelesteTAS is a copy from [The CelesteTAS Github](http://github.com/VampireFlower/CelesteTAS)
 The Grabless files are a copy from [The Grabless TASes done by euni and the challenges discord](https://github.com/EuniverseCat/miscCelesteTAS/tree/master/Grabless).
 It should be noted, that these are true grabless files and not just variant grabless, so this project will change those a bit.
+As well as the Jumpless TASes, also done by the Challenges Discord. The repo is found [here](https://github.com/hellogoodbye/jumplesstas)
 Pico8 Tases are a copy of [DemoJameson's port](https://github.com/DemoJameson/CelesteClassicTAS/tree/master) of the [Pico8 TASes](https://celesteclassic.github.io/tasdatabase/classic/)
 The actual TASes were made by the Pico8 TASing community found [here](https://discord.gg/9Dm3NCS).
 
