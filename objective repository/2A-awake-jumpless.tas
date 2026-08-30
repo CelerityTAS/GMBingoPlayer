@@ -1,0 +1,55 @@
+console load 2 lvl_end_0
+   1
+  36
+
+play poemCP0
+#Start
+ 110
+#lvl_end_0
+   1,S
+   1,D
+   1,F,180
+   1,D,J
+SaveAndQuitReenter
+  36
+#poemCP0
+   5,L,D,X
+   2,R,J
+   8,R
+   4,D,X
+   1,R,J
+   5,R
+  40
+
+Read, ../CelesteTAS/2A, lvl_end_1, lvl_end_3
+#lvl_end_3
+#FromGrabless
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,J,F,
+Safe
+  33,O
+#RTM
+  36
+  15,R,D,X
+  15,R,C
+  15,R,X
+  15,R,C
+   1,R
+  15,R,U,X
+  17,R
+   2
+  15,R,X
+  15,R,D,C
+   9,R
+  15,R,X
+   8,R,U,C
+  40
+
+
+#lvl_end_4
+read, ../Jumpless/J2A, lvl_end_4
