@@ -12,8 +12,9 @@
 
 
 
-read, entercp4
-read, objective repository/5A-search-arb, RTM
+read, objective repository/2A-start-progress3
+read, objective repository/2A-intervention-fast3, Start
+read, rtm, Wakeup
 
 
 

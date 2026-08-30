@@ -1,0 +1,188 @@
+console load 1
+   1
+#Start
+Read,../CelesteTAS/1D,Start,lvl_3b
+#lvl_3b
+Read,1A-start-dashless-winged,lvl_3b,lvl_5
+#lvl_5
+#Winged1
+Read,../CelesteTAS/1D,lvl_5,lvl_8
+#lvl_8
+   1,J
+   2,K,G
+   2,R,K
+   2,R
+   1,R,J,G
+   1,R,K,G
+   3
+  15,R
+   1,R,J,G
+   2,R,K,G
+   4,R
+   6,R,J,G
+   8,R
+   1,R,J
+   9,R
+  32,R,J
+   3,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+   1,J,G
+  10,R,J
+   1,L,J
+   5,K
+  12,J
+   7,L
+   2,L,J
+   1,L
+   1,K
+   5,R,J
+   2,J
+   3,R,J
+   5,R
+   2,R
+   1,R,K
+   1,R
+  14,R,K
+   3,R
+   8,R
+   1,R,J,G
+   1,R,K,G
+  12,R
+  40
+
+#lvl_8b
+   1,R
+   7,R,J
+  20,R,D
+   1,R
+   8,R,D
+   9,R,J
+   5,R
+   3,R,K
+  21,R
+   1,G
+   1,R,J,G
+   7,R
+  20,R
+   5,R,D,J
+  10,J
+  10,D
+   4,J
+   3
+  35,R,D
+   8,R
+  14
+   1,L
+   1
+   7,R,J
+   2,L,K,G
+   3,J,G
+   9,R,J
+   6,L,J
+   1,L,J
+   1,L,J
+   5,L,K,G
+   3,R,K
+   3,K
+   1,L,K
+  40
+
+#lvl_9
+Read,../CelesteTAS/1D,lvl_9,lvl_9b
+#lvl_9b (0)
+   8,R,D,J
+   5,R
+   2,J
+   2,K
+   2,L,J,G
+   3,L,K,G
+   2,L
+   1,L,J,G
+   1,L,K,G
+  14,L
+   1,L,J
+  10,L
+   1
+   1,G
+   6
+   5,J
+   2,L,J
+   1,K
+   5,J,G
+   1,R
+   3
+   3,J
+   3,R,J
+   2,L
+   1,L,K,G
+   1,J,G
+   1,L,K,G
+   6,R,K
+   5,R
+   2,R,K
+   9,R
+   5,R,D,J
+  40,J
+
+
+#lvl_9c
+   5,R,J
+   5,R
+   2,R,J
+   2,R
+   1,R,J
+   2,R
+   1
+   5,R
+   1,K,G
+   4,R
+   5,R
+   6,L
+   1,L,K,G
+   7,L
+  31
+#Winged
+   1,S
+   1,D,J
+  69,O
+   5,L
+   1,L,J
+  40
+
+#lvl_9b (1)
+Read,1A-chasm-dashless-winged,lvl_9b (1),lvl_10a
+#lvl_10a
+#Winged2
+Read,../CelesteTAS/1D,lvl_10a,lvl_end
+#lvl_end
+   2,R,J
+   4,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+   4,R,K
+  12,R,J,G
+   1,R,K,G
+   1,J
+   3,L,J
+  10,J
+   6,D
+  14,R,D
+   1,R,K,G
+   1,R,J,G
+  13,R
+   1,R,J
+  18,R
+   1,R,J
+   1
+  17,R
+   1,R,J
+   4,R
+#Collect
+#Winged3
+   1,S
+   1,D,J
+  18
+ChapterTime: 1:21.838(4814)
