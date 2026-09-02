@@ -1,3 +1,4 @@
+#play 18
 console load 1 lvl_9b
    1
 
@@ -21,9 +22,10 @@ Read, 1A-crossing, Start
   12,R,J
    5,K
    2,L,J,G
-   1,R,J
    1,J
-   1,R,J
+   1,J
+   5
+   2,R
 #End1Awingedchasm
 
   14,R,D,X
