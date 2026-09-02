@@ -1,0 +1,183 @@
+console load 7
+   1
+Read,7A-0m,Start
+Read,7A-500m,Start
+#Start
+  40
+#RTM
+  22
+#500mARBCollect
+  14
+Read,../CelesteTAS/7S,1000M,lvl_c-03b
+#lvl_c-03b
+   2,L,J
+   4,L
+   3
+  15,D,X
+   1,N
+   6
+#Bino1
+  28
+   1,X
+  19
+  11,L,U,X
+   1,L,K,G
+   7,L
+  14,L
+  40,L,C
+   5,L,J
+  18,L,D,X
+  30,L,U,C
+   7,U,X
+   7,L,J
+   1,J
+  15,D,X
+   1,L,D
+   4,D
+   8,R,D
+   4,R
+   4,R,D
+  22,R,X
+  22,R,U,C
+   4,R,J
+   1,R,K
+  15,R,D,X
+  18,R,D,C
+  15,R,U,X
+  18,R,U,C
+   4,R,J
+   7,R,Z
+   8,R,J
+  15,R,D,C
+  40
+
+#lvl_c-03 (1)
+Read,../CelesteTAS/7S,lvl_c-03 (1),lvl_c-04 (0)
+#lvl_c-04
+   1,R
+  12,R,U,Z
+  12,R,K,G
+  26,R,U,X
+  20,U,C
+   3,R
+   7,U,X
+  40
+
+
+#lvl_c-06 (0)
+Read,../CelesteTAS/7S,lvl_c-06 (0),lvl_c-07 (0)
+#lvl_c-07 (0)
+   1,L
+  14,L,J
+   3,L
+  15,L,U,X
+   5,L,C
+   4,L,J
+  40
+
+#lvl_c-07b (0)
+   2,L,J
+   3
+   2,L
+  10,L,Z
+   1,L,J
+   2
+   1
+   2
+   1,L
+  10,L,J
+   1,J
+   3,L,J
+  16,L,U,C
+  27,L,U,X
+  15,U,C
+  24,R,U,X
+  14,U,C
+   1,R,J
+  19,R,U,X
+   4,R,J
+   1,R,K
+  15,R,U,C
+  14,R,Z
+   1,R,J
+   1,R
+  15,D,X
+#+1f berry
+   3,L,D
+   1,D
+   2,L,D
+   5,D
+   9,R,D
+  12,L,D
+  10,L
+   1,L,D
+   1,L
+   4,L,D
+   2,R,D
+   1,R,J
+   2,R
+   2,K,G
+   1,R
+   1
+   2,R
+  15,D,X
+   5,R,D
+  14,D
+   1,N
+   6
+#Bino4
+  28
+   1,X
+  19
+   4,R
+   1,N
+   1,R,J
+  15,R
+  10,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_c-07 (2)
+Read,../CelesteTAS/7S,lvl_c-07 (1),lvl_c-09
+#lvl_c-09
+   7,L
+   3,K,G
+  15,R,D,X
+  22,R,U,V
+   4,R,K
+   4,R,J
+  11,U,X
+  14,J
+  24
+  15,L,U,X
+  17,L,U,C
+   4,L,K
+   4,D,X
+   1,L,J
+  22,L,D
+  12,L,Z
+   4,R,G
+   2,L,J
+   6,U,X
+  42,R,J
+  15,U,X
+  29,R,Z
+   4,L,J
+  14,U,X
+   3,R,J
+   2,J
+   7
+  20,R,X
+   1
+  10,R,Z
+   1,L,J
+   4,L
+   7,L
+  10,D,X
+ 194
+   1,S
+   1,D,J
+ 141
