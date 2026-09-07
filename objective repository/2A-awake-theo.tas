@@ -122,14 +122,14 @@ SaveAndQuitReenter
    1
   15,R,D,X
    1,N
-#Theo
+#TheoStart
   10
 Repeat, 500
    1,J
    1,O
 EndRepeat
    6
-#TheoEnd
+#TheoEndStart
    1,S
    1,D,J
   69,O

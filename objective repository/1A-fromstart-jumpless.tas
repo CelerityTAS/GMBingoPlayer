@@ -1,0 +1,12 @@
+console load 1
+   1
+
+#Start
+read, ../Jumpless/J1A, Start, lvl_6
+
+#lvl_6
+#Exit
+#Jumpless
+   1,S
+   1,U,J
+  33,O
