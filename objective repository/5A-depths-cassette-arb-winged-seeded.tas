@@ -15,10 +15,95 @@ Read,../CelesteTAS/5SHC,lvl_b-00 (1),lvl_b-22
   16,D,C
   15,R,D,X
    6,R,C
-Read,../CelesteTAS/5HC,5SHC2,Return
+  44,R,X
+  37,G
+   1
+   2,J
+   5,R,Z
+   4,R,J,G
+   6,R
+   9,R,J
+   4
+  15,R,D,X
+  15,D,C
+  10,L,X
+   6,R,J
+   1,R
+  15,R,X
+  10,R,C
+   9,R,J
+   7,R
+  15,U,Z
+   1,L,J,G
+   1,R,J
+   1,L,J
+   1,R
+   6,L
+   4,D,X
+   1,L,J
+   6,L
+   2,L,D,J
+   4,L
+  14,L,X
+   1,L,J
+  15,D,C
+  15,D,X
+  14,L,Z
+   1,R,J
+  13,R,Z
+   1,L,J
+   1
+  14,L,D,X
+   1,L,J
+   3,L,K,G
+  15,L,D,X
+   1,L
+   8,L,J
+ 257
+   1,J
 #Cassette
 Read,../CelesteTAS/5HC,Return,lvl_b-13 (1)
 #lvl_b-13 (3)
-Read,../CelesteTAS/5SHC,lvl_b-13 (3),lvl_b-02 (3)
-#lvl_b-02 (3)
-Read, ../CelesteTAS/5S, lvl_b-02 (3), lvl_c-00
+Read,../CelesteTAS/5SHC,lvl_b-13 (3),lvl_b-12
+#lvl_b-12
+Read,../CelesteTAS/5S,lvl_b-12,lvl_b-10
+#lvl_b-10
+  15,L,D,X
+  24,L,D
+  26,L
+#Seeded
+  12,L
+  10,R
+   8,L
+   8,R
+   8,L
+   3,R
+   6,L,D,J
+   1,K
+  10,U,X
+   1,R,J
+   3,K,G
+   2,J,G
+   7
+   1,J
+   7,R
+Repeat,3
+   3,L
+   3,R
+EndRepeat
+   1,R,D,J
+   1,S
+   1,D,J
+  69,O
+   2,R,J
+  11,L,K
+   1,L,J,G
+  15,U,X
+  40
+
+#lvl_b-02 (2)
+Read,../CelesteTAS/5S,lvl_b-02 (2),lvl_b-19
+#lvl_b-19
+#ARB
+#Collect
+Read,../CelesteTAS/5S,lvl_b-19,lvl_c-00

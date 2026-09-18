@@ -1,0 +1,59 @@
+console hard 5
+   1
+#Start
+Read, ../CelesteTAS/5B, Start, lvl_c-00
+
+#lvl_c-00
+ 110
+   1,S
+   1,F,180
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+#TTM
+  36
+Read, ../CelesteTAS/5B, 5BG1, lvl_c-01
+
+#lvl_c-01
+  12,R,K
+  15,D,X
+  34
+  12,D,J
+   7,R,J
+   9,R,D,X
+  13,R,K
+#Seekerkill
+#Seeker
+#SeekerKill
+   1,S
+   1,D,J
+  69,O
+   4,L
+   1,L,J
+  10,R,X
+   1,R,J
+  12,L,J
+  16,L,K,G
+   4,R,J
+  16,R,X
+  12,R
+  11,J
+  15,U,X
+  50,R
+   5,R,D
+   3,R,K,G
+  28,R
+   8,R,Z
+   1,R,K
+   6,R
+   6,R,D,J
+  40
+
+#lvl_c-02
+Read, ../CelesteTAS/5B, lvl_c-02, lvl_c-03
+#lvl_c-03
+Read, ../CelesteTAS/5B, lvl_c-03
+   1,S
+   1,U,J
+   1,O
+  31
