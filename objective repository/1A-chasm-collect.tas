@@ -1,3 +1,4 @@
+play 20
 console load 1 lvl_9b
    1
 #RTM
@@ -16,8 +17,8 @@ console load 1 lvl_9b
 Play, End1AChasm
 
 
-Read, 1A-start
-Read, 1A-crossing, Start
+Read, 1A-start-progress4-winged
+Read, 1A-crossing-progress2, Start
 #Start
 #lvl_9b
    3,R
@@ -83,8 +84,12 @@ Read, 1A-crossing, Start
    2,L,K
    1,J
    7
- 150
-   2,L,J
+  15
+#1UP
+ 135
+   1,L,J
+#Collect
+   1,L,J
   15,U,X
    9,R,J
    8,L,J
@@ -93,4 +98,3 @@ Read, 1A-crossing, Start
 
 #lvl_11
 Read, ../CelesteTAS/1A, lvl_11
-Read, ../CelesteTAS/1A, lvl_10a
