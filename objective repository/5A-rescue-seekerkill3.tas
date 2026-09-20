@@ -70,7 +70,7 @@ Read,../CelesteTAS/5S,-------------,lvl_e-02
    3,L
    6,R,D,X
    7,R,G
-#Kill1
+#SeekerKill1
   10,R,G
    1,L,D,J,G
   10,L,X
@@ -131,7 +131,7 @@ Read,../CelesteTAS/5S,-------------,lvl_e-02
   35,J,G
    1,L
    8,L,D
-#Kill2
+#SeekerKill2
   14,L,D,X
    1,L,J
    4,L
@@ -176,7 +176,7 @@ Read,../CelesteTAS/5S,-------------,lvl_e-02
   17,L,D
   14,G
    6,L,G
-#Kill3
+#SeekerKill3
    1,R,J,G
   14,R,G
    1,D
