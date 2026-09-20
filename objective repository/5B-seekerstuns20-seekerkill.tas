@@ -1,0 +1,140 @@
+console hard 5
+   1
+#Start
+Read, ../CelesteTAS/5B, Start, lvl_c-00
+
+#lvl_c-00
+ 110
+   1,S
+   1,F,180
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+#TTM
+  36
+Read, ../CelesteTAS/5B, 5BG1, lvl_c-01
+#lvl_c-01
+  12,R,K
+  15,D,X
+  34
+  14,D,J
+   8,R,J
+  17,D,X
+#1Stun
+  20
+  86
+  18,J
+  20
+#2Stun
+  18
+  86
+  18,J
+  19
+#3Stun
+  18
+  86
+  18,J
+  20
+#4Stun
+  19
+  86
+  17,J
+  20
+#5Stun
+  19
+  86
+  17,J
+  20
+#6Stun
+  19
+  86
+  17,J
+  20
+#7Stun
+  19
+  86
+  17,J
+  20
+#8Stun
+  19
+  86
+  17,J
+  20
+#9Stun
+  19
+  86
+  17,J
+  20
+#10Stun
+  19
+  86
+  17,J
+  20
+#11Stun
+  19
+  86
+  18,J
+  19
+#12Stun
+  19
+  86
+  17,J
+  20
+#13Stun
+  19
+  86
+  19,J
+   5
+  13,R
+#14Stun
+   1,R
+   8,R,U,X
+
+#Seekerkill1
+#Seeker1
+#SeekerKill1
+   1,S
+   1,D,J
+  69,O
+   4,L
+   1,L,J
+  10,R,X
+   1,R,J
+  12,L,J
+  16,L,K,G
+   4,R,J
+  16,R,X
+  12,R
+  11,J
+#15Stun
+  15,U,X
+  50,R
+   5,R,D
+   3,R,K,G
+  28,R
+   8,R,Z
+   1,R,K
+   6,R
+   6,R,D,J
+  40
+
+#lvl_c-02
+Read, ../CelesteTAS/5B, lvl_c-02, lvl_c-03
+
+#16stun
+#lvl_c-03
+Read, ../CelesteTAS/5B, lvl_c-03, lvl_c-04
+#lvl_c-04
+#17stun
+Read, ../CelesteTAS/5B, lvl_c-04, lvl_d-02
+#18stun
+#lvl_d-02
+Read, ../CelesteTAS/5B, lvl_d-02, lvl_d-03
+#lvl_d-03
+#19stun
+#20stun
+Read, ../CelesteTAS/5B, lvl_d-03
+   1,S
+   1,U,J
+   1,O
+  31

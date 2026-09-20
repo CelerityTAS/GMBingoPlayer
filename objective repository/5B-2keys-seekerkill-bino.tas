@@ -9,4 +9,6 @@ Read, 5B-2keys-bino, Key2, Bino
 #Bino
 Read, 5B-2keys-bino, Bino, TTM
 #TTM
-Read, 5B-seekerstuns10, TTM
+Read, 5B-seekerkill, TTM, SeekerKill
+#SeekerKill
+Read, 5B-seekerkill, SeekerKill

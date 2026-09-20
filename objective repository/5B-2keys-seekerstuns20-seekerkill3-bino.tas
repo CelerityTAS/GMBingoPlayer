@@ -1,0 +1,18 @@
+console hard 5
+   1
+#Start
+Read, 5B-2keys-bino, Start, Key1
+#Key1
+Read, 5B-2keys-bino, Key1, Key2
+#Key2
+Read, 5B-2keys-bino, Key2, Bino
+#Bino
+Read, 5B-2keys-bino, Bino, TTM
+#TTM
+Read, 5B-seekerstuns20-seekerkill3, TTM, SeekerKill1
+#SeekerKill1
+Read, 5B-seekerstuns20-seekerkill3, SeekerKill1, SeekerKill2
+#SeekerKill2
+Read, 5B-seekerstuns20-seekerkill3, SeekerKill2, SeekerKill3
+#SeekerKill3
+Read, 5B-seekerstuns20-seekerkill3, SeekerKill3

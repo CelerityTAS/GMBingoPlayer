@@ -7,4 +7,6 @@ Read, 5B-2keys, Key1, Key2
 #Key2
 Read, 5B-2keys, Key2, TTM
 #TTM
-Read, 5B-seekerstuns15, TTM
+Read, 5B-seekerstuns20-seekerkill, TTM, SeekerKill
+#SeekerKill
+Read, 5B-seekerstuns20-seekerkill, SeekerKill
