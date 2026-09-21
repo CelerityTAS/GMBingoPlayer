@@ -1,4 +1,4 @@
-#play 100
+play 90
 console load 2 lvl_end_3
    1
   36
@@ -97,11 +97,9 @@ Unsafe
    1,J,F,180
    1,R
    1,X
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
+   1,U,J
 Safe
-  36
+  89
    4,R,D,X
   10,R,X
    1,R,J
