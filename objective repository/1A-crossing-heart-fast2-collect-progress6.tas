@@ -59,7 +59,7 @@ Read, 1A-start-progress5-winged, Start
 #lvl_6a
 Read, ../CelesteTAS/1SH0, lvl_6a, lvl_6b (0)
 Read, ../CelesteTAS/1HC, lvl_6b (0), lvl_s1 (0)
-#lvl_s1 (0)
+#lvl_s1
    4,L
   10,L,J
    5,L
@@ -72,33 +72,35 @@ Read, ../CelesteTAS/1HC, lvl_6b (0), lvl_s1 (0)
    1,R
    1
   14,L,Z
-   1,R,J
+   1,L,J
+  21,L
+   5,L,J
+  10,R,D,X
+   1,L,J
+   1,L
+  24,L,J
+  14,R,U,X
+   2,K,G
+   1,L,K
    1,J
-   5,R,D,X
-   7,L,J
-  17,L,D
-   5,D
-   1
-   2,D
-   5,R,U,X
-   1,J,G
-   1,R
-   1
-   1,R
-   2
-   1,R
-   3,L
-   5,L,X
-  14,L,J
-   1,L,K,G
-   2,R,K
-   1,R
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
+   1,R,K,G
+   3,R,K
+   1,R,J,G
+   1,L,J
+   4,J
+   1,R,K,G
+   8,R
+  11,L,Z
+   1,L,J
+  19,L
    9,L
-  93
+  15,R
+  15,L
+  15,R
+  14,L
+  14
    6,L,U,X
+#Collect
    1,S
    1,D,J
   69,O
