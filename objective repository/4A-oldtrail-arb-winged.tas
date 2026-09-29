@@ -55,9 +55,8 @@ Read, 4A-shrine, Start
   24,L,J
    8,L
   29,R,D,X
-#+1f berry
   12,R,Z
-#Collect
+#Winged
    2,R,Z
    1,L,J
   14,L,Z
@@ -75,4 +74,4 @@ Read, ../CelesteTAS/4SH0, lvl_c-00 (1), lvl_d-00
   15,D,C
    4,R
   15
-#Collect
+#ARB

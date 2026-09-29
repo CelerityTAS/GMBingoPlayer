@@ -41,7 +41,6 @@ Read, 2A-intervention, Start
 #Start
  110
 #lvl_end_0
-#0x
    1,S
    1,F,180
    1,D
@@ -60,7 +59,6 @@ SaveAndQuitReenter
 #lvl_end_1
 Read, ../Dashless/D2A_R_SR_U, lvl_end_1, lvl_end_3
 #lvl_end_3
-#0x
    6,R,D
    1,R,J
    6,R,J
