@@ -51,7 +51,9 @@ Read, ../CelesteTAS/2S, lvl_d2 (0), lvl_d0 (1)
 
 #lvl_d0 (2)
    2,R
-   6,R,J
+   1,R,J
+#Seeded
+   5,R,J
   15,R,D,X
   16,R,D
   26,U,X

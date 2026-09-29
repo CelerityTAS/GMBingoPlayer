@@ -77,12 +77,12 @@ Read, ../CelesteTAS/2S, lvl_d1, lvl_0 (2)
    5,L,J
    1,K,G
    7
-#STARTCOLLECT
   94
 #1UP
+#Seeded
   15
-#2UP
    5,U,X
+#2UP
 #ARB
   11,U,X
   18,R,J

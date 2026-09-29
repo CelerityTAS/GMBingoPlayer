@@ -105,11 +105,12 @@ Read,../CelesteTAS/3SH,lvl_07-b (1),lvl_07-a (1)
    8,L,D
   10,D
    9,R,D
-Repeat,5
-   9,L
-   9,R
-EndRepeat
+  13
+#Winged
+  68
 #1UP
+#ARB
+   9
   11,L
   14,L,D,X
    1,R,J

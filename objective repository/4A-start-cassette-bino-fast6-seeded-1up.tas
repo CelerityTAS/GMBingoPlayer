@@ -113,6 +113,8 @@ Read,../CelesteTAS/4SH0,lvl_a-08 (0),lvl_a-10
 Read,../CelesteTAS/4HC,4SHC,Return
 #Cassette
  123
+#Seeded
+#1UP
   14,R,D
    1,R,J
    2,J
@@ -124,7 +126,9 @@ Read,../CelesteTAS/4HC,4SHC,Return
    8,R,J,G
    7,R
    1,N
-  40
+  12
+#Bino
+  28
    1,X
   19
   15,L,D,C

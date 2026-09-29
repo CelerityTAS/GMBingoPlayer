@@ -85,6 +85,7 @@ Repeat,7
    5,L,D
    5,R,D
 EndRepeat
+#Seeded
    5,J
   12,K
   12,J
@@ -117,8 +118,9 @@ EndRepeat
   15,R,D,X
   32,R,D
    8,R
-#Collect
-  12,R,K
+   1,R,K
+#ARB
+  11,R,K
   11,J,G
    1,L,J
   12,R,K,G

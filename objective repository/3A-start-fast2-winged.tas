@@ -55,5 +55,8 @@ Read, ../CelesteTAS/3A, lvl_02-a (0), lvl_03-a
 
 # lvl_06-a
 Read, ../CelesteTAS/3SH, lvl_06-a, lvl_07-a (0)
-#lvl_07-a
-Read, ../CelesteTAS/3A, lvl_07-a (0), lvl_08-a
+#lvl_07-a (0)
+Read, ../CelesteTAS/3A, lvl_07-a (0), lvl_07-a (1)
+#Winged
+#lvl_07-a (1)
+Read, ../CelesteTAS/3A, lvl_07-a (1), lvl_08-a

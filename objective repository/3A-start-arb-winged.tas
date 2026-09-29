@@ -2,4 +2,8 @@ console load 3
    1
 
 #Start
-Read, ../CelesteTAS/3SH, Start, lvl_08-a (0)
+Read, ../CelesteTAS/3SH, Start, lvl_07-b (1)
+#lvl_07-b
+#Winged
+Read, ../CelesteTAS/3SH, lvl_07-b (1), lvl_08-a (0)
+#ARB

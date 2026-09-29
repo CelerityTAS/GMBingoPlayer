@@ -435,7 +435,6 @@ Read, ../Grabless/G3A, lvl_09-b (1), lvl_10-c (0)
    4,L
   21,D,X
   40
-
 Read, ../Grabless/G3A, lvl_10-c (1), lvl_12-b
 #lvl_12-b
    5,R
@@ -486,7 +485,7 @@ Read, ../Grabless/G3A, lvl_10-c (1), lvl_12-b
 #lvl_13-a
 Read, ../Grabless/G3A, lvl_13-a, lvl_13-x
 #lvl_13-x
-#lvl_13-x
+#Winged
    2,L,D
   15,L,D,X
   16,L,D
@@ -528,6 +527,7 @@ Read, ../Grabless/G3A, lvl_13-a, lvl_13-x
    2,L,J
    5,L,D,X
  104
+#Order
   10,L,X
    7,L,J
   12,L,X

@@ -47,11 +47,15 @@ Read, ../Grabless/G2SHC, Return, lvl_0 (4)
   10,U,X
    8,J
    1,K
- 134
+  50
+#Seeded
+  51
+#1UP
+  17
+#2UP
+  16
    1,J
-#1up
 #2up
-#3up
 #ARB
    2,J
   14,U,X

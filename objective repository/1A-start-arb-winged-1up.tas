@@ -172,10 +172,13 @@ Read, ../CelesteTAS/1SH0, Start, lvl_3
 
 #lvl_5
    4
-  15,D,C
+   7,D,C
+#Winged
+   8,D,C
   39
    5,U,X
 #1UP
+#ARB
   10,U,X
    2,R
   26,R,J

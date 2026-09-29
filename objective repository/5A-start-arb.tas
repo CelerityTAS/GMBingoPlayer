@@ -3,6 +3,6 @@ console load 5
 
 #Start
 Read, ../CelesteTAS/5S, Start, Exit
-#arb
+#ARB
 Read, ../RTM, Immediate
 Read, ../EnterCP2

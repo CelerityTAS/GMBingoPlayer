@@ -168,28 +168,6 @@ EndStunPause
    1,R,J
    1,J
   10,U,X
-# alternate cycle
-#    1,D,J
-#    1,R,J
-#    2,J
-#    3
-#    1,R
-#    2
-#    1,L,J,G
-#    1,K,G
-#    4,J,G
-#    1,K,G
-#    6,R,U,X
-#StunPause
-#SkipInput,3,6
-#   10,R,U,X
-#    1,R,J,G
-#EndStunPause
-#   10,R,J
-#    1
-#    1,R
-#   11,U,X
-#---
    1,J
    1,K
   28,D
@@ -486,14 +464,6 @@ SkipInput,3,1
    5,R,Z
 EndStunPause
   10,R,Z
-
-#alternate cycle
-#   12,D
-#StunPause
-#    2,D
-#   17,R,D
-#EndStunPause
-#   15,R,Z
 
   23,R,D
   44,R

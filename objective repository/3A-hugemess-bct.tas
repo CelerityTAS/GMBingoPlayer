@@ -341,5 +341,26 @@ Read,../CelesteTAS/3HC,lvl_11-z,lvl_09-b (2)
   40
 
 #lvl_11-b
-Read,../CelesteTAS/3A,lvl_11-b,lvl_09-d
+Read,../CelesteTAS/3A,lvl_11-b,lvl_12-x
+#lvl_12-x
+   4,L,J
+   6,L,K,G
+  12,L,U,X
+   2,L,J,G
+   7,L
+   1,L,J
+   5,D,X
+ 103,J
+#Order
+   4,Z
+   1,L,J
+   5,L
+  23,L,D,J
+  15,U,X
+  18,L,J
+   7,K,G
+  40
+
+#lvl_11-a
+Read,../CelesteTAS/3A,lvl_11-a,lvl_09-d
 MidwayChapterTime: 1:24.048(4944)

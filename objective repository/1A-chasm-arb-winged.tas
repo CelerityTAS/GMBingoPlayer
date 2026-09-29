@@ -47,6 +47,7 @@ Read, ../RTM, Menu
 Read, ../EnterCP3
 Safe
   36
+#lvl_9b (1)
    1,R
    1,R,J
   15,R,U,Z
@@ -92,3 +93,5 @@ Safe
 
 #lvl_10a
 Read, ../CelesteTAS/1SH0, lvl_10a
+#ARB
+#Winged

@@ -401,7 +401,10 @@ Read,../Grabless/G4A,lvl_a-05,lvl_a-06
    1,R,J
    3,R
   15,R,D,X
-Repeat,5
+   3
+#Seeded
+   7
+Repeat,4
    5,L,D
    5,R,D
 EndRepeat
@@ -426,7 +429,7 @@ EndRepeat
   25,R,D
    8,R
    1,R,J
-#Collect
+#ARB
   13,R,J
    1,K
   24,R,K

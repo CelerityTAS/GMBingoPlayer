@@ -39,7 +39,6 @@
 
 ## Berry5
 # Read,../CelesteTAS/4A,Start,lvl_a-04
-# ***
 # #lvl_a-04 (0)
 #    3,R
 #   15,R,D,X
@@ -131,7 +130,6 @@
 
 ## Berry3
 # Read,../CelesteTAS/4A,Start,lvl_a-03
-# ***
 # #lvl_a-03
 #   10,R
 #    9,R,D
@@ -193,14 +191,12 @@
 #   40
 #
 # #lvl_a-03
-# ***
 #    1,R,J
 #   15,R,D,X
 #    1,R,J
 #    5,R
 #   28,R,J
 #   25,R,U,Z
-# ***
 #   15,R,X
 #   11,R,C
 #   11,R,X

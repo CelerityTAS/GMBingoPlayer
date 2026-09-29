@@ -193,7 +193,10 @@ Read, ../Grabless/G4A, lvl_a-01, lvl_a-07
    1,R,J
    3,R
   15,R,D,X
-Repeat,5
+   3
+#Seeded
+   7
+Repeat,4
    5,L,D
    5,R,D
 EndRepeat

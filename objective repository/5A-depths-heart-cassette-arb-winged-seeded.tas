@@ -20,11 +20,14 @@ Read,../CelesteTAS/5HC,5SHC2,Return
 #Cassette
 Read,../CelesteTAS/5HC,Return,lvl_b-13 (1)
 #lvl_b-13 (3)
+#Winged
 Read,../CelesteTAS/5SHC,lvl_b-13 (3),lvl_b-02 (4)
 #lvl_b-02 (4)
+#Seeded
 #Key
 Read,../CelesteTAS/5SHC,lvl_b-02 (4),resync keydoor
 #resync keydoor
+#ARB
   13
 Read,../CelesteTAS/5HC,5SHC5,Exit
 #Heart

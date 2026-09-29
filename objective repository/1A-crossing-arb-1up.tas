@@ -183,9 +183,10 @@ Read, ../CelesteTAS/1SH0, lvl_s0 (1), lvl_9
   11,R,J,G
    7,R
   92
-#1UP
    4,Z
    1,R,J
+#1UP
+#ARB
   12,R
    1,R,J
    7,R,D,X

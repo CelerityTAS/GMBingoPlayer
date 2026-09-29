@@ -140,7 +140,7 @@ Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
   34
 #oshiro1
 Read,../CelesteTAS/3SH,oshiro1,lvl_12-x
-
+#Winged
 #lvl_12-x
    4,L,J
    6,L,K,G
@@ -448,9 +448,7 @@ Read, ../CelesteTAS/3SH, lvl_10-z, lvl_10-x (1)
 
 #lvl_12-c
 Read, ../CelesteTAS/3SH, lvl_12-c, lvl_10-c
-#lvl_10-c (1)
-
-
+#Order
 #lvl_10-c (1)
   26,D
    7,L,D

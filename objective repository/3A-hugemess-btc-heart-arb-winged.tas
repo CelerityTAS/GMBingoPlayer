@@ -585,6 +585,7 @@ Read, ../CelesteTAS/3SH, lvl_10-z, lvl_10-x (1)
    9,L,J
    8,L,D,X
  103
+#Order
    4,D,X
    3,L,J
    4,L
@@ -646,4 +647,5 @@ Read, ../CelesteTAS/3SH, lvl_10-z, lvl_10-x (1)
 
 #lvl_08-a (1)
 Read, ../CelesteTAS/3SH, lvl_08-a (1), lvl_09-d
+#ARB
 MidwayChapterTime: 1:57.708(6924)

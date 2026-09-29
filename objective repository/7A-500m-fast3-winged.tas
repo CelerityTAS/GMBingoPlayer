@@ -114,7 +114,9 @@ Read, ../CelesteTAS/7SHC, lvl_b-03 (0), lvl_b-04
   16,R,U,V
   26,L,D,C
   12
-  15,L,U,X
+   5,L,U,X
+#Winged
+  10,L,U,X
   11,L,V
    3,L,J
    7,L

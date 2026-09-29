@@ -46,6 +46,7 @@ Read,../CelesteTAS/5S,lvl_c-13,lvl_d-00
 #5ASearchend
 Read, ../CelesteTAS/5S, Search, lvl_d-01 (2)
 #lvl_d-01 (2)
+#Key
    5,L,U,V
    1,R
    3,J,G

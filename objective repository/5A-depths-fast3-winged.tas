@@ -74,4 +74,5 @@ console load 5 b-00
 Read,../CelesteTAS/5S,lvl_b-20 (0),lvl_b-01b
 #lvl_b-01b
 Read, ../CelesteTAS/5A, lvl_b-01b, lvl_b-16
+#Winged
 Read, ../CelesteTAS/5S, lvl_b-16, lvl_c-00

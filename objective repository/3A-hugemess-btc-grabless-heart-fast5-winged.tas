@@ -495,6 +495,7 @@ Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
    5,R,J
   25,R,X
   15,L
+#Winged
   10,R,C
   15,R,J
    5,J
@@ -811,6 +812,7 @@ Read, ../Grabless/G3A, lvl_10-x (0), lvl_11-z
    8,L,J
    7,L,D,X
  103
+#Order
    4,L,D,X
    2,L,X
    3,L,J

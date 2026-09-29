@@ -21,7 +21,9 @@ Read, ../CelesteTAS/1SH0, Start, lvl_5 (0)
    7
    7,R,J
   15,L,Z
-  12,L,V
+   7,L,V
+#Winged
+   5,L,V
    3,R,J
   17,R,D,X
   20,R,D

@@ -27,6 +27,7 @@ Read,../CelesteTAS/5SHC,lvl_b-00 (1),lvl_b-22
   15,R,D,X
   15,D,C
   10,L,X
+#Winged
    6,R,J
    1,R
   15,R,X
@@ -105,5 +106,4 @@ EndRepeat
 Read,../CelesteTAS/5S,lvl_b-02 (2),lvl_b-19
 #lvl_b-19
 #ARB
-#Collect
 Read,../CelesteTAS/5S,lvl_b-19,lvl_c-00
