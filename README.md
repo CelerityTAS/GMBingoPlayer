@@ -25,10 +25,10 @@ and for hollows the top or bottom route.
 ### (optional) snowballs or oshiro stuns or seeker stuns or flags or orb or switch
 ### (optional) seeker kills
 ### (optional) keys
-### (optional) bino
-like 5bino or 4bino
 ### (optional) theo or misc cutscenes
 like secret in 6A, reflection cutscene, diary in elevator shaft etc.
+### (optional) bino
+like 5bino or 4bino
 ### (optional) berries
 - arb (collects berries)
 - progress (does not collect berries, only gets fast berries) (usually with a count, like 5progress)
