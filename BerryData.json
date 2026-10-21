@@ -1,0 +1,2475 @@
+[
+  {
+    "filename": "1A-chasm-cassette-fast2-collect",
+    "chapterIndex": 1,
+    "checkpointIndex": 2,
+    "maxBerries": 5,
+    "berrykeys": ["10zb:1", "11:9"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "1A-chasm-cassette-fast4-collect-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 2,
+    "maxBerries": 5,
+    "berrykeys": ["10zb:1", "11:9", "9b:9", "9c:2"],
+    "berrynumbers": [1, 2, 3, 4]
+  },
+  {
+    "filename": "1A-chasm-fast2-collect-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 2,
+    "maxBerries": 5,
+    "berrykeys": ["9b:9", "9c:2"],
+    "berrynumbers": [3, 4]
+  },
+  {
+    "filename": "1A-chasm-progress2-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 2,
+    "maxBerries": 5,
+    "berrykeys": ["9b:9", "9c:2"],
+    "berrynumbers": [3, 4]
+  },
+  {
+    "filename": "1A-crossing-fast1-collect",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12"],
+    "berrynumbers": [2]
+  },
+  {
+    "filename": "1A-crossing-fast1",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["8b:1"],
+    "berrynumbers": [8]
+  },
+  {
+    "filename": "1A-crossing-fast2",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["8b:1", "9:14"],
+    "berrynumbers": [8, 9]
+  },
+  {
+    "filename": "1A-crossing-fast3",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "8b:1", "9:14"],
+    "berrynumbers": [2, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-fast5",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "7z:3", "8zb:1", "8b:1", "9:14"],
+    "berrynumbers": [2, 4, 5, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-fast7-1up",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "7z:3", "8zb:1", "7a:12", "9z:3", "8b:1", "9:14"],
+    "berrynumbers": [2, 4, 5, 6, 7, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-grabless-fast3",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "8b:1", "9:14"],
+    "berrynumbers": [2, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-grabless-progress3",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "8b:1", "9:14"],
+    "berrynumbers": [2, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-progress1",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["8b:1"],
+    "berrynumbers": [8]
+  },
+  {
+    "filename": "1A-crossing-progress2",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["8b:1", "9:14"],
+    "berrynumbers": [8, 9]
+  },
+  {
+    "filename": "1A-crossing-progress3",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "8b:1", "9:14"],
+    "berrynumbers": [2, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-progress5",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "7z:3", "8zb:1", "8b:1", "9:14"],
+    "berrynumbers": [2, 4, 5, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-progress7",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "7z:3", "8zb:1", "7a:12", "9z:3", "8b:1", "9:14"],
+    "berrynumbers": [2, 4, 5, 6, 7, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-theo-fast2-collect",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "7zb:2"],
+    "berrynumbers": [2, 1]
+  },
+  {
+    "filename": "1A-start-fast4-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 0,
+    "maxBerries": 6,
+    "berrykeys": ["2:11", "3:9", "3b:2", "5:21"],
+    "berrynumbers": [1, 2, 3, 5]
+  },
+  {
+    "filename": "1A-start-grabless-fast4-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 0,
+    "maxBerries": 6,
+    "berrykeys": ["2:11", "3:9", "3b:2", "5:21"],
+    "berrynumbers": [1, 2, 3, 5]
+  },
+  {
+    "filename": "1A-start-grabless-progress4-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 0,
+    "maxBerries": 6,
+    "berrykeys": ["2:11", "3:9", "3b:2", "5:21"],
+    "berrynumbers": [1, 2, 3, 5]
+  },
+  {
+    "filename": "1A-start-progress4-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 0,
+    "maxBerries": 6,
+    "berrykeys": ["2:11", "3:9", "3b:2", "5:21"],
+    "berrynumbers": [1, 2, 3, 5]
+  },
+  {
+    "filename": "1A-start-progress5-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 0,
+    "maxBerries": 6,
+    "berrykeys": ["2:11", "3:9", "3b:2", "5:21", "5a:2"],
+    "berrynumbers": [1, 2, 3, 5, 6]
+  },
+  {
+    "filename": "1A-start-progress6-winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 0,
+    "maxBerries": 6,
+    "berrykeys": ["2:11", "3:9", "3b:2", "5z:10", "5:21", "5a:2"],
+    "berrynumbers": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "filename": "1A-wingedgolden-fast1-2winged",
+    "chapterIndex": 1,
+    "checkpointIndex": 0,
+    "maxBerries": 6,
+    "berrykeys": ["3b:2"],
+    "berrynumbers": [3]
+  },
+  {
+    "filename": "2A-intervention-fast1",
+    "chapterIndex": 2,
+    "checkpointIndex": 1,
+    "maxBerries": 8,
+    "berrykeys": ["4:4"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "2A-intervention-fast2",
+    "chapterIndex": 2,
+    "checkpointIndex": 1,
+    "maxBerries": 8,
+    "berrykeys": ["4:4", "5:15"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "2A-intervention-fast3",
+    "chapterIndex": 2,
+    "checkpointIndex": 1,
+    "maxBerries": 8,
+    "berrykeys": ["4:4", "5:15", "8:18"],
+    "berrynumbers": [1, 2, 3]
+  },
+  {
+    "filename": "2A-intervention-fast4",
+    "chapterIndex": 2,
+    "checkpointIndex": 1,
+    "maxBerries": 8,
+    "berrykeys": ["4:4", "5:15", "8:18", "9:22"],
+    "berrynumbers": [1, 2, 3, 5]
+  },
+  {
+    "filename": "2A-intervention-fast5",
+    "chapterIndex": 2,
+    "checkpointIndex": 1,
+    "maxBerries": 8,
+    "berrykeys": ["4:4", "5:15", "8:18", "9:22", "10:27"],
+    "berrynumbers": [1, 2, 3, 5, 6]
+  },
+  {
+    "filename": "2A-intervention-fast6",
+    "chapterIndex": 2,
+    "checkpointIndex": 1,
+    "maxBerries": 8,
+    "berrykeys": ["4:4", "5:15", "8:18", "9:22", "10:27", "12d:44"],
+    "berrynumbers": [1, 2, 3, 5, 6, 8]
+  },
+  {
+    "filename": "2A-intervention-grabless-fast3",
+    "chapterIndex": 2,
+    "checkpointIndex": 1,
+    "maxBerries": 8,
+    "berrykeys": ["4:4", "5:15", "8:18"],
+    "berrynumbers": [1, 2, 3]
+  },
+  {
+    "filename": "2A-start-bino-cassette-fast5-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [1, 2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-bino-fast1-progress4-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [1, 2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-bino-fast1",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d0:6"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "2A-start-bino-fast2-progress3-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [1, 2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-bino-fast2",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d0:6"],
+    "berrynumbers": [2, 5]
+  },
+  {
+    "filename": "2A-start-bino-fast5-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [1, 2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-bino-progress1",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d0:6"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "2A-start-bino-progress3-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d1:67", "d0:6"],
+    "berrynumbers": [2, 3, 5]
+  },
+  {
+    "filename": "2A-start-cassette-fast1-progress4-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [1, 2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-cassette-fast5-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [1, 2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-fast1",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d0:6"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "2A-start-fast2-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d1:67"],
+    "berrynumbers": [2, 3]
+  },
+  {
+    "filename": "2A-start-fast2",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d0:6"],
+    "berrynumbers": [2, 5]
+  },
+  {
+    "filename": "2A-start-fast3-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d1:67", "d0:6"],
+    "berrynumbers": [2, 3, 5]
+  },
+  {
+    "filename": "2A-start-fast3",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d0:6"],
+    "berrynumbers": [1, 2, 5]
+  },
+  {
+    "filename": "2A-start-fast4-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-fast5-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [1, 2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-fast5",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d0:6", "d4:6", "d2:31"],
+    "berrynumbers": [1, 2, 5, 6, 8]
+  },
+  {
+    "filename": "2A-start-fast6-1up",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d0:6", "d4:6", "d5:12", "d2:31"],
+    "berrynumbers": [1, 2, 5, 6, 7, 8]
+  },
+  {
+    "filename": "2A-start-grabless-fast1",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d0:6"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "2A-start-grabless-fast2-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d1:67", "d0:6"],
+    "berrynumbers": [3, 5]
+  },
+  {
+    "filename": "2A-start-grabless-fast2",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d0:6"],
+    "berrynumbers": [2, 5]
+  },
+  {
+    "filename": "2A-start-grabless-fast3-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d1:67", "d0:6"],
+    "berrynumbers": [2, 3, 5]
+  },
+  {
+    "filename": "2A-start-grabless-fast3",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d0:6"],
+    "berrynumbers": [1, 2, 5]
+  },
+  {
+    "filename": "2A-start-grabless-fast6-1up",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d0:6", "d4:6", "d5:12", "d2:31"],
+    "berrynumbers": [1, 2, 5, 6, 7, 8]
+  },
+  {
+    "filename": "2A-start-grabless-progress1",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d0:6"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "2A-start-grabless-progress2-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d1:67", "d0:6"],
+    "berrynumbers": [3, 5]
+  },
+  {
+    "filename": "2A-start-grabless-progress2",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d0:6"],
+    "berrynumbers": [2, 5]
+  },
+  {
+    "filename": "2A-start-grabless-progress3-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d1:67", "d0:6"],
+    "berrynumbers": [2, 3, 5]
+  },
+  {
+    "filename": "2A-start-progress1",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d0:6"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "2A-start-progress2-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d1:67"],
+    "berrynumbers": [2, 3]
+  },
+  {
+    "filename": "2A-start-progress2",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d0:6"],
+    "berrynumbers": [2, 5]
+  },
+  {
+    "filename": "2A-start-progress3-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d1:67", "d0:6"],
+    "berrynumbers": [2, 3, 5]
+  },
+  {
+    "filename": "2A-start-progress3",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d0:6"],
+    "berrynumbers": [1, 2, 5]
+  },
+  {
+    "filename": "2A-start-progress4-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [2, 4, 3, 5]
+  },
+  {
+    "filename": "2A-start-progress5-seeded",
+    "chapterIndex": 2,
+    "checkpointIndex": 0,
+    "maxBerries": 9,
+    "berrykeys": ["d3:10", "d2:9", "d6:2", "d1:67", "d0:6"],
+    "berrynumbers": [1, 2, 4, 3, 5]
+  },
+  {
+    "filename": "3A-hugemess-bct-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["12-c:1", "11-d:52", "10-y:2", "13-b:31", "13-x:13"],
+    "berrynumbers": [1, 2, 6, 3, 4]
+  },
+  {
+    "filename": "3A-hugemess-bct-grabless-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["12-c:1", "11-d:52", "10-y:2", "13-b:31", "13-x:13"],
+    "berrynumbers": [1, 2, 6, 3, 4]
+  },
+  {
+    "filename": "3A-hugemess-btc-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["12-c:1", "11-d:52", "13-b:31", "13-x:13", "10-y:2"],
+    "berrynumbers": [1, 2, 3, 4, 6]
+  },
+  {
+    "filename": "3A-hugemess-btc-grabless-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["12-c:1", "11-d:52", "13-b:31", "13-x:13", "10-y:2"],
+    "berrynumbers": [1, 2, 3, 4, 6]
+  },
+  {
+    "filename": "3A-hugemess-cbt-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["10-y:2", "12-c:1", "11-d:52", "13-b:31", "13-x:13"],
+    "berrynumbers": [6, 1, 2, 3, 4]
+  },
+  {
+    "filename": "3A-hugemess-cbt-grabless-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["10-y:2", "12-c:1", "11-d:52", "13-b:31", "13-x:13"],
+    "berrynumbers": [6, 1, 2, 3, 4]
+  },
+  {
+    "filename": "3A-hugemess-tcb-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["13-b:31", "13-x:13", "10-y:2", "12-c:1", "11-d:52"],
+    "berrynumbers": [3, 4, 6, 1, 2]
+  },
+  {
+    "filename": "3A-hugemess-tcb-grabless-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["13-b:31", "13-x:13", "10-y:2", "12-c:1", "11-d:52"],
+    "berrynumbers": [3, 4, 6, 1, 2]
+  },
+  {
+    "filename": "3A-presidentialsuite-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 3,
+    "maxBerries": 3,
+    "berrykeys": ["roof03:97"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-presidentialsuite-grabless-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 3,
+    "maxBerries": 3,
+    "berrykeys": ["roof03:97"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-cassette-diary-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-cassette-diary-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-cassette-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-cassette-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-cassette-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-cassette-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-cassette-theo-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-cassette-theo-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-diary-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-diary-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-diary-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-diary-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-diary-theo-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-diary-theo-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-grabless-cassette-diary-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-cassette-diary-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-cassette-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-cassette-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-grabless-cassette-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-grabless-cassette-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-cassette-theo-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-grabless-cassette-theo-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-grabless-diary-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-diary-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-grabless-diary-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-grabless-diary-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-diary-theo-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-grabless-diary-theo-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-grabless-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-grabless-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-grabless-key-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-key-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-grabless-key-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-grabless-key-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-key-theo-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-grabless-key-theo-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-grabless-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-grabless-theo-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-grabless-theo-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-key-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-key-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-key-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-key-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-key-theo-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-key-theo-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-shaft-theo-fast1",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "3A-shaft-theo-fast2",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "04-c:40"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "3A-shaft-theo-fast3",
+    "chapterIndex": 3,
+    "checkpointIndex": 2,
+    "maxBerries": 4,
+    "berrykeys": ["06-d:238", "03-b:1", "03-b:25"],
+    "berrynumbers": [1, 3, 4]
+  },
+  {
+    "filename": "3A-start-fast2-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 0,
+    "maxBerries": 11,
+    "berrykeys": ["00-a:5", "06-a:7"],
+    "berrynumbers": [3, 7]
+  },
+  {
+    "filename": "3A-start-fast3-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 0,
+    "maxBerries": 11,
+    "berrykeys": ["00-a:5", "06-a:7", "06-b:14"],
+    "berrynumbers": [3, 7, 8]
+  },
+  {
+    "filename": "3A-start-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 0,
+    "maxBerries": 11,
+    "berrykeys": ["s2:6", "s2:18", "00-a:5", "06-a:7", "06-b:14"],
+    "berrynumbers": [2, 1, 3, 7, 8]
+  },
+  {
+    "filename": "3A-start-fast6-winged-1up",
+    "chapterIndex": 3,
+    "checkpointIndex": 0,
+    "maxBerries": 11,
+    "berrykeys": ["s2:6", "s2:18", "00-a:5", "06-a:7", "06-b:14", "07-b:4"],
+    "berrynumbers": [2, 1, 3, 7, 8, 11]
+  },
+  {
+    "filename": "3A-start-fast6-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 0,
+    "maxBerries": 11,
+    "berrykeys": ["s2:6", "s2:18", "00-a:5", "06-a:7", "06-b:14", "07-b:4"],
+    "berrynumbers": [2, 1, 3, 7, 8, 11]
+  },
+  {
+    "filename": "3A-start-grabless-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 0,
+    "maxBerries": 11,
+    "berrykeys": ["s2:6", "s2:18", "00-a:5", "06-a:7", "06-b:14"],
+    "berrynumbers": [2, 1, 3, 7, 8]
+  },
+  {
+    "filename": "3A-start-grabless-fast6-winged-1up",
+    "chapterIndex": 3,
+    "checkpointIndex": 0,
+    "maxBerries": 11,
+    "berrykeys": ["s2:6", "s2:18", "00-a:5", "06-a:7", "06-b:14", "07-b:4"],
+    "berrynumbers": [2, 1, 3, 7, 8, 11]
+  },
+  {
+    "filename": "4A-cliffface-fast4",
+    "chapterIndex": 4,
+    "checkpointIndex": 3,
+    "maxBerries": 5,
+    "berrykeys": ["d-01:7", "d-04:88", "d-07:70", "d-09:18"],
+    "berrynumbers": [2, 3, 4, 5]
+  },
+  {
+    "filename": "4A-cliffface-grabless-fast4",
+    "chapterIndex": 4,
+    "checkpointIndex": 3,
+    "maxBerries": 5,
+    "berrykeys": ["d-01:7", "d-04:88", "d-07:70", "d-09:18"],
+    "berrynumbers": [2, 3, 4, 5]
+  },
+  {
+    "filename": "4A-cliffface-snowball-fast4",
+    "chapterIndex": 4,
+    "checkpointIndex": 3,
+    "maxBerries": 5,
+    "berrykeys": ["d-01:7", "d-04:88", "d-07:70", "d-09:18"],
+    "berrynumbers": [2, 3, 4, 5]
+  },
+  {
+    "filename": "4A-oldtrail-fast1",
+    "chapterIndex": 4,
+    "checkpointIndex": 2,
+    "maxBerries": 7,
+    "berrykeys": ["c-06:35"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "4A-oldtrail-fast2",
+    "chapterIndex": 4,
+    "checkpointIndex": 2,
+    "maxBerries": 7,
+    "berrykeys": ["c-06:35", "c-08:28"],
+    "berrynumbers": [5, 6]
+  },
+  {
+    "filename": "4A-oldtrail-fast3",
+    "chapterIndex": 4,
+    "checkpointIndex": 2,
+    "maxBerries": 7,
+    "berrykeys": ["c-05:21", "c-06:35", "c-08:28"],
+    "berrynumbers": [3, 5, 6]
+  },
+  {
+    "filename": "4A-oldtrail-fast4",
+    "chapterIndex": 4,
+    "checkpointIndex": 2,
+    "maxBerries": 7,
+    "berrykeys": ["c-00:17", "c-05:21", "c-06:35", "c-08:28"],
+    "berrynumbers": [2, 3, 5, 6]
+  },
+  {
+    "filename": "4A-oldtrail-fast5",
+    "chapterIndex": 4,
+    "checkpointIndex": 2,
+    "maxBerries": 7,
+    "berrykeys": ["c-00:17", "c-05:21", "c-06:35", "c-08:28", "c-10:55"],
+    "berrynumbers": [2, 3, 5, 6, 7]
+  },
+  {
+    "filename": "4A-oldtrail-fast6",
+    "chapterIndex": 4,
+    "checkpointIndex": 2,
+    "maxBerries": 7,
+    "berrykeys": [
+      "c-00:17",
+      "c-05:21",
+      "c-06b:43",
+      "c-06:35",
+      "c-08:28",
+      "c-10:55"
+    ],
+    "berrynumbers": [2, 3, 4, 5, 6, 7]
+  },
+  {
+    "filename": "4A-oldtrail-progress7-winged",
+    "chapterIndex": 4,
+    "checkpointIndex": 2,
+    "maxBerries": 7,
+    "berrykeys": [
+      "c-01:26",
+      "c-00:17",
+      "c-05:21",
+      "c-06b:43",
+      "c-06:35",
+      "c-08:28",
+      "c-10:55"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 6, 7]
+  },
+  {
+    "filename": "4A-shrine-bino-fast5",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-01:6", "b-01:13", "b-02:20", "b-02:58", "b-08:11"],
+    "berrynumbers": [1, 2, 3, 7, 9]
+  },
+  {
+    "filename": "4A-shrine-fast1",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-08:11"],
+    "berrynumbers": [9]
+  },
+  {
+    "filename": "4A-shrine-fast2",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-02:58", "b-08:11"],
+    "berrynumbers": [7, 9]
+  },
+  {
+    "filename": "4A-shrine-fast4",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-01:6", "b-01:13", "b-02:58", "b-08:11"],
+    "berrynumbers": [1, 2, 7, 9]
+  },
+  {
+    "filename": "4A-shrine-fast5",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-01:6", "b-01:13", "b-02:20", "b-02:58", "b-08:11"],
+    "berrynumbers": [1, 2, 3, 7, 9]
+  },
+  {
+    "filename": "1A-crossing-grabless-heart-fast1",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["s1:9"],
+    "berrynumbers": [3]
+  },
+  {
+    "filename": "1A-crossing-heart-fast1",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["s1:9"],
+    "berrynumbers": [3]
+  },
+  {
+    "filename": "1A-crossing-heart-fast2-collect-progress4",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "s1:9", "7z:3", "8zb:1", "8b:1", "9:14"],
+    "berrynumbers": [2, 3, 4, 5, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-heart-fast2-collect-progress6",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": [
+      "6:12",
+      "s1:9",
+      "7z:3",
+      "8zb:1",
+      "7a:12",
+      "9z:3",
+      "8b:1",
+      "9:14"
+    ],
+    "berrynumbers": [2, 3, 4, 5, 6, 7, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-heart-fast2-collect",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "s1:9"],
+    "berrynumbers": [2, 3]
+  },
+  {
+    "filename": "1A-crossing-heart-fast2-nocollect",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["s1:9", "8b:1"],
+    "berrynumbers": [3, 8]
+  },
+  {
+    "filename": "1A-crossing-heart-fast3",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["s1:9", "8b:1", "9:14"],
+    "berrynumbers": [3, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-heart-fast4-collect",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "s1:9", "8b:1", "9:14"],
+    "berrynumbers": [2, 3, 8, 9]
+  },
+  {
+    "filename": "1A-crossing-heart-fast6-collect",
+    "chapterIndex": 1,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["6:12", "s1:9", "7z:3", "8zb:1", "8b:1", "9:14"],
+    "berrynumbers": [2, 3, 4, 5, 8, 9]
+  },
+  {
+    "filename": "3A-hugemess-bct-grabless-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["12-c:1", "11-d:52", "10-y:2", "13-b:31", "13-x:13"],
+    "berrynumbers": [1, 2, 6, 3, 4]
+  },
+  {
+    "filename": "3A-hugemess-bct-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["12-c:1", "11-d:52", "10-y:2", "13-b:31", "13-x:13"],
+    "berrynumbers": [1, 2, 6, 3, 4]
+  },
+  {
+    "filename": "3A-hugemess-btc-grabless-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["12-c:1", "11-d:52", "13-b:31", "13-x:13", "10-y:2"],
+    "berrynumbers": [1, 2, 3, 4, 6]
+  },
+  {
+    "filename": "3A-hugemess-btc-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["12-c:1", "11-d:52", "13-b:31", "13-x:13", "10-y:2"],
+    "berrynumbers": [1, 2, 3, 4, 6]
+  },
+  {
+    "filename": "3A-hugemess-cbt-grabless-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["10-y:2", "12-c:1", "11-d:52", "13-b:31", "13-x:13"],
+    "berrynumbers": [6, 1, 2, 3, 4]
+  },
+  {
+    "filename": "3A-hugemess-cbt-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["10-y:2", "12-c:1", "11-d:52", "13-b:31", "13-x:13"],
+    "berrynumbers": [6, 1, 2, 3, 4]
+  },
+  {
+    "filename": "3A-hugemess-tbc-grabless-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["13-b:31", "13-x:13", "12-c:1", "11-d:52", "10-y:2"],
+    "berrynumbers": [3, 4, 1, 2, 6]
+  },
+  {
+    "filename": "3A-hugemess-tbc-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["13-b:31", "13-x:13", "12-c:1", "11-d:52", "10-y:2"],
+    "berrynumbers": [3, 4, 1, 2, 6]
+  },
+  {
+    "filename": "3A-hugemess-tcb-grabless-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["13-b:31", "13-x:13", "10-y:2", "12-c:1", "11-d:52"],
+    "berrynumbers": [3, 4, 6, 1, 2]
+  },
+  {
+    "filename": "3A-hugemess-tcb-heart-fast5-winged",
+    "chapterIndex": 3,
+    "checkpointIndex": 1,
+    "maxBerries": 7,
+    "berrykeys": ["13-b:31", "13-x:13", "10-y:2", "12-c:1", "11-d:52"],
+    "berrynumbers": [3, 4, 6, 1, 2]
+  },
+  {
+    "filename": "4A-shrine-grabless-heart-fast1",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-02:58"],
+    "berrynumbers": [7]
+  },
+  {
+    "filename": "4A-shrine-heart-bino-fast4-collect",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-01:6", "b-01:13", "b-02:20", "b-02:58"],
+    "berrynumbers": [1, 2, 3, 7]
+  },
+  {
+    "filename": "4A-shrine-heart-bino-fast6-collect",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": [
+      "b-01:6",
+      "b-01:13",
+      "b-02:20",
+      "b-secb:9",
+      "b-02:58",
+      "b-08:11"
+    ],
+    "berrynumbers": [1, 2, 3, 8, 7, 9]
+  },
+  {
+    "filename": "4A-shrine-heart-bino-fast6",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": [
+      "b-01:6",
+      "b-01:13",
+      "b-02:20",
+      "b-secb:9",
+      "b-02:58",
+      "b-08:11"
+    ],
+    "berrynumbers": [1, 2, 3, 8, 7, 9]
+  },
+  {
+    "filename": "4A-shrine-heart-fast1-collect",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-02:58"],
+    "berrynumbers": [7]
+  },
+  {
+    "filename": "4A-shrine-heart-fast1",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-02:58"],
+    "berrynumbers": [7]
+  },
+  {
+    "filename": "4A-shrine-heart-fast2",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-02:58", "b-08:11"],
+    "berrynumbers": [7, 9]
+  },
+  {
+    "filename": "4A-shrine-heart-fast4",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-01:6", "b-01:13", "b-02:58", "b-08:11"],
+    "berrynumbers": [1, 2, 7, 9]
+  },
+  {
+    "filename": "4A-shrine-heart-fast5",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": ["b-01:6", "b-01:13", "b-secb:9", "b-02:58", "b-08:11"],
+    "berrynumbers": [1, 2, 8, 7, 9]
+  },
+  {
+    "filename": "4A-shrine-heart-fast6",
+    "chapterIndex": 4,
+    "checkpointIndex": 1,
+    "maxBerries": 9,
+    "berrykeys": [
+      "b-01:6",
+      "b-01:13",
+      "b-02:20",
+      "b-secb:9",
+      "b-02:58",
+      "b-08:11"
+    ],
+    "berrynumbers": [1, 2, 3, 8, 7, 9]
+  },
+  {
+    "filename": "4A-start-cassette-bino-fast6-seeded-1up",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": [
+      "a-01x:11",
+      "a-02:8",
+      "a-03:33",
+      "a-04:11",
+      "a-07:16",
+      "a-10:13"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 6, 7]
+  },
+  {
+    "filename": "4A-start-cassette-fast6-seeded-1up",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": [
+      "a-01x:11",
+      "a-02:8",
+      "a-03:33",
+      "a-04:11",
+      "a-07:16",
+      "a-10:13"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 6, 7]
+  },
+  {
+    "filename": "4A-start-fast1",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-04:11"],
+    "berrynumbers": [4]
+  },
+  {
+    "filename": "4A-start-fast2",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-04:11", "a-07:16"],
+    "berrynumbers": [4, 6]
+  },
+  {
+    "filename": "4A-start-fast5",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-02:8", "a-03:33", "a-04:11", "a-06:6", "a-07:16"],
+    "berrynumbers": [2, 3, 4, 5, 6]
+  },
+  {
+    "filename": "4A-start-grabless-bino-fast2-seeded",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-07:16", "a-10:13"],
+    "berrynumbers": [6, 7]
+  },
+  {
+    "filename": "4A-start-grabless-cassette-bino-fast2-seeded",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-07:16", "a-10:13"],
+    "berrynumbers": [6, 7]
+  },
+  {
+    "filename": "4A-start-grabless-cassette-fast2-seeded",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-07:16", "a-10:13"],
+    "berrynumbers": [6, 7]
+  },
+  {
+    "filename": "4A-start-grabless-cassette-fast2",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-03:33", "a-07:16"],
+    "berrynumbers": [3, 6]
+  },
+  {
+    "filename": "4A-start-grabless-fast1",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-04:11"],
+    "berrynumbers": [4]
+  },
+  {
+    "filename": "4A-start-grabless-fast2-seeded",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-07:16", "a-10:13"],
+    "berrynumbers": [6, 7]
+  },
+  {
+    "filename": "4A-start-grabless-fast3-seeded",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-07:16", "a-10:13", "a-09:12"],
+    "berrynumbers": [6, 7, 8]
+  },
+  {
+    "filename": "4A-start-grabless-fast5",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-02:8", "a-03:33", "a-04:11", "a-06:6", "a-07:16"],
+    "berrynumbers": [2, 3, 4, 5, 6]
+  },
+  {
+    "filename": "4A-start-grabless-progress5",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-02:8", "a-03:33", "a-04:11", "a-06:6", "a-07:16"],
+    "berrynumbers": [2, 3, 4, 5, 6]
+  },
+  {
+    "filename": "4A-start-progress5",
+    "chapterIndex": 4,
+    "checkpointIndex": 0,
+    "maxBerries": 8,
+    "berrykeys": ["a-02:8", "a-03:33", "a-04:11", "a-06:6", "a-07:16"],
+    "berrynumbers": [2, 3, 4, 5, 6]
+  },
+  {
+    "filename": "5A-depths-cassette-fast2-seeded",
+    "chapterIndex": 5,
+    "checkpointIndex": 1,
+    "maxBerries": 11,
+    "berrykeys": ["b-17:14", "b-17:10"],
+    "berrynumbers": [10, 11]
+  },
+  {
+    "filename": "5A-depths-cassette-fast3-winged",
+    "chapterIndex": 5,
+    "checkpointIndex": 1,
+    "maxBerries": 11,
+    "berrykeys": ["b-20:183", "b-20:72", "b-21:99"],
+    "berrynumbers": [4, 5, 3]
+  },
+  {
+    "filename": "5A-depths-cassette-fast5-winged-seeded",
+    "chapterIndex": 5,
+    "checkpointIndex": 1,
+    "maxBerries": 11,
+    "berrykeys": ["b-20:183", "b-20:72", "b-21:99", "b-17:14", "b-17:10"],
+    "berrynumbers": [4, 5, 3, 10, 11]
+  },
+  {
+    "filename": "5A-depths-cassette-fast6-winged-seeded",
+    "chapterIndex": 5,
+    "checkpointIndex": 1,
+    "maxBerries": 11,
+    "berrykeys": [
+      "b-18:2",
+      "b-20:183",
+      "b-20:72",
+      "b-21:99",
+      "b-17:14",
+      "b-17:10"
+    ],
+    "berrynumbers": [1, 4, 5, 3, 10, 11]
+  },
+  {
+    "filename": "5A-depths-fast3-winged",
+    "chapterIndex": 5,
+    "checkpointIndex": 1,
+    "maxBerries": 11,
+    "berrykeys": ["b-20:183", "b-20:72", "b-21:99"],
+    "berrynumbers": [4, 5, 3]
+  },
+  {
+    "filename": "5A-depths-heart-cassette-fast5-seeded",
+    "chapterIndex": 5,
+    "checkpointIndex": 1,
+    "maxBerries": 11,
+    "berrykeys": ["b-17:14", "b-17:10", "b-12:3", "b-03:24", "b-05:23"],
+    "berrynumbers": [10, 11, 9, 6, 7]
+  },
+  {
+    "filename": "5A-depths-heart-cassette-fast6-seeded",
+    "chapterIndex": 5,
+    "checkpointIndex": 1,
+    "maxBerries": 11,
+    "berrykeys": [
+      "b-17:14",
+      "b-17:10",
+      "b-12:3",
+      "b-10:4",
+      "b-03:24",
+      "b-05:23"
+    ],
+    "berrynumbers": [10, 11, 9, 8, 6, 7]
+  },
+  {
+    "filename": "5A-depths-heart-fast2",
+    "chapterIndex": 5,
+    "checkpointIndex": 1,
+    "maxBerries": 11,
+    "berrykeys": ["b-03:24", "b-05:23"],
+    "berrynumbers": [6, 7]
+  },
+  {
+    "filename": "5A-search-fast1",
+    "chapterIndex": 5,
+    "checkpointIndex": 3,
+    "maxBerries": 6,
+    "berrykeys": ["d-15:335"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "5A-search-fast2",
+    "chapterIndex": 5,
+    "checkpointIndex": 3,
+    "maxBerries": 6,
+    "berrykeys": ["d-15:335", "d-04:16"],
+    "berrynumbers": [5, 2]
+  },
+  {
+    "filename": "5A-search-fast3",
+    "chapterIndex": 5,
+    "checkpointIndex": 3,
+    "maxBerries": 6,
+    "berrykeys": ["d-15:335", "d-04:16", "d-04:122"],
+    "berrynumbers": [5, 2, 1]
+  },
+  {
+    "filename": "5A-search-keys1-fast1",
+    "chapterIndex": 5,
+    "checkpointIndex": 3,
+    "maxBerries": 6,
+    "berrykeys": ["d-19:533"],
+    "berrynumbers": [6]
+  },
+  {
+    "filename": "5A-search-keys1-fast3",
+    "chapterIndex": 5,
+    "checkpointIndex": 3,
+    "maxBerries": 6,
+    "berrykeys": ["d-15:217", "d-13:157", "d-19:533"],
+    "berrynumbers": [4, 3, 6]
+  },
+  {
+    "filename": "5A-search-keys1-fast4",
+    "chapterIndex": 5,
+    "checkpointIndex": 3,
+    "maxBerries": 6,
+    "berrykeys": ["d-15:217", "d-13:157", "d-15:335", "d-19:533"],
+    "berrynumbers": [4, 3, 5, 6]
+  },
+  {
+    "filename": "5A-start-fast1",
+    "chapterIndex": 5,
+    "checkpointIndex": 0,
+    "maxBerries": 12,
+    "berrykeys": ["a-01:256"],
+    "berrynumbers": [2]
+  },
+  {
+    "filename": "5A-start-fast2",
+    "chapterIndex": 5,
+    "checkpointIndex": 0,
+    "maxBerries": 12,
+    "berrykeys": ["a-01:256", "a-01:164"],
+    "berrynumbers": [2, 3]
+  },
+  {
+    "filename": "5A-start-fast3",
+    "chapterIndex": 5,
+    "checkpointIndex": 0,
+    "maxBerries": 12,
+    "berrykeys": ["a-01:256", "a-14:12", "a-01:164"],
+    "berrynumbers": [2, 10, 3]
+  },
+  {
+    "filename": "7A-0m-fast1",
+    "chapterIndex": 7,
+    "checkpointIndex": 0,
+    "maxBerries": 4,
+    "berrykeys": ["a-05:54"],
+    "berrynumbers": [4]
+  },
+  {
+    "filename": "7A-0m-fast2",
+    "chapterIndex": 7,
+    "checkpointIndex": 0,
+    "maxBerries": 4,
+    "berrykeys": ["a-04b:85", "a-05:54"],
+    "berrynumbers": [3, 4]
+  },
+  {
+    "filename": "7A-0m-fast3",
+    "chapterIndex": 7,
+    "checkpointIndex": 0,
+    "maxBerries": 4,
+    "berrykeys": ["a-04b:85", "a-04b:136", "a-05:54"],
+    "berrynumbers": [3, 2, 4]
+  },
+  {
+    "filename": "7A-0m-gem-fast1",
+    "chapterIndex": 7,
+    "checkpointIndex": 0,
+    "maxBerries": 4,
+    "berrykeys": ["a-05:54"],
+    "berrynumbers": [4]
+  },
+  {
+    "filename": "7A-0m-gem-fast2",
+    "chapterIndex": 7,
+    "checkpointIndex": 0,
+    "maxBerries": 4,
+    "berrykeys": ["a-04b:85", "a-05:54"],
+    "berrynumbers": [3, 4]
+  },
+  {
+    "filename": "7A-0m-gem-fast3",
+    "chapterIndex": 7,
+    "checkpointIndex": 0,
+    "maxBerries": 4,
+    "berrykeys": ["a-04b:85", "a-04b:136", "a-05:54"],
+    "berrynumbers": [3, 2, 4]
+  },
+  {
+    "filename": "7A-1000m-2bino-fast1",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": ["c-08:331"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "7A-1000m-2bino-fast5",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": [
+      "c-03b:228",
+      "c-06b:281",
+      "c-07b:291",
+      "c-08:331",
+      "c-09:354"
+    ],
+    "berrynumbers": [1, 3, 4, 5, 6]
+  },
+  {
+    "filename": "7A-1000m-bino-fast2",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": ["c-06b:281", "c-08:331"],
+    "berrynumbers": [3, 5]
+  },
+  {
+    "filename": "7A-1000m-bino-fast5",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": [
+      "c-03b:228",
+      "c-05:248",
+      "c-06b:281",
+      "c-07b:291",
+      "c-08:331"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5]
+  },
+  {
+    "filename": "7A-1000m-fast3",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": ["c-06b:281", "c-08:331", "c-09:354"],
+    "berrynumbers": [3, 5, 6]
+  },
+  {
+    "filename": "7A-1000m-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": ["c-03b:228", "c-06b:281", "c-08:331", "c-09:354"],
+    "berrynumbers": [1, 3, 5, 6]
+  },
+  {
+    "filename": "7A-1000m-fast5",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": [
+      "c-03b:228",
+      "c-06b:281",
+      "c-07b:291",
+      "c-08:331",
+      "c-09:354"
+    ],
+    "berrynumbers": [1, 3, 4, 5, 6]
+  },
+  {
+    "filename": "7A-1000m-gem-bino-fast5",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": [
+      "c-03b:228",
+      "c-05:248",
+      "c-06b:281",
+      "c-07b:291",
+      "c-08:331"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5]
+  },
+  {
+    "filename": "7A-1000m-gem-fast3",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": ["c-06b:281", "c-08:331", "c-09:354"],
+    "berrynumbers": [3, 5, 6]
+  },
+  {
+    "filename": "7A-1000m-gem-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 2,
+    "maxBerries": 6,
+    "berrykeys": ["c-03b:228", "c-06b:281", "c-08:331", "c-09:354"],
+    "berrynumbers": [1, 3, 5, 6]
+  },
+  {
+    "filename": "7A-1500m-cassette-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": ["d-00:43", "d-03:383", "d-04:388", "d-08:527"],
+    "berrynumbers": [1, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-cassette-fast5-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": ["d-00:43", "d-03:383", "d-04:388", "d-08:527", "d-10b:682"],
+    "berrynumbers": [1, 4, 5, 7, 8]
+  },
+  {
+    "filename": "7A-1500m-cassette-fast6",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-cassette-fast7-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527",
+      "d-10b:682"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7, 8]
+  },
+  {
+    "filename": "7A-1500m-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": ["d-00:43", "d-03:383", "d-04:388", "d-08:527"],
+    "berrynumbers": [1, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-fast5-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": ["d-00:43", "d-03:383", "d-04:388", "d-08:527", "d-10b:682"],
+    "berrynumbers": [1, 4, 5, 7, 8]
+  },
+  {
+    "filename": "7A-1500m-fast6-1up",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-fast6",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-fast7-winged-1up",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527",
+      "d-10b:682"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7, 8]
+  },
+  {
+    "filename": "7A-1500m-gem-cassette-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": ["d-00:43", "d-03:383", "d-04:388", "d-08:527"],
+    "berrynumbers": [1, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-gem-cassette-fast5-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": ["d-00:43", "d-03:383", "d-04:388", "d-08:527", "d-10b:682"],
+    "berrynumbers": [1, 4, 5, 7, 8]
+  },
+  {
+    "filename": "7A-1500m-gem-cassette-fast6",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-gem-cassette-fast7-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527",
+      "d-10b:682"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7, 8]
+  },
+  {
+    "filename": "7A-1500m-gem-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": ["d-00:43", "d-03:383", "d-04:388", "d-08:527"],
+    "berrynumbers": [1, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-gem-fast5-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": ["d-00:43", "d-03:383", "d-04:388", "d-08:527", "d-10b:682"],
+    "berrynumbers": [1, 4, 5, 7, 8]
+  },
+  {
+    "filename": "7A-1500m-gem-fast6",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7]
+  },
+  {
+    "filename": "7A-1500m-gem-fast7-winged-1up",
+    "chapterIndex": 7,
+    "checkpointIndex": 3,
+    "maxBerries": 8,
+    "berrykeys": [
+      "d-00:43",
+      "d-01c:226",
+      "d-01d:282",
+      "d-03:383",
+      "d-04:388",
+      "d-08:527",
+      "d-10b:682"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 5, 7, 8]
+  },
+  {
+    "filename": "7A-2000m-fast5",
+    "chapterIndex": 7,
+    "checkpointIndex": 4,
+    "maxBerries": 8,
+    "berrykeys": ["e-02:7", "e-05:237", "e-07:473", "e-10:515", "e-13:829"],
+    "berrynumbers": [1, 2, 3, 7, 8]
+  },
+  {
+    "filename": "7A-2000m-fast6-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 4,
+    "maxBerries": 8,
+    "berrykeys": [
+      "e-02:7",
+      "e-05:237",
+      "e-07:473",
+      "e-09:398",
+      "e-10:515",
+      "e-13:829"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 7, 8]
+  },
+  {
+    "filename": "7A-2000m-gem-fast5",
+    "chapterIndex": 7,
+    "checkpointIndex": 4,
+    "maxBerries": 8,
+    "berrykeys": ["e-02:7", "e-05:237", "e-07:473", "e-10:515", "e-13:829"],
+    "berrynumbers": [1, 2, 3, 7, 8]
+  },
+  {
+    "filename": "7A-2000m-gem-fast6-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 4,
+    "maxBerries": 8,
+    "berrykeys": [
+      "e-02:7",
+      "e-05:237",
+      "e-07:473",
+      "e-09:398",
+      "e-10:515",
+      "e-13:829"
+    ],
+    "berrynumbers": [1, 2, 3, 4, 7, 8]
+  },
+  {
+    "filename": "7A-2500m-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 5,
+    "maxBerries": 8,
+    "berrykeys": ["f-11:1068", "f-11:1238", "f-11:1229"],
+    "berrynumbers": [6, 8, 7]
+  },
+  {
+    "filename": "7A-2500m-fast5",
+    "chapterIndex": 7,
+    "checkpointIndex": 5,
+    "maxBerries": 8,
+    "berrykeys": ["f-07:711", "f-11:1068", "f-11:1238", "f-11:1229"],
+    "berrynumbers": [3, 6, 8, 7]
+  },
+  {
+    "filename": "7A-2500m-gem-fast6",
+    "chapterIndex": 7,
+    "checkpointIndex": 5,
+    "maxBerries": 8,
+    "berrykeys": [
+      "f-00:590",
+      "f-01:639",
+      "f-07:711",
+      "f-11:1068",
+      "f-11:1238",
+      "f-11:1229"
+    ],
+    "berrynumbers": [2, 1, 3, 6, 8, 7]
+  },
+  {
+    "filename": "7A-500m-bino-fast1",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101"],
+    "berrynumbers": [1]
+  },
+  {
+    "filename": "7A-500m-bino-fast2-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-04:67"],
+    "berrynumbers": [1, 4]
+  },
+  {
+    "filename": "7A-500m-bino-fast2",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-08:129"],
+    "berrynumbers": [1, 5]
+  },
+  {
+    "filename": "7A-500m-bino-fast3-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-04:67", "b-08:129"],
+    "berrynumbers": [1, 4, 5]
+  },
+  {
+    "filename": "7A-500m-bino-fast3",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 5, 6]
+  },
+  {
+    "filename": "7A-500m-bino-fast4-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67", "b-08:129"],
+    "berrynumbers": [1, 2, 4, 5]
+  },
+  {
+    "filename": "7A-500m-bino-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 5, 6]
+  },
+  {
+    "filename": "7A-500m-bino-fast5-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 4, 5, 6]
+  },
+  {
+    "filename": "7A-500m-fast1",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-08:129"],
+    "berrynumbers": [5]
+  },
+  {
+    "filename": "7A-500m-fast2-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-04:67", "b-08:129"],
+    "berrynumbers": [4, 5]
+  },
+  {
+    "filename": "7A-500m-fast2",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-08:129"],
+    "berrynumbers": [1, 5]
+  },
+  {
+    "filename": "7A-500m-fast3-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-04:67", "b-08:129"],
+    "berrynumbers": [1, 4, 5]
+  },
+  {
+    "filename": "7A-500m-fast3",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 5, 6]
+  },
+  {
+    "filename": "7A-500m-fast4-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-04:67", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 4, 5, 6]
+  },
+  {
+    "filename": "7A-500m-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 5, 6]
+  },
+  {
+    "filename": "7A-500m-fast5-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 4, 5, 6]
+  },
+  {
+    "filename": "7A-500m-fast5",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-02e:112", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 3, 5, 6]
+  },
+  {
+    "filename": "7A-500m-gem-bino-fast1",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02b:102"],
+    "berrynumbers": [2]
+  },
+  {
+    "filename": "7A-500m-gem-bino-fast2-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02b:102", "b-04:67"],
+    "berrynumbers": [2, 4]
+  },
+  {
+    "filename": "7A-500m-gem-bino-fast2",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "7A-500m-gem-bino-fast3-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67"],
+    "berrynumbers": [1, 2, 4]
+  },
+  {
+    "filename": "7A-500m-gem-bino-fast3",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-08:129"],
+    "berrynumbers": [1, 2, 5]
+  },
+  {
+    "filename": "7A-500m-gem-bino-fast4-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67", "b-08:129"],
+    "berrynumbers": [1, 2, 4, 5]
+  },
+  {
+    "filename": "7A-500m-gem-bino-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 5, 6]
+  },
+  {
+    "filename": "7A-500m-gem-bino-fast5-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 4, 5, 6]
+  },
+  {
+    "filename": "7A-500m-gem-fast1",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02b:102"],
+    "berrynumbers": [2]
+  },
+  {
+    "filename": "7A-500m-gem-fast2-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02b:102", "b-04:67"],
+    "berrynumbers": [2, 4]
+  },
+  {
+    "filename": "7A-500m-gem-fast2",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102"],
+    "berrynumbers": [1, 2]
+  },
+  {
+    "filename": "7A-500m-gem-fast3-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67"],
+    "berrynumbers": [1, 2, 4]
+  },
+  {
+    "filename": "7A-500m-gem-fast3",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-08:129"],
+    "berrynumbers": [1, 2, 5]
+  },
+  {
+    "filename": "7A-500m-gem-fast4-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67", "b-08:129"],
+    "berrynumbers": [1, 2, 4, 5]
+  },
+  {
+    "filename": "7A-500m-gem-fast4",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 5, 6]
+  },
+  {
+    "filename": "7A-500m-gem-fast5-winged",
+    "chapterIndex": 7,
+    "checkpointIndex": 1,
+    "maxBerries": 6,
+    "berrykeys": ["b-02:101", "b-02b:102", "b-04:67", "b-08:129", "b-09:167"],
+    "berrynumbers": [1, 2, 4, 5, 6]
+  }
+]
