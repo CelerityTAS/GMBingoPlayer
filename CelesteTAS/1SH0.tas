@@ -404,11 +404,12 @@ console load 1
   27,L,D,X
   59,L,J
 #Exit
+  59
+   1,J
+  30
    1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
+   1,D,J
+  33,O
   36
 
 #Post Heart
@@ -954,4 +955,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-FileTime: 1:49.854(6462)
+FileTime: 1:51.401(6553)

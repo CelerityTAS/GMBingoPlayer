@@ -155,11 +155,12 @@ Read, ../Grabless/G1A, lvl_6a, lvl_6b
   66
 #Heart
 #Exit
+  59
+   1,J
+  30
    1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
+   1,D,J
+  33,O
   36
    5,L
    1,L,J

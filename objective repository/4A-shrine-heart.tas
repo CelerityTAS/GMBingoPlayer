@@ -85,11 +85,10 @@ Read, 4A-start
 Read, ../CelesteTAS/4HC, lvl_b-02 (0), Exit
 #Collect
 #Heart
-   1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
+  59
+   1,J
+  31
+  39,O
   36
    4,D,X
    1,L,K

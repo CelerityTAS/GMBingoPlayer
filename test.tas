@@ -1,22 +1,37 @@
-# TODOS:
-# fast berries where collect is guaranteed
-# progress 1up multickeckpoint files
-
 ## Mess Orders
 # 1:21.175(4775) cbt Any% Order
 # 1:24.048(4944) bct
 # 1:24.405(4965) tbc no heart
 # 1:25.289(5017) tcb
 # 1:26.462(5086) btc
-# 1:26.666(5098) tbc heart Order
+# 1:26.598(5094) ctb
+# 1:26.666(5098) tbc +heart
+
+Read, objective repository/3A-start
+Read, objective repository/3A-hugemess-cbt, Start
+Read, objective repository/3A-shaft, Start
+Read, objective repository/3A-presidentialsuite, Start
+MidwayRealTime: 3:29.516(12571)
 
 
+# Read, objective repository/3A-start-fast6-winged
+# Read, objective repository/3A-hugemess-cbt-fast5-winged, Start
+# Read, objective repository/3A-shaft-fast1, Start
+# Read, objective repository/3A-presidentialsuite-arb, Start
+# MidwayRealTime: 3:52.516(13951)
 
-read, objective repository/2A-start-progress3
-read, objective repository/2A-intervention-fast3, Start
-read, rtm, Wakeup
-
-
+# read, objective repository/3A-hugemess-cbt
+# MidwayChapterTime: 1:21.175(4775)
+# read, objective repository/3A-hugemess-bct
+# MidwayChapterTime: 1:24.048(4944)
+# read, objective repository/3A-hugemess-tbc
+# MidwayChapterTime: 1:24.405(4965)
+# read, objective repository/3A-hugemess-tcb
+# MidwayChapterTime: 1:25.289(5017)
+# read, objective repository/3A-hugemess-btc
+# MidwayChapterTime: 1:26.462(5086)
+# read, objective repository/3A-hugemess-ctb
+# MidwayChapterTime: 1:26.598(5094)
 
 # Read, EnterCP2
 # Read, objective repository/3A-hugemess-tbc-grabless-heart, RTM

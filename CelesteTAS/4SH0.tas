@@ -982,11 +982,12 @@ EndRepeat
    4,X
  135,D,X
 #Exit
+  59
+   1,J
+  30
    1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
+   1,D,J
+  33,O
   36
    6,L,Z
    1,L,J

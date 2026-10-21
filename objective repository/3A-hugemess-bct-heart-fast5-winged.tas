@@ -610,24 +610,12 @@ Read, ../CelesteTAS/3A, lvl_13-a, lvl_13-x
   76,L,D,X
    1
 #Heart
-   1,S
-   1,D
-   1,F,180
-   1,D,J
-SaveAndQuitReenter
-  36
-#Respawn
-   6,Z
-   1,L,J
-   7,L
-   1,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-   8,D,X
+  59
+   1,J
+  30
+
+   5,L,J
+  10,D,X
   40
 
 
@@ -687,4 +675,4 @@ SaveAndQuitReenter
   40
 
 #lvl_09-d
-MidwayChapterTime: 1:45.553(6209)
+MidwayChapterTime: 1:45.791(6223)

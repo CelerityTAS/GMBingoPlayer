@@ -71,11 +71,10 @@ Read, ../CelesteTAS/4SH0, lvl_b-01, lvl_b-00 (1)
 
 Read, ../CelesteTAS/4HC, lvl_b-02 (0), Exit
 #Heart
-   1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
+  59
+   1,J
+  31
+  39,O
   36
    6,R,Z
    1,L,K

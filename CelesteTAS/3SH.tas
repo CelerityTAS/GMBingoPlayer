@@ -1315,11 +1315,12 @@ Repeat,13
    1,K
 EndRepeat
 #Collect
+  59
+   1,J
+  30
    1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
+   1,D,J
+  33,O
 #Spawn
   36
   11,R,Z
