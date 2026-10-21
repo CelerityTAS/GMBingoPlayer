@@ -2,7 +2,7 @@ console load 2
    1
 
 #Start
-Read, ../CelesteTAS/2A, Start, lvl_d3
+Read,../CelesteTAS/2A,Start,lvl_d3
 #lvl_d3
    4,R
   10,R,J
@@ -43,8 +43,8 @@ Read, ../CelesteTAS/2A, Start, lvl_d3
    8,L
   40
 
-Read, ../CelesteTAS/2HC, lvl_d2, Return
+Read,../CelesteTAS/2HC,lvl_d2,Return
 #Cassette
-Read, ../CelesteTAS/2HC, Return, lvl_1
-#lvl_1
-Read, ../CelesteTAS/2A, lvl_1 (1), lvl_3
+Read,../CelesteTAS/2HC,Return,lvl_1
+#lvl_1 (1)
+Read,../CelesteTAS/2A,lvl_1 (1),lvl_3
