@@ -1,4 +1,4 @@
-play 39
+#play 39
 console load 2 lvl_end_3
    1
   36
@@ -41,12 +41,7 @@ Read, 2A-intervention, Start
 #Start
  110
 #lvl_end_0
-   1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
-  36
+  81
    4,R
    1,R,J
   14,R
