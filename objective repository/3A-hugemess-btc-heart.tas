@@ -21,11 +21,11 @@ console load 3 lvl_08-a
    7,R,U,X
   40
 
-#lvl_09-b
+#lvl_09-b (0)
    3,L
    9,J,G
   13,U,X
-Play, 3Amessstartend
+Play,3Amessstartend
 
 console load 3 4279 -20
   37
@@ -35,7 +35,7 @@ console load 3 4279 -20
   40
 #Start
 
-Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
+Read,../CelesteTAS/3A,lvl_08-a,lvl_09-b (0)
    3,L
    6,J,G
   13,U,X
@@ -160,9 +160,9 @@ Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
   13,U,X
   40
 
-#lvl_10-c
+#lvl_10-c (0)
 
-Read, ../CelesteTAS/3A, lvl_10-c (0), lvl_11-d
+Read,../CelesteTAS/3A,lvl_10-c (0),lvl_11-d
 #lvl_11-d
    4,L,D,X
    3,L,J
@@ -212,7 +212,7 @@ Read, ../CelesteTAS/3A, lvl_10-c (0), lvl_11-d
    4,L,D
   40
 
-#lvl_09-b (2)
+#lvl_09-b (1)
   13,L,D
   14,L,Z
    1,L,J
@@ -267,7 +267,7 @@ Read, ../CelesteTAS/3A, lvl_10-c (0), lvl_11-d
    6,R
   40
 
-#lvl_11-b
+#lvl_11-b (0)
   12,R
   15,R,Z
   14
@@ -291,7 +291,7 @@ Read, ../CelesteTAS/3A, lvl_10-c (0), lvl_11-d
   11,R,D,X
   40
 
-#lvl_12-b
+#lvl_12-b (0)
    3,R,D,X
    1,R,J
   14,R,D,X
@@ -306,7 +306,7 @@ Read, ../CelesteTAS/3A, lvl_10-c (0), lvl_11-d
   10,R,K,G
   40
 
-#lvl_13-b
+#lvl_13-b (0)
    6,R
    1,R,K
   11,R,J,G
@@ -336,7 +336,7 @@ Read, ../CelesteTAS/3A, lvl_10-c (0), lvl_11-d
   10,L,D,X
   40
 
-#lvl_13-a
+#lvl_13-a (0)
    2,L,D
    2,D
    3,R,J
@@ -461,7 +461,7 @@ Read,../CelesteTAS/3SH,3HC0,lvl_12-b (1)
   40
 
 
-#lvl_11-c (0)
+#lvl_11-c (1)
    9,L,K,G
    2,L,J,G
   10,L,Z
@@ -536,6 +536,7 @@ Read,../CelesteTAS/3SH,3HC0,lvl_12-b (1)
 Read,../CelesteTAS/3SH,lvl_10-x (0),lvl_11-y (0)
 
 #lvl_11-y
-Read, ../CelesteTAS/3HC, lvl_11-y, lvl_09-d
+Read,../CelesteTAS/3HC,lvl_11-y,lvl_09-b (2)
 #Order
+Read,../CelesteTAS/3HC,lvl_09-b (2),lvl_09-d
 MidwayChapterTime: 1:38.549(5797)
