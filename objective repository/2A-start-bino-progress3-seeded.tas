@@ -127,8 +127,8 @@ Read, ../CelesteTAS/2S, lvl_d2 (0), lvl_d0 (1)
 Read, ../CelesteTAS/2A, lvl_3x, lvl_3
 
 
-MidwayRealTime: 0:43.150(2589)
 # MidwayRealTime: 0:33.116(1987) no berry
 # MidwayRealTime: 0:36.200(2172) first berry 185f
 # MidwayRealTime: 0:34.283(2057) second berry 70f
 # MidwayRealTime: 0:34.000(2040) gated berry 53f
+MidwayRealTime: 0:43.150(2589)
