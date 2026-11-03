@@ -7,11 +7,7 @@ Read, 5A-depths, Start
 #Start
 #lvl_c-00
  111
-   1,S
-   1,D
-   1,F,180
-   1,D,J
-SaveAndQuitReenter
+  44
 #RTM
   36
 Read, ../CelesteTAS/5S, Unravelling, lvl_c-08b
@@ -170,5 +166,74 @@ Read, ../CelesteTAS/5S, lvl_c-08, lvl_c-11
 #lvl_c-11
 #ARB
 #19stun
-Read, ../CelesteTAS/5S, lvl_c-11, lvl_d-00
+Read, ../CelesteTAS/5S, lvl_c-11, lvl_c-13
+#lvl_c-13
+   2,R,J
+   1,R
+   1,R,J
+   1,J
+  15,R,D,X
+   2,D
+   1,J
+   1
+  15,R,D,X
+   2,D
+   1
+   1,D
+   1,R,D
+   1,R
+  16,R,J
 #20stun
+   2,L,J
+   2,K
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   4,R,J
+   1,J
+  11,R,U,X
+  18,R,J,G
+   2,R
+   2,R,D
+   5,R,J
+   5,J
+   9
+   1,R
+  15,D,X
+   7,R,D
+   2,D
+   1,R,D
+   6,D
+   5,L
+  13,L,Z
+   2,L,J
+   6,L,D,X
+   1,L,J
+   5,L
+   1,L,J
+   1,L
+  10,L,J
+   3,J
+  15,U,X
+   1,L,J,G
+   7,L
+   6,L,X
+   4,L,J
+   2,J
+   7
+   1,R,K
+   1,L,K
+   9,R,K
+   7,R
+  17,D,X
+  25,L,Z
+   1,L,D,K
+   4,X
+   6,L,J
+   7,L
+   5,L,D,K
+  15,L,U,X
+   1,L,J
+  15,U,X
+   1,J
+  40

@@ -173,6 +173,12 @@ Read, ../Grabless/G2A, lvl_end_4, lvl_end_3b
 
 #lvl_end_3cb (1)
    5,R,D
+   4,D
+   8
+   1,J
+#Winged
+#ARB
+   6,J
   15,L,D,C
   11,D
    8,R,D
@@ -236,5 +242,3 @@ Unsafe
    1,U,J
 Safe
   18
-#ARB
-#Winged

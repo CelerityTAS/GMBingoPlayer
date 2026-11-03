@@ -1,3 +1,4 @@
+play 86
 console load 2 lvl_end_3
    1
   36
@@ -79,13 +80,6 @@ Safe
    6,R,K,G
   40
 
-#lvl_end_6
-   2,R,J
-  14,R,U,X
-   1,S
-   1,D,J
-  18
-
 Play, 2Aawakeend
 
 
@@ -94,12 +88,7 @@ Read, 2A-intervention, Start
 #Start
  110
 #lvl_end_0
-   1,S
-   1,D
-   1,F,180
-   1,D,J
-SaveAndQuitReenter
-  36
+  80
 #poemCP0
    5,L,D,X
    2,R,J
@@ -112,5 +101,11 @@ SaveAndQuitReenter
 Read, ../CelesteTAS/2A, lvl_end_1, lvl_end_3
 #lvl_end_3
 #Checkpoint
-Read, ../CelesteTAS/2A, lvl_end_3
+Read, ../CelesteTAS/2A, lvl_end_3, lvl_end_6
 #2Aawakeend
+#lvl_end_6
+   2,R,J
+  14,R,U,X
+   1,S
+   1,D,J
+  18

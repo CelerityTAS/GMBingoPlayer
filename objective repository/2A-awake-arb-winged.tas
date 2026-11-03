@@ -40,7 +40,7 @@ Safe
   40
 
 
-#lvl_end_4
+#lvl_end_4 (0)
    3,R,X
    1,R,K,G
    2,R,J,G
@@ -58,7 +58,7 @@ Safe
   10,R
   40
 
-#lvl_end_3b
+#lvl_end_3b (0)
    2,R
    7,R,J
   17,R
@@ -73,18 +73,37 @@ Safe
    9,L,J
   16,U,X
   40
-Play, 2Aawakeend
+Play,2Aawakeend
 
 
-Read, 2A-start
-Read, 2A-intervention, Start
+Read,2A-start
+Read,2A-intervention,Start
 #Start
 #lvl_end_0
-Read, ../CelesteTAS/2S, lvl_end_0, lvl_end_3
+Read,../CelesteTAS/2S,lvl_end_0,lvl_end_3
 #Checkpoint
-Read, ../CelesteTAS/2S, lvl_end_3, lvl_end_3cb (0)
+Read,../CelesteTAS/2S,lvl_end_3,lvl_end_3cb (0)
 #2Aawakeend
-#lvl_end_3cb
-Read, ../CelesteTAS/2S, lvl_end_3cb (0)
+#lvl_end_3cb (0)
+Read,../CelesteTAS/2S,lvl_end_3cb (0),lvl_end_3cb (1)
+#lvl_end_3cb (1)
+   5,R,D
+   4,D
+   8
+   1,J
 #Winged
 #ARB
+   6,J
+  15,L,D,C
+  11,D
+   8,R,D
+   1,D
+   9,R,D
+   1,D
+   2
+   1,R
+   1
+  40
+
+#lvl_end_3b (1)
+Read,../CelesteTAS/2S,lvl_end_3b (1)

@@ -439,5 +439,7 @@ Read,../CelesteTAS/3SH,lvl_11-b (0),lvl_12-b (0)
   40
 
 #lvl_10-c (0)
-read,3A-hugemess-tcb,lvl_10-c (0)
+read,3A-hugemess-tcb,lvl_10-c (0),Order
+#Order
+read,3A-hugemess-tcb,Order
 MidwayChapterTime: 1:26.598(5094)

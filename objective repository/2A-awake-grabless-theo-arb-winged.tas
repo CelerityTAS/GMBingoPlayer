@@ -212,7 +212,10 @@ Read, 2A-awake-grabless, lvl_end_4, lvl_end_3b
   15,U,X
   40
 #lvl_end_3cb
-Read, 2A-awake-grabless-arb-winged, lvl_end_3cb, lvl_end_6
+Read, 2A-awake-grabless-arb-winged, lvl_end_3cb, ARB
+#ARB
+#Winged
+Read, 2A-awake-grabless-arb-winged, ARB, lvl_end_6
 #lvl_end_6
   21,R,D,C
    6,R,J
@@ -225,5 +228,3 @@ Unsafe
    1,U,J
 Safe
   18
-#ARB
-#Winged

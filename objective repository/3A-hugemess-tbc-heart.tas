@@ -21,11 +21,11 @@ console load 3 lvl_08-a
    7,R,U,X
   40
 
-#lvl_09-b
+#lvl_09-b (0)
    3,L
    9,J,G
   13,U,X
-Play, 3Amessstartend
+Play,3Amessstartend
 
 console load 3 4279 -20
   37
@@ -35,7 +35,7 @@ console load 3 4279 -20
   40
 #Start
 
-Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
+Read,../CelesteTAS/3A,lvl_08-a,lvl_09-b (0)
    3,L
    6,J,G
   13,U,X
@@ -171,9 +171,9 @@ Read, ../CelesteTAS/3A, lvl_08-a, lvl_09-b (0)
    3,R
   40
 
-#lvl_11-b
-Read, ../CelesteTAS/3SH, lvl_11-b (0), lvl_12-b (0)
-Read, ../CelesteTAS/3HC, lvl_12-b (0), lvl_12-x
+#lvl_11-b (0)
+Read,../CelesteTAS/3SH,lvl_11-b (0),lvl_12-b (0)
+Read,../CelesteTAS/3HC,lvl_12-b (0),lvl_12-x
 
 #lvl_12-x
    1,L,J
@@ -184,13 +184,40 @@ Read, ../CelesteTAS/3HC, lvl_12-b (0), lvl_12-x
    3,L,J,G
    7,L
    5,D,X
-Read, ../CelesteTAS/3SH, 3HC0, Collect
+Read,../CelesteTAS/3SH,3HC0,Collect
 #Heart
-#Collect
+  59
+   1,J
+  30
    1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
-Read, ../CelesteTAS/3HC, lvl_11-c (2), lvl_09-d
-MidwayChapterTime: 1:26.666(5098)
+   1,D,J
+  33,O
+Read,../CelesteTAS/3HC,lvl_11-c (2),lvl_10-x (1)
+#lvl_10-x (1)
+  10,R
+   9,L,J
+   9,J
+   1,K,G
+   1,L,K
+   5,L,Z
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   9,L,J
+   8,L,D,X
+ 103
+#Order
+   4,D,X
+   3,L,J
+   4,L
+   8,L,D,J
+   5,L
+  14,U,X
+  12,J
+  40
+
+#lvl_09-b (2)
+Read,../CelesteTAS/3HC,lvl_09-b (2),lvl_09-d
+
+MidwayChapterTime: 1:28.808(5224)

@@ -1,3 +1,4 @@
+play 65
 console load 2 lvl_end_3
    1
   36
@@ -64,14 +65,9 @@ Play, theo2Aawakeend
 Read, 2A-start
 Read, 2A-intervention, Start
 #Start
-#lvl_end_0
  110
-   1,S
-   1,F,180
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
-  36
+#lvl_end_0
+  80
    4,Z
    2,R,J
    8,R
@@ -218,6 +214,26 @@ EndRepeat
    9,L,J
   16,U,X
   40
-Read, ../CelesteTAS/2S, lvl_end_3cb (0)
+
+Read, ../CelesteTAS/2S, lvl_end_3cb (0), lvl_end_3cb (1)
+#lvl_end_3cb (1)
+   5,R,D
+   4,D
+   8
+   1,J
 #Winged
 #ARB
+   6,J
+  15,L,D,C
+  11,D
+   8,R,D
+   1,D
+   9,R,D
+   1,D
+   2
+   1,R
+   1
+  40
+
+#lvl_end_3b (1)
+Read,../CelesteTAS/2S,lvl_end_3b (1)
