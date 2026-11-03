@@ -10,11 +10,11 @@ console load 1 lvl_9b
    1,L,K,G
    3,L,J,G
    7,L
-Play, End
+Play,End
 
 
-Read, 1A-start
-Read, 1A-crossing, Start
+Read,1A-start
+Read,1A-crossing,Start
 #Start
    3,R
   12,R,J
@@ -41,10 +41,10 @@ Read, 1A-crossing, Start
   14,U,X
    2,J
   40
-Read, ../CelesteTAS/1SH2, lvl_10 (0)
+Read,../CelesteTAS/1SH2,lvl_10 (0)
 Unsafe
-Read, ../RTM, Menu
-Read, ../EnterCP3
+Read,../RTM,Menu
+Read,../EnterCP3
 Safe
   36
 #lvl_9b (1)
@@ -86,12 +86,98 @@ Safe
    6,L
   40
 
-#lvl_9b (1)
-  12,L,D,J
-  13,U,X
+#lvl_9b (2)
+   4,L
+   1
+   9,L,D,J
+  15,U,X
   40
 
 #lvl_10a
-Read, ../CelesteTAS/1SH0, lvl_10a
-#ARB
+Read,../CelesteTAS/1SH0,lvl_10a,lvl_12 (0)
+#lvl_12 (0)
+   7,R,J
+   1,J
+   1,R,K,G
+  20,R,J,G
+  17,U,X
+   6,R,J
+   9,L,J
+  12,G
+   4,K,G
+   1,R
+   1,J
+  16,L,K,G
+   3,L,J,G
+  15,L,X
+   3,L
+   5,R,D,X
 #Winged
+   1,L,J
+   7,L
+   3,L,J
+   5,L,D,X
+   1,L,K,G
+   8,L
+  40
+
+
+#lvl_12z
+   3,L
+   6,L,J
+   5,L
+   1,L,J
+   1,L
+   1,L,J
+  12,L
+   3,L
+  18,L,U,Z
+   8,R,J,G
+   5,R,X
+   5,R,J,G
+   6,R
+   4,R,K,G
+   9,R,J,G
+   5,R
+   1,R
+   2,R
+   1,R,J
+  12,R
+  11,R,D
+   3,R
+   1,R,D
+   1,R
+   5,R,Z
+   1,R,J
+   6,R
+  40
+
+#lvl_12 (1)
+   3,R,J
+  13,R,D,X
+   1,R,J
+   1
+   3,J
+   2,R,J
+   2,J,G
+   4,L,J
+   2,L
+  14,L,X
+#ARB
+   1,R,J
+   1,J
+   4,R,J
+   4,R
+  15,R,D,X
+  38,R,D
+   9,R,X
+   8,R,J,G
+  12,R
+   7,R,J
+  10,R,X
+  14,R,J
+   6,R,U,X
+  40
+
+#lvl_12a
+Read,../CelesteTAS/1SH0,lvl_12a
