@@ -35,7 +35,6 @@ Safe
 Play, 4ashrineend
 
 
-
 Read, 4A-start-grabless
 #Start
 #lvl_b-00
@@ -113,9 +112,6 @@ Safe
    3,R
   40
 
-#lvl_b-02
-
-#4ashrineend
 #lvl_b-02
 Read, ../Grabless/G4A, lvl_b-02, lvl_b-08
 #lvl_b-08

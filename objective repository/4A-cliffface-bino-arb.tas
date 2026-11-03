@@ -127,5 +127,15 @@ Read, 4A-oldtrail, Start
   43
 
 #lvl_d-01
-Read, ../CelesteTAS/4SH0, lvl_d-01
+Read, ../CelesteTAS/4SH0, lvl_d-01, lvl_d-10
+#lvl_d-10
+   7,R,D,X
+   1,R,J
+  15,D,X
+  15,R,Z
+  12,R,X
 #ARB
+   1,R
+   1,S
+   1,D,J
+  18

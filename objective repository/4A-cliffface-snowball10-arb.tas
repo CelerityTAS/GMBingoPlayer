@@ -208,5 +208,14 @@ EndRepeat
   40
 
 #lvl_d-03 (1)
-Read, ../CelesteTAS/4SH0, lvl_d-03
+Read, ../CelesteTAS/4SH0, lvl_d-03, lvl_d-10
+#lvl_d-10
+   7,R,D,X
+   1,R,J
+  15,R,Z
+   7,R,X
 #ARB
+   3,R,J
+   1,S
+   1,D,J
+  18
