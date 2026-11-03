@@ -1,3 +1,9 @@
+#0:37.536(2208) berry2 vs 0:29.053(1709)
+#0:39.746(2338) berry3 vs 0:35.411(2083)
+#0:44.523(2619) berry4
+#0:49.623(2919) berry5
+#0:53.890(3170) berry6
+#0:58.344(3432) berry7
 console load 5
    1
 
@@ -45,9 +51,3 @@ EndRepeat
 Read, ../CelesteTAS/5S, lvl_b-00 (0), Exit
 Read, ../RTM, WalkinCheckpoint
 Read, ../EnterCP2
-#0:37.536(2208) berry2 vs 0:29.053(1709)
-#0:39.746(2338) berry3 vs 0:35.411(2083)
-#0:44.523(2619) berry4
-#0:49.623(2919) berry5
-#0:53.890(3170) berry6
-#0:58.344(3432) berry7
