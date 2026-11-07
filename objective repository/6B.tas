@@ -4,8 +4,10 @@ console hard 6
 Read, ../CelesteTAS/6B, Start, lvl_c-00
 #lvl_c-00
 #Rock Bottom
+MidwayChapterTime: 1:38.600(5800)
 Read, ../CelesteTAS/6B, lvl_c-00
    1,S
    1,U,J
    1,O
   31
+ChapterTime: 3:13.953(11409)
