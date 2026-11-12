@@ -215,9 +215,9 @@ EndRepeat
   15,U,X
    5,R,J
   11,R
-   2,R,J
-  14,U,X
-  11,L,J
+  17,J
+  15,U,X
+   5,R
    1,S
 Unsafe
    1,D
@@ -228,6 +228,6 @@ Unsafe
    1,J,F,
    9,J
 Safe
-   1,L,J
+   1,R
   40
 AnalogMode,Ignore
