@@ -10,6 +10,17 @@ console load 1 lvl_6
    2,L,J,G
    7,L
 Read, ../objective repository/1A-crossing-heart-fast4-collect, End, lvl_6a
+Play lvl_6a
+
+console load 1
+   1
+
+Read, ../objective repository/1A-start, Start
+#Start
+#lvl_6
+Read, ../objective repository/1A-crossing-heart-fast4-collect, Start, lvl_6a
+
+#lvl_6a
   13,L
 #Berry1
    6,L
@@ -133,169 +144,3 @@ Read, ../CelesteTAS/1SH0, Exit, lvl_9
    3,R
    1,R,J
   40
-Play, End
-
-console load 1
-   1
-
-Read, ../objective repository/1A-start, Start
-#Start
-#lvl_6
-Read, ../objective repository/1A-crossing-fast7-1up, Start, End
-   4,J
-  14,L,D,X
-   1,R,J
-  14,R,U,X
-   1,R,K,G
-  16,R
-   5,L,D
-  13,R,D
-   3,R
-   2,R,D
-   2,R
-  14,R,Z
-   3,R,J
-   3,R
-  10,R,D,X
-   5,R,K
-  11,R
-  10,R,U,Z
-   1,L
-   1,J
-   9,K,G
-   1
-   5,R,K
-   1,R
-   1,R
-   2,R,J
-   5,R,V
-   1,R,J
-   2
-  40
-#lvl_6a
-  13,L
-#Berry1Start
-   6,L
-  11,L,D
-   5,R,D
-   2,R
-  18,R,D,C
-   8,R,K
-  10,U,X
-  25,R,J
-  14,R,Z
-   8,R,J
-   1,R
-   1,R,J
-   2,R
-  17,R,J
-   3,J
-  20,R,U,X
-  40
-Read, ../CelesteTAS/1SH0, lvl_6b (0), lvl_s1
-#lvl_s1
-   5,L
-  10,L,D,J
-   5,L
-   3,L,J
-   1,L
-  15,U,X
-   1,J,G
-   5,L
-   1
-   2,R
-  14,L,Z
-   2,R,J
-   5,R,D,X
-   7,L,J
-  17,L,D
-   5,D
-   1
-   2,D
-   5,R,U,X
-   1,J,G
-   1,R
-   1
-   1,R
-   2
-   1,R
-   3,L
-   5,L,X
-  11,L,J
-   3,L
-   1,K,G
-   1,R
-   1,L,J,G
-   2,L,K,G
-   1,L,J,G
-   1,L,K,G
-  14,L
-   6,L,U,X
-   1,S
-   1,D,J
-  69,O
-  10,L,Z
-   6,L,J
-  15,L,D,X
-   7,L,J
-   4,L,K,G
-  15,D,X
-  23,L,D
-   4
-   1,D
-  27,L,Z
-#Berry2Start
-   1,L,Z
-   1,L,J
-  27,L,D,X
-  59,L,J
-#HeartStart
-Read, ../CelesteTAS/1SH0, Exit, lvl_9
-#lvl_9
-  16,J
-   1,R,K,G
-   8,R,G
-   2,J,G
-  12,R,D,X
-   1,R,J
-   4,L,J
-   1,R,J
-   1,L
-   1,L,K,G
-   1,L
-   1,J,G
-   1,L,K,G
-  11,R,K
-   1,J
-   3,K
-   1,J
-   2,L,J
-   3,K,G
-   1,R,K
-   1,J
-  15,L,U,Z
-  11,R,J,G
-   7,R
-   9
-#Berry3Start
-  17
-#Berry4Start
-  17
-#Berry5Start
-  17
-#Berry6Start
-  17
-#Berry7Start
-  15
-   4,Z
-   1,R,J
-#Berry8Start
-#1UPStart
-  12,R
-   1,R,J
-   7,R,D,X
-   1,R,J
-   3,R
-   1,R,J
-  40
-#End
