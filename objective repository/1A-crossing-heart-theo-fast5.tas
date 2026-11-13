@@ -1,12 +1,14 @@
-#play 9
 console load 1 lvl_6
    1
 
 #RTM
-Read, ../CelesteTAS/1SH1, Start, lvl_7zb
-play lvl_7zb
+Read, ../CelesteTAS/1SH1, Start, lvl_6z
+Play, lvl_6z
 
-Read, ../objective repository/1A-start
+console load 1
+   1
+
+Read, ../objective repository/1A-start, Start
 #Start
 #lvl_6
 Read, ../objective repository/1A-crossing-heart-theo-arb-1up, Start, lvl_6z
@@ -14,6 +16,7 @@ Read, ../objective repository/1A-crossing-heart-theo-arb-1up, Start, lvl_6z
 Read, ../CelesteTAS/1SH1, lvl_6z, lvl_7zb
 #lvl_7zb
 Read, ../objective repository/1A-crossing-heart-theo-arb-1up, lvl_7zb, lvl_6zb
+#lvl_6zb
    3,R,D
    5,J
    4
@@ -36,6 +39,7 @@ EndRepeat
 #TheoEnd
    4
 Read, ../objective repository/1A-crossing-heart-theo-arb-1up, TheoEnd, lvl_6a
+#lvl_6a
   13,L
 #Berry2
    6,L
