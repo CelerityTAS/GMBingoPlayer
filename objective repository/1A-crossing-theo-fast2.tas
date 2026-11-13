@@ -1,0 +1,86 @@
+console load 1 lvl_6
+   1
+
+#RTM
+Read, ../CelesteTAS/1SH1, Start, lvl_6z
+Play, End
+
+console load 1
+   1
+
+Read, ../objective repository/1A-start, Start
+#Start
+#lvl_6
+Read, ../objective repository/1A-crossing-heart-theo, Start, End
+   6,R,D,X
+   1,L,J
+   7,L
+   1,L,J
+   5,L,D,X
+  43
+#End
+Read, ../objective repository/1A-crossing-heart-theo, lvl_6z (0), lvl_6zb
+#lvl_6zb
+   1
+   1,L,J
+  14,L,D,X
+   3,J
+  15,L,D,X
+   9,D
+   1,N
+#Theo
+  30
+Repeat, 285
+   1,J
+   1,N
+EndRepeat
+  18
+#TheoEnd
+   2
+Read, ../objective repository/1A-crossing-heart-theo, TheoEnd, lvl_6 (2)
+#lvl_6 (2)
+  10,R
+Read, ../CelesteTAS/1A, top-hyper, lvl_6a
+#lvl_6a
+Read, ../CelesteTAS/1A, lvl_6a, lvl_8b
+#lvl_8b
+Read, ../CelesteTAS/1SH0, lvl_8b, lvl_9
+#lvl_9
+  16,J
+   1,R,K,G
+   8,R,G
+   2,J,G
+  12,R,D,X
+   1,R,J
+   4,L,J
+   1,R,J
+   1,L
+   1,L,K,G
+   1,L
+   1,J,G
+   1,L,K,G
+  11,R,K
+   1,J
+   3,K
+   1,J
+   2,L,J
+   3,K,G
+   1,R,K
+   1,J
+  15,L,U,Z
+  11,R,J,G
+   7,R
+   9
+#Berry1
+  17
+#Berry2
+   1
+   4,Z
+   1,R,J
+  12,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+  40
