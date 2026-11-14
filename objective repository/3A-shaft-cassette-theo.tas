@@ -21,7 +21,9 @@ console load 3 lvl_09-d
    7,R
    4,Z
    1,R,J
-  18,R,D
+   1,D
+  10,R,D
+   8,D
   30
 Play, talktheoelevator
 
@@ -62,8 +64,8 @@ console load 3 4705.4 -287
    8,R
    4,Z
    1,R,J
-  14,R,D
-   4,D
+   8,R,D
+  10,D
   29
 
 #talktheoelevator
@@ -74,7 +76,7 @@ Repeat, 250
    1,J
    1,O
 EndRepeat
- 104
+  91
 #TheoEnd
 #Complete
   10,L,X

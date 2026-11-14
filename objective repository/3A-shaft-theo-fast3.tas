@@ -1,3 +1,4 @@
+play 32
 console load 3 lvl_09-d
    1
 
@@ -21,8 +22,11 @@ console load 3 lvl_09-d
    7,R
    4,Z
    1,R,J
-  18,R,D
-  30
+   1,D
+  10,R,D
+   8,D
+  29
+   1,R
 Play, talktheoelevator
 
 console load 3 4705.4 -287
@@ -62,8 +66,8 @@ console load 3 4705.4 -287
    8,R
    4,Z
    1,R,J
-  14,R,D
-   4,D
+   8,R,D
+  10,D
   29
 
 #talktheoelevator
@@ -74,7 +78,7 @@ Repeat, 250
    1,J
    1,O
 EndRepeat
- 104
+  90
 #TheoEnd
 #Complete
   10,L,X
@@ -94,6 +98,7 @@ EndRepeat
   21,L,D,X
   40
 
+#lvl_08-d
 #3Ashaftstartend
 Read,../CelesteTAS/3SH,lvl_08-d,lvl_04-c (1)
 #lvl_04-c (1)
