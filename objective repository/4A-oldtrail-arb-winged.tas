@@ -68,11 +68,13 @@ Read, 4A-shrine, Start
 
 #lvl_c-00 (1)
 Read, ../CelesteTAS/4SH0, lvl_c-00 (1), lvl_d-00
-   1,L,K
+#lvl_d-00
+   1,K
   10,L
-  15,L,X
-  15,D,C
-   4,R
-  15
+  23,L
+   5
+   1,L
+   1,R
+  13
 #ARB
    1

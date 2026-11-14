@@ -1,9 +1,13 @@
+play 7
+console load 4 lvl_d-00
+   1
+#RTM
+  36
+Play, Start
 Read, 4A-start
 Read, 4A-shrine, Start
 Read, 4A-oldtrail, Start
 #Start
-#RTM
-  36
 #lvl_d-00
   14,Z
    1,R,J

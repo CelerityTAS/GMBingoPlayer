@@ -151,11 +151,10 @@ Read, ../CelesteTAS/4A, lvl_c-02, 4AG
 #lvl_c-09
 Read, ../CelesteTAS/4A, lvl_c-09, lvl_d-00
 #lvl_d-00
-   1,R,K,G
-   9,L
-   4
-   1,D
-   1,L
-   1,R
-   4
-MidwayRealTime: 0:38.450(2307)
+   1,K,G
+   2,L
+   3,R
+   1,R,K
+   5,R
+   2
+MidwayRealTime: 0:38.333(2300)

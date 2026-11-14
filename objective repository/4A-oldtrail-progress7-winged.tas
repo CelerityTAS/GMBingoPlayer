@@ -323,13 +323,11 @@ Read,../CelesteTAS/4SH0,lvl_c-02,lvl_c-04
 
 #lvl_c-06 (1)
 Read,../CelesteTAS/4SH0,lvl_c-06 (1),lvl_d-00
-
 #lvl_d-00
    1,K
-  10
-  10,L,X
-   1,J
-   4
-  15,U,X
-   1,L
-   2
+  10,L
+   2,L,K
+   1,K
+   4,L,K
+  13,L
+   8
