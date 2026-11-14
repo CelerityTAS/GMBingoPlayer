@@ -1,0 +1,106 @@
+console load 1
+   1
+
+#Start
+Read, ../objective repository/1A-start-grabless-fast4-winged, Start, lvl_3
+#lvl_3
+  10
+   8,R
+  15,R,U,X
+   3
+   2,R
+   1
+   9,R,K
+   6,R
+   3,R,K
+   5,R
+  15,L,D,X
+   6,L,D,C
+#Berry1
+   4,L,D,C
+   3,R,J
+   1,R
+   3,R,J
+   1,R
+   6,R,J
+   8,R
+   1
+   4,R
+  15,R,U,X
+   7,R
+   1,K
+  21,R,K
+   1,J
+   7,L,J
+   1,L
+   7,R
+  10,R,J
+  15,U,X
+  40
+#lvl_4
+  10,L,J
+   1,L
+  15,U,X
+   6,R,J
+  11,R
+  11,R,Z
+   1,R,J
+#Berry2
+   2,R,J
+   1,R
+  11,R,J
+  14,U,X
+  10,R,J
+  40
+#lvl_3b
+  18
+  17,R
+   6,R,J
+   9,R
+  20,R,J
+   5,R
+  12,U,X
+  14,R,J
+   8,R
+   1,R,J
+   3,R
+   3,R,J
+   9
+   1,R
+   1,D,X
+#Berry3
+#Winged
+   3,D,X
+Read, ../objective repository/1A-start-grabless-winged, Winged, lvl_5
+#lvl_5
+  11,R
+  20,R,X
+  15,D,C
+   2,R
+  10
+   1,D,X
+   4,L,X
+   1,R,J
+   8,R
+  10,R,J
+  12,R
+   1,D,X
+  15,R,X
+  12
+   3,L
+  19,U,X
+   1,R,J
+   2,J
+   6,R,J
+   1,S
+Unsafe
+   1,D
+   1,J,F,180
+   1,L
+   1,X
+   1,U
+   1,J,F,
+   9
+Safe
+   1,K
+  43
