@@ -239,3 +239,4 @@ EndRepeat
 #1UP
 Read, ../RTM, Immediate
 Read, ../EnterCP2
+  36

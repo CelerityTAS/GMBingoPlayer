@@ -1,9 +1,10 @@
 console load 5 b-00
    1
-
-#Start
 #RTM
   36
+Play,Start
+Read,5A-start
+#Start
    2,R,J
    4,J
    1,R,J
@@ -74,12 +75,12 @@ console load 5 b-00
    7,K
   40
 
-#lvl_b-20
+#lvl_b-20 (0)
 Read,../CelesteTAS/5S,lvl_b-20 (2),lvl_b-01 (4)
 #lvl_b-01 (1)
 #Winged
 Read,../CelesteTAS/5S,lvl_b-01 (4),lvl_b-01b
 #lvl_b-01b
-Read, ../CelesteTAS/5A, lvl_b-01b, lvl_b-16
+Read,../CelesteTAS/5A,lvl_b-01b,lvl_b-16
 #lvl_b-16
-Read, ../CelesteTAS/5S, lvl_b-16, lvl_c-00
+Read,../CelesteTAS/5S,lvl_b-16,lvl_c-00

@@ -1,9 +1,11 @@
+play 7
 console load 5 b-00
    1
-
-#Start
 #RTM
   36
+Play, Start
+Read, 5A-start
+#Start
    2,R,J
    4,J
    1,R,J

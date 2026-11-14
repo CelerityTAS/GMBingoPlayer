@@ -1,12 +1,10 @@
-console load 5 b-00
-   1
+Read,5A-start
 #Start
-  36
    1,S
    1,F,
    1,U
    1,J,F,
-SaveAndQuitReenter
+saveandQuitReenter
 #RTM
   36
 Unsafe

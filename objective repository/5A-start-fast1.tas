@@ -7,6 +7,10 @@ Read, ../CelesteTAS/5A, Start, lvl_a-00c
 Read, ../CelesteTAS/5S, lvl_a-00c, lvl_a-08 (0)
 #lvl_a-08
 Read, ../CelesteTAS/5A, lvl_a-08 (0), lvl_b-00
-   1,S
-   1,D,J
-  33,O
+#lvl_b-00
+   5,R,U,X
+   1,K
+   4,L,D
+  15,L,D,X
+   4,R
+   4

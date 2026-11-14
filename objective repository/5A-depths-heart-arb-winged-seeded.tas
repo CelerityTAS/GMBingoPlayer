@@ -1,9 +1,12 @@
+play 7
 console load 5 b-00
    1
-
-#Start
 #RTM
-Read,../CelesteTAS/5S,Depths,lvl_b-17 (0)
+  36
+Play,Start
+Read,5A-start
+#Start
+Read,../CelesteTAS/5S,lvl_b-00 (1),lvl_b-17 (0)
 
 #lvl_b-17 (0)
    8,R,D,X

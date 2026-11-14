@@ -3,6 +3,10 @@ console load 5
 
 #Start
 Read, ../CelesteTAS/5A, Start, lvl_b-00
-   1,S
-   1,D,J
-  33,O
+#lvl_b-00
+   5,R,U,X
+   1,K
+   4,L,D
+  15,L,D,X
+   4,R
+   4

@@ -1,9 +1,13 @@
+play 7
 console load 5 b-00
    1
-
-#Start
 #RTM
-Read,../CelesteTAS/5SHC,lvl_b-00 (1),lvl_b-22
+  36
+Play,Start
+Read,5A-start
+#Start
+Read,../CelesteTAS/5S,lvl_b-00 (1),lvl_b-20 (0)
+Read,../CelesteTAS/5SHC,lvl_b-20 (0),lvl_b-22
 #lvl_b-22
    2,R,J
   13,U,X
@@ -33,7 +37,7 @@ Read,../CelesteTAS/5SHC,lvl_b-00 (1),lvl_b-22
    5,L,D,X
   40
 
-#lvl_b-17 (1)
+#lvl_b-17 (3)
 Read,../CelesteTAS/5HC,lvl_b-17 (1),lvl_b-13 (1)
 #lvl_b-13 (3)
 Read,../CelesteTAS/5SHC,lvl_b-13 (3),lvl_b-12
