@@ -1,4 +1,7 @@
-play 65
+Invoke, SaveData.Flags.Clear
+Invoke, SaveData.Flags.Add, MetTheo
+Invoke, SaveData.Flags.Add, TheoKnowsName
+#play 67
 console load 2 lvl_end_3
    1
   36
@@ -46,11 +49,12 @@ Safe
    1,X
 #Theo
   10
-Repeat, 300
+Repeat, 490
    1,J
    1,O
 EndRepeat
-   6
+   7
+#0:21.182(1246)
 #TheoEnd
    1,S
    1,D,J
@@ -109,7 +113,6 @@ Read, 2A-intervention, Start
   14,R,D
    2,R,J
   40
-
 #lvl_end_2 (1)
    1,J
   13,R,J
@@ -120,11 +123,11 @@ Read, 2A-intervention, Start
    1,N
 #TheoStart
   10
-Repeat, 500
+Repeat, 501
    1,J
    1,O
 EndRepeat
-   6
+   3
 #TheoEndStart
    1,S
    1,D,J
